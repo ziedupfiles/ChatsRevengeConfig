@@ -1,58 +1,128 @@
 {
   "products": {
-    "Lethal Company": {
-      "Spawn Mine": {
-        "id": "lethalcompany_spawnMine",
+    "Monitor": {
+      "Turn off": {
+        "id": "monitor",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Blur": {
+        "id": "blur",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Rotate": {
+        "id": "rotate",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Remove monitor effect": {
+        "id": "cancel_monitor",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "1"
+            "price": "300"
+          }
+        ]
+      }
+    },
+    "Sound": {
+      "Play": {
+        "id": "playsound",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      }
+    },
+    "Timeout": {
+      "Create timeout": {
+        "id": "timeout",
+        "unique": false,
+        "disabled": false,
+        "input": true,
+        "variants": [
+          {
+            "duration": "3",
+            "price": "100"
           }
         ]
       },
+      "Remove timeout": {
+        "id": "untimeout",
+        "unique": true,
+        "disabled": true,
+        "input": true,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      }
+    },
+    "Lethal Company": {
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "1"
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Mine": {
+        "id": "lethalcompany_spawnMine",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
           }
         ]
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "4400"
+            "price": "300"
           }
         ]
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -64,7 +134,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -76,7 +146,7 @@
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -88,7 +158,7 @@
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -330,81 +400,6 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
-    "Monitor": {
-      "Turn off": {
-        "id": "monitor",
-        "unique": false,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": "1",
-            "price": "100"
-          }
-        ]
-      },
-      "Remove monitor effect": {
-        "id": "cancel_monitor",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": 1
-          }
-        ]
-      },
-      "Blur": {
-        "id": "blur",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Rotate": {
-        "id": "rotate",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      }
-    },
-    "Timeout": {
-      "Create timeout": {
-        "id": "timeout",
-        "unique": false,
-        "disabled": false,
-        "input": true,
-        "variants": [
-          {
-            "duration": "1",
-            "price": "100"
-          }
-        ]
-      },
-      "Remove timeout": {
-        "id": "untimeout",
-        "unique": true,
-        "disabled": true,
-        "input": true,
         "variants": [
           {
             "duration": null,
