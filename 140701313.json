@@ -27,7 +27,7 @@
         "input": false,
         "variants": [
           {
-            "duration": "5",
+            "duration": "1",
             "price": "100"
           }
         ]
@@ -35,7 +35,7 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
