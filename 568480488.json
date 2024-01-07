@@ -9,6 +9,14 @@
           {
             "duration": "5",
             "price": "1"
+          },
+          {
+            "duration": "1",
+            "price": "100"
+          },
+          {
+            "duration": "1",
+            "price": "100"
           }
         ],
         "id": "monitor"
