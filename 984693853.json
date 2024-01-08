@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "duration": "100",
+            "duration": "20",
             "price": 1
           }
         ]
@@ -20,7 +20,7 @@
         "input": false,
         "variants": [
           {
-            "duration": "100",
+            "duration": "20",
             "price": 1
           }
         ]
@@ -32,7 +32,7 @@
         "input": false,
         "variants": [
           {
-            "duration": "100",
+            "duration": "20",
             "price": 1
           }
         ]
@@ -419,7 +419,7 @@
       }
     }
   },
-  "SoundUrl": null,
+  "SoundUrl": "https://www.youtube.com/watch?v=lLxAbevUyIQ",
   "specielKeyList": {
     "ArrowKeys": false,
     "F_Keys": false,
