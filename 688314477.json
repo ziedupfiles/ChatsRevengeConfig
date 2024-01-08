@@ -65,7 +65,7 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
