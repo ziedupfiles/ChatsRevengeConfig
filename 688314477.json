@@ -4,26 +4,16 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": "5",
-            "price": "100"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": "5",
-            "price": "100"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
@@ -65,7 +55,7 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
