@@ -4,23 +4,38 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": "1",
+            "price": "1"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": "1",
+            "price": "100"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": "1",
+            "price": "100"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
