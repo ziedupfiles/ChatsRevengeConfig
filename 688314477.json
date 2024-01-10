@@ -158,7 +158,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       },
@@ -213,7 +213,7 @@
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -225,7 +225,7 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -237,7 +237,7 @@
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -249,7 +249,7 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -261,7 +261,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -273,7 +273,7 @@
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -302,7 +302,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -314,7 +314,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -338,7 +338,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "200"
           }
         ]
       },
@@ -350,7 +350,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -362,7 +362,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "200"
           }
         ]
       },
@@ -374,7 +374,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "200"
           }
         ]
       },
@@ -386,7 +386,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "200"
           }
         ]
       },
