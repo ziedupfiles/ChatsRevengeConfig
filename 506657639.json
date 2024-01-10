@@ -129,7 +129,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
