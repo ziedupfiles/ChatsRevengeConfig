@@ -9,16 +9,21 @@
         "variants": [
           {
             "duration": "3",
-            "price": "50"
+            "price": "100"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": "1",
+            "price": "100"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
