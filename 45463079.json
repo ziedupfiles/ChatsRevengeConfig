@@ -4,38 +4,23 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": "10",
-            "price": "100"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": "10",
-            "price": "100"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": "10",
-            "price": "100"
-          }
-        ]
+        "variants": []
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -70,7 +55,7 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
@@ -173,7 +158,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
@@ -353,7 +338,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
@@ -365,7 +350,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
@@ -389,7 +374,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
@@ -401,7 +386,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
