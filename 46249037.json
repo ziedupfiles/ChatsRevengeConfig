@@ -6,7 +6,20 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": "1",
+            "price": "100"
+          },
+          {
+            "duration": "1",
+            "price": "100"
+          },
+          {
+            "duration": "1",
+            "price": "100"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
