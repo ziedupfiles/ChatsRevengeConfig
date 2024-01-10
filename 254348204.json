@@ -153,7 +153,7 @@
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
