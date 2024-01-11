@@ -21,35 +21,7 @@
         "variants": [
           {
             "duration": "1",
-            "price": "10"
-          },
-          {
-            "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
-          },
-          {
-            "duration": "1",
-            "price": "100"
+            "price": "1"
           }
         ]
       },
@@ -117,7 +89,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1"
           }
         ]
       },
@@ -136,12 +108,12 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1"
           }
         ]
       },
@@ -376,24 +348,24 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1"
           }
         ]
       },
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1"
           }
         ]
       },
