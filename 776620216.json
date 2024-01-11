@@ -98,7 +98,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -110,7 +110,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -146,7 +146,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "800"
           }
         ]
       },
@@ -170,7 +170,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -182,7 +182,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -194,7 +194,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -206,7 +206,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
@@ -290,7 +290,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -314,7 +314,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "350"
+            "price": "200"
           }
         ]
       },
