@@ -69,12 +69,12 @@
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -86,7 +86,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -98,7 +98,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -110,7 +110,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
@@ -122,7 +122,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
@@ -134,7 +134,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -146,7 +146,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "2500"
           }
         ]
       },
@@ -158,7 +158,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -218,7 +218,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -230,7 +230,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -242,7 +242,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -254,7 +254,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "2000"
           }
         ]
       },
@@ -266,7 +266,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -278,7 +278,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -302,7 +302,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
@@ -314,7 +314,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
@@ -326,7 +326,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -338,7 +338,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1200"
           }
         ]
       },
@@ -350,7 +350,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
@@ -362,7 +362,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "900"
           }
         ]
       },
@@ -374,7 +374,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -386,7 +386,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -398,7 +398,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       }
