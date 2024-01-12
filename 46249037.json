@@ -361,18 +361,6 @@
           }
         ]
       },
-      "Revive Player": {
-        "id": "lethalcompany_revive",
-        "unique": true,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
@@ -397,7 +385,19 @@
           }
         ]
       },
-      "Spawn Bees": {
+      "Revive All Players": {
+        "id": "lethalcompany_revive",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": 1
+          }
+        ]
+      },
+      "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
         "disabled": false,
@@ -405,7 +405,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1"
+            "price": 1
           }
         ]
       }
