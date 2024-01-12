@@ -93,24 +93,24 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -129,7 +129,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -333,19 +333,19 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "800"
           }
         ]
       },
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -357,31 +357,31 @@
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       },
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "700"
+            "price": "600"
           }
         ]
       },
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
