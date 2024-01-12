@@ -477,7 +477,7 @@
       "Charge Battery": {
         "id": "lethalcompany_chargeBattey",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -489,7 +489,7 @@
       "Drain Battery": {
         "id": "lethalcompany_drainBattey",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
