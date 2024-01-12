@@ -345,7 +345,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -357,7 +357,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -369,43 +369,43 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       }
