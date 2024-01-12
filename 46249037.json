@@ -400,7 +400,7 @@
       "Spawn Bees": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -412,7 +412,7 @@
       "Charge Battery": {
         "id": "lethalcompany_chargeBattey",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
