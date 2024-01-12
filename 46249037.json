@@ -1,70 +1,5 @@
 {
   "products": {
-    "Monitor": {
-      "Turn off": {
-        "id": "monitor",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Blur": {
-        "id": "blur",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Rotate": {
-        "id": "rotate",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Remove monitor effect": {
-        "id": "cancel_monitor",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      }
-    },
-    "Timeout": {
-      "Create timeout": {
-        "id": "timeout",
-        "unique": false,
-        "disabled": true,
-        "input": true,
-        "variants": []
-      },
-      "Remove timeout": {
-        "id": "untimeout",
-        "unique": true,
-        "disabled": true,
-        "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
     "Lethal Company": {
       "Teleport": {
         "id": "lethalcompany_teleport",
@@ -393,7 +328,7 @@
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -405,7 +340,7 @@
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -417,7 +352,7 @@
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -429,7 +364,7 @@
       "Revive Player": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -441,7 +376,7 @@
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -453,7 +388,7 @@
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -465,7 +400,7 @@
       "Spawn Bees": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -477,7 +412,7 @@
       "Charge Battery": {
         "id": "lethalcompany_chargeBattey",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -489,7 +424,7 @@
       "Drain Battery": {
         "id": "lethalcompany_drainBattey",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
