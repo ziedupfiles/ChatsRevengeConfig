@@ -122,7 +122,7 @@
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -146,7 +146,7 @@
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -433,102 +433,6 @@
       },
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Teleport to Ship": {
-        "id": "lethalcompany_teleportShip",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Leave Early": {
-        "id": "lethalcompany_leaveEarly",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Revive Player": {
-        "id": "lethalcompany_revive",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Meet Quota": {
-        "id": "lethalcompany_meetQuota",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Spawn Dog": {
-        "id": "lethalcompany_spawnDog",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Spawn Bees": {
-        "id": "lethalcompany_spawnBees",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Charge Battery": {
-        "id": "lethalcompany_chargeBattey",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Drain Battery": {
-        "id": "lethalcompany_drainBattey",
         "unique": true,
         "disabled": true,
         "input": false,
