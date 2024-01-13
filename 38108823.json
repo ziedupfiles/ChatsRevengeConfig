@@ -1,70 +1,5 @@
 {
   "products": {
-    "Monitor": {
-      "Turn off": {
-        "id": "monitor",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Blur": {
-        "id": "blur",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Rotate": {
-        "id": "rotate",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Remove monitor effect": {
-        "id": "cancel_monitor",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      }
-    },
-    "Timeout": {
-      "Create timeout": {
-        "id": "timeout",
-        "unique": false,
-        "disabled": true,
-        "input": true,
-        "variants": []
-      },
-      "Remove timeout": {
-        "id": "untimeout",
-        "unique": true,
-        "disabled": true,
-        "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
     "Lethal Company": {
       "Teleport": {
         "id": "lethalcompany_teleport",
@@ -177,7 +112,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -399,6 +334,78 @@
           {
             "duration": null,
             "price": "100"
+          }
+        ]
+      },
+      "Teleport to Ship": {
+        "id": "lethalcompany_teleportShip",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Leave Early": {
+        "id": "lethalcompany_leaveEarly",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Revive All Players": {
+        "id": "lethalcompany_revive",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Meet Quota": {
+        "id": "lethalcompany_meetQuota",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Dog": {
+        "id": "lethalcompany_spawnDog",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Bee Hive": {
+        "id": "lethalcompany_spawnBees",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
           }
         ]
       }
