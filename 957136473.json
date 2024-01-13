@@ -220,7 +220,7 @@
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
