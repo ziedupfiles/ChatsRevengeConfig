@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "100"
           }
         ]
       },
@@ -21,19 +21,19 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "2500"
           }
         ]
       },
@@ -69,7 +69,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "2500"
           }
         ]
       },
@@ -81,7 +81,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "2000"
           }
         ]
       },
@@ -93,7 +93,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "2500"
           }
         ]
       },
@@ -105,7 +105,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "50"
           }
         ]
       },
@@ -117,7 +117,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -129,7 +129,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "700"
+            "price": "200"
           }
         ]
       },
@@ -141,55 +141,55 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -201,7 +201,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -213,7 +213,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -225,7 +225,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "750"
           }
         ]
       },
@@ -237,7 +237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -249,7 +249,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -261,14 +261,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "750"
           }
         ]
       },
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -280,24 +280,24 @@
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
       "Destroy Current Item": {
         "id": "lethalcompany_destroyCurrentItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -309,7 +309,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
@@ -328,43 +328,43 @@
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -376,24 +376,24 @@
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
