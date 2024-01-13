@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -33,7 +33,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -45,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
@@ -69,7 +69,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -81,26 +81,26 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "50"
           }
         ]
       },
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -112,7 +112,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -129,7 +129,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "800"
           }
         ]
       },
@@ -141,7 +141,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "50"
           }
         ]
       },
@@ -153,7 +153,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -165,7 +165,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -177,7 +177,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -189,14 +189,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -208,7 +208,7 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -220,7 +220,7 @@
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -244,7 +244,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -256,7 +256,7 @@
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -273,7 +273,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -285,7 +285,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "800"
           }
         ]
       },
@@ -297,7 +297,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -309,7 +309,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -345,7 +345,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -357,7 +357,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -369,7 +369,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -381,7 +381,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "300"
           }
         ]
       },
@@ -393,7 +393,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "350"
+            "price": "300"
           }
         ]
       },
@@ -405,7 +405,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       }
