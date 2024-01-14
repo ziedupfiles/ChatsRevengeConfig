@@ -280,7 +280,7 @@
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -292,7 +292,7 @@
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
