@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "100"
           }
         ]
       },
@@ -21,14 +21,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "200"
           }
         ]
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -256,7 +256,7 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -340,7 +340,7 @@
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -352,24 +352,24 @@
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "2500"
+            "price": "300"
           }
         ]
       },
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -388,7 +388,7 @@
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -400,7 +400,7 @@
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
