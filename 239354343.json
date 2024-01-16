@@ -280,7 +280,7 @@
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
