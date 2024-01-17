@@ -1,70 +1,5 @@
 {
   "products": {
-    "Monitor": {
-      "Turn off": {
-        "id": "monitor",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Blur": {
-        "id": "blur",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Rotate": {
-        "id": "rotate",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Remove monitor effect": {
-        "id": "cancel_monitor",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      }
-    },
-    "Timeout": {
-      "Create timeout": {
-        "id": "timeout",
-        "unique": false,
-        "disabled": true,
-        "input": true,
-        "variants": []
-      },
-      "Remove timeout": {
-        "id": "untimeout",
-        "unique": true,
-        "disabled": true,
-        "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
     "Lethal Company": {
       "Teleport": {
         "id": "lethalcompany_teleport",
@@ -86,7 +21,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -98,7 +33,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
@@ -110,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -134,7 +69,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "200"
           }
         ]
       },
@@ -218,7 +153,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -230,7 +165,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -242,7 +177,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -254,7 +189,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -266,7 +201,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -290,7 +225,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -321,7 +256,7 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -333,7 +268,7 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -345,7 +280,7 @@
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -357,7 +292,7 @@
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -369,7 +304,7 @@
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -381,7 +316,7 @@
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -393,12 +328,84 @@
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300"
+          }
+        ]
+      },
+      "Teleport to Ship": {
+        "id": "lethalcompany_teleportShip",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Leave Early": {
+        "id": "lethalcompany_leaveEarly",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Revive All Players": {
+        "id": "lethalcompany_revive",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Meet Quota": {
+        "id": "lethalcompany_meetQuota",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn Dog": {
+        "id": "lethalcompany_spawnDog",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Bee Hive": {
+        "id": "lethalcompany_spawnBees",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "200"
           }
         ]
       }
