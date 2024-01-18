@@ -33,7 +33,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "2000"
           }
         ]
       },
@@ -129,14 +129,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "5000"
           }
         ]
       },
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -201,7 +201,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "700"
           }
         ]
       },
@@ -237,7 +237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "700"
           }
         ]
       },
@@ -249,7 +249,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "700"
           }
         ]
       },
@@ -304,12 +304,12 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "2000"
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -345,7 +345,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1400"
           }
         ]
       },
@@ -357,7 +357,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1800"
           }
         ]
       },
@@ -369,7 +369,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
@@ -381,7 +381,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1700"
           }
         ]
       },
@@ -393,7 +393,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
