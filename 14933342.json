@@ -81,7 +81,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -93,7 +93,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -208,19 +208,19 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "350"
+            "price": "300"
           }
         ]
       },
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -297,7 +297,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
