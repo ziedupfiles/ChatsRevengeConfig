@@ -340,12 +340,12 @@
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -364,24 +364,24 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
