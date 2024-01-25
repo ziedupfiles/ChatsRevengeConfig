@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "400"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "400"
           }
         ]
       },
@@ -45,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "150"
           }
         ]
       },
@@ -81,7 +81,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "600"
           }
         ]
       },
@@ -93,7 +93,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "600"
           }
         ]
       },
@@ -105,7 +105,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -117,19 +117,19 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "300"
           }
         ]
       },
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "200"
           }
         ]
       },
@@ -237,7 +237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "400"
           }
         ]
       },
@@ -297,7 +297,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "400"
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "300"
           }
         ]
       },
@@ -333,7 +333,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       },
