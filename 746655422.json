@@ -4,12 +4,12 @@
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "400"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -57,7 +57,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "300"
           }
         ]
       },
@@ -81,14 +81,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "1500"
+            "price": "900"
           }
         ]
       },
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -100,7 +100,7 @@
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -112,7 +112,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -124,7 +124,7 @@
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -136,7 +136,7 @@
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -153,7 +153,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -165,7 +165,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -177,7 +177,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -189,7 +189,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "300"
           }
         ]
       },
@@ -201,7 +201,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "700"
+            "price": "600"
           }
         ]
       },
@@ -213,14 +213,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -244,7 +244,7 @@
       "Destroy Current Item": {
         "id": "lethalcompany_destroyCurrentItem",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -273,7 +273,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "2000"
+            "price": "800"
           }
         ]
       },
@@ -297,7 +297,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "400"
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "350"
           }
         ]
       },
