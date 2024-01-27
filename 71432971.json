@@ -309,7 +309,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": 1
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": 1
           }
         ]
       },
@@ -333,7 +333,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": 1
           }
         ]
       },
@@ -345,7 +345,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -364,7 +364,7 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
