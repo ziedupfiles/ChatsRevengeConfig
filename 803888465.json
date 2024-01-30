@@ -124,7 +124,7 @@
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -424,5 +424,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "WormwoodMessiah"
 }
