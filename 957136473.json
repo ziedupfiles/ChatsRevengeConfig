@@ -112,7 +112,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -124,7 +124,7 @@
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
