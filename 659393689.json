@@ -208,7 +208,7 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -232,7 +232,7 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -280,12 +280,12 @@
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
