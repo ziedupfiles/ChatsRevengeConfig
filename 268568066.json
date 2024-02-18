@@ -328,7 +328,7 @@
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
