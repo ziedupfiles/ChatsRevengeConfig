@@ -189,7 +189,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -213,7 +213,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -225,7 +225,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -237,7 +237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -249,7 +249,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -261,7 +261,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -273,7 +273,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -285,7 +285,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -297,7 +297,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -309,7 +309,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -321,7 +321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -333,7 +333,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -345,7 +345,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -357,7 +357,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -369,7 +369,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -381,7 +381,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -393,7 +393,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       },
@@ -405,7 +405,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": 1
           }
         ]
       }
@@ -424,5 +424,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "DaikiSM88"
 }
