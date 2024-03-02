@@ -304,7 +304,7 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
