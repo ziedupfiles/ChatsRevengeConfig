@@ -196,7 +196,7 @@
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -208,7 +208,7 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -220,7 +220,7 @@
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -244,7 +244,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
