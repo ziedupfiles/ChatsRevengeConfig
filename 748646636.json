@@ -45,19 +45,19 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -69,7 +69,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -88,7 +88,7 @@
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -100,12 +100,12 @@
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -124,48 +124,48 @@
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -196,43 +196,43 @@
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -244,7 +244,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -256,31 +256,31 @@
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -292,12 +292,12 @@
       "Destroy Current Item": {
         "id": "lethalcompany_destroyCurrentItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
