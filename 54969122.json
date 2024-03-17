@@ -136,7 +136,7 @@
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -405,7 +405,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1
+            "price": "50"
           }
         ]
       }
