@@ -1,80 +1,5 @@
 {
   "products": {
-    "Monitor": {
-      "Turn off": {
-        "id": "monitor",
-        "unique": false,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": "30",
-            "price": "200"
-          }
-        ]
-      },
-      "Blur": {
-        "id": "blur",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Rotate": {
-        "id": "rotate",
-        "unique": false,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": "30",
-            "price": "150"
-          }
-        ]
-      },
-      "Remove monitor effect": {
-        "id": "cancel_monitor",
-        "unique": true,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "50"
-          }
-        ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      }
-    },
-    "Timeout": {
-      "Create timeout": {
-        "id": "timeout",
-        "unique": false,
-        "disabled": true,
-        "input": true,
-        "variants": []
-      },
-      "Remove timeout": {
-        "id": "untimeout",
-        "unique": true,
-        "disabled": true,
-        "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      }
-    },
     "Lethal Company": {
       "Teleport": {
         "id": "lethalcompany_teleport",
@@ -84,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "100"
           }
         ]
       },
@@ -96,7 +21,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "300"
           }
         ]
       },
@@ -108,7 +33,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "150"
           }
         ]
       },
@@ -120,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
@@ -132,7 +57,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "250"
           }
         ]
       },
@@ -144,7 +69,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "200"
           }
         ]
       },
@@ -156,7 +81,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "350"
           }
         ]
       },
@@ -168,7 +93,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "350"
           }
         ]
       },
@@ -228,7 +153,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
@@ -240,7 +165,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
@@ -252,7 +177,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "250"
           }
         ]
       },
@@ -264,7 +189,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -288,7 +213,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "150"
           }
         ]
       },
@@ -312,7 +237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "1000"
           }
         ]
       },
@@ -324,7 +249,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
@@ -336,7 +261,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "250"
           }
         ]
       },
@@ -348,7 +273,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "600"
           }
         ]
       },
@@ -409,6 +334,78 @@
           {
             "duration": null,
             "price": "100"
+          }
+        ]
+      },
+      "Teleport to Ship": {
+        "id": "lethalcompany_teleportShip",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Leave Early": {
+        "id": "lethalcompany_leaveEarly",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "1200"
+          }
+        ]
+      },
+      "Revive All Players": {
+        "id": "lethalcompany_revive",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Meet Quota": {
+        "id": "lethalcompany_meetQuota",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "800"
+          }
+        ]
+      },
+      "Spawn Dog": {
+        "id": "lethalcompany_spawnDog",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn Bee Hive": {
+        "id": "lethalcompany_spawnBees",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
           }
         ]
       }
