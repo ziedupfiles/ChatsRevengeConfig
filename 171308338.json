@@ -292,7 +292,7 @@
       "Destroy Current Item": {
         "id": "lethalcompany_destroyCurrentItem",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -424,5 +424,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "LuckyGuyIRL"
 }
