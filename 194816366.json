@@ -33,7 +33,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "150"
           }
         ]
       },
@@ -76,7 +76,7 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -105,7 +105,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "150"
           }
         ]
       },
