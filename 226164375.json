@@ -1,0 +1,428 @@
+{
+  "products": {
+    "Lethal Company": {
+      "Teleport": {
+        "id": "lethalcompany_teleport",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Teleport to Ship": {
+        "id": "lethalcompany_teleportShip",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "600"
+          }
+        ]
+      },
+      "Leave Early": {
+        "id": "lethalcompany_leaveEarly",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "1000"
+          }
+        ]
+      },
+      "Spawn Mine": {
+        "id": "lethalcompany_spawnMine",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Revive All Players": {
+        "id": "lethalcompany_revive",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Meet Quota": {
+        "id": "lethalcompany_meetQuota",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Double Credits": {
+        "id": "lethalcompany_doubleCredits",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Half Credits": {
+        "id": "lethalcompany_halfCredits",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Bug Infestation": {
+        "id": "lethalcompany_bugs",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Lootbox": {
+        "id": "lethalcompany_lootbox",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Open all vents": {
+        "id": "lethalcompany_vents",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Drunk filter": {
+        "id": "lethalcompany_drunk",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Fake turret sound": {
+        "id": "lethalcompany_turretSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Coilhead Sound": {
+        "id": "lethalcompany_coilheadSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Jester Sound": {
+        "id": "lethalcompany_jesterSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Ghost Girl Sound": {
+        "id": "lethalcompany_girlSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Stormy": {
+        "id": "lethalcompany_stormy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Foggy": {
+        "id": "lethalcompany_foggy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Rainy": {
+        "id": "lethalcompany_rainy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Eclipse": {
+        "id": "lethalcompany_eclipse",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Flooded": {
+        "id": "lethalcompany_flooded",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Clear Weather": {
+        "id": "lethalcompany_clearweather",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Fake Random Action": {
+        "id": "lethalcompany_fakeAction",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy All Held Items": {
+        "id": "lethalcompany_destroyAllItem",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy Current Item": {
+        "id": "lethalcompany_destroyCurrentItem",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Immunity": {
+        "id": "lethalcompany_immunity",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Dog": {
+        "id": "lethalcompany_spawnDog",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Bee Hive": {
+        "id": "lethalcompany_spawnBees",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Jester": {
+        "id": "lethalcompany_spawnJester",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Coilhead": {
+        "id": "lethalcompany_spawnCoilhead",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Spider": {
+        "id": "lethalcompany_spawnSpider",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Bracken": {
+        "id": "lethalcompany_spawnBracken",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Nutcracker": {
+        "id": "lethalcompany_spawnNutcracker",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Kill Enemy": {
+        "id": "lethalcompany_killEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      }
+    }
+  },
+  "SoundUrl": null,
+  "specielKeyList": {
+    "ArrowKeys": false,
+    "F_Keys": false,
+    "Shift": false,
+    "Alt": false,
+    "Escape": false,
+    "Enter": false,
+    "Tab": false,
+    "Windows": false,
+    "Delete": false,
+    "Control": false,
+    "BackSpace": false
+  }
+}
