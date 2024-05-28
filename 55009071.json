@@ -45,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1
+            "price": "100"
           }
         ]
       },
