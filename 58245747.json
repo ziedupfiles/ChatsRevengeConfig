@@ -100,7 +100,7 @@
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -124,7 +124,7 @@
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -148,7 +148,7 @@
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -160,7 +160,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -328,7 +328,7 @@
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -340,7 +340,7 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
