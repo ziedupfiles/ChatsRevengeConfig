@@ -445,15 +445,15 @@
             "duration": "1"
           },
           {
-            "price": "100",
-            "duration": "1"
+            "price": "500",
+            "duration": "3"
           }
         ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
