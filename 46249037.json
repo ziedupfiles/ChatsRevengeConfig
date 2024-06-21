@@ -409,6 +409,129 @@
           }
         ]
       }
+    },
+    "Monitor": {
+      "Turn off": {
+        "id": "monitor",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          },
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
+      },
+      "Blur": {
+        "id": "blur",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Rotate": {
+        "id": "rotate",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          },
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
+      },
+      "Remove monitor effect": {
+        "id": "cancel_monitor",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      }
+    },
+    "Input": {
+      "Press key": {
+        "id": "keyboard",
+        "unique": true,
+        "disabled": true,
+        "input": true,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Block mouse": {
+        "id": "block_mouse",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "block keyboard": {
+        "id": "block_keyboard",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Remove keyboard effect": {
+        "id": "cancel_keyboard",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      }
+    },
+    "Sound": {
+      "Play": {
+        "id": "playsound",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      }
+    },
+    "Timeout": {
+      "Create timeout": {
+        "id": "timeout",
+        "unique": false,
+        "disabled": true,
+        "input": true,
+        "variants": []
+      },
+      "Remove timeout": {
+        "id": "untimeout",
+        "unique": true,
+        "disabled": true,
+        "input": true,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      }
     }
   },
   "specielKeyList": {
