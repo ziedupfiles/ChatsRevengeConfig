@@ -40,7 +40,7 @@
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -52,7 +52,7 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -64,7 +64,7 @@
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
