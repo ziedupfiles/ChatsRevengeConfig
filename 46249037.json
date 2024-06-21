@@ -418,12 +418,12 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "500",
+            "duration": "5"
           },
           {
-            "price": "100",
-            "duration": "1"
+            "price": "1400",
+            "duration": "10"
           }
         ]
       },
