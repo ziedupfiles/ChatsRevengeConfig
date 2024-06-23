@@ -312,6 +312,102 @@
             "price": "300"
           }
         ]
+      },
+      "Double Credits": {
+        "id": "lethalcompany_doubleCredits",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Half Credits": {
+        "id": "lethalcompany_halfCredits",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Fake turret sound": {
+        "id": "lethalcompany_turretSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Coilhead Sound": {
+        "id": "lethalcompany_coilheadSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Jester Sound": {
+        "id": "lethalcompany_jesterSound",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Flooded": {
+        "id": "lethalcompany_flooded",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Clear Weather": {
+        "id": "lethalcompany_clearweather",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Fake Random Action": {
+        "id": "lethalcompany_fakeAction",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
       }
     },
     "Monitor": {
@@ -322,28 +418,34 @@
         "input": false,
         "variants": [
           {
-            "price": "1",
-            "duration": "1"
-          },
-          {
-            "price": "1",
-            "duration": "1"
+            "price": "100",
+            "duration": "3"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "3"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -396,6 +498,15 @@
             "price": "300"
           }
         ]
+      }
+    },
+    "Sound": {
+      "Play": {
+        "id": "playsound",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Timeout": {
