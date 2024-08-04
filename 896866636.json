@@ -45,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "250"
           }
         ]
       },
@@ -105,7 +105,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": 1
           }
         ]
       },
@@ -117,7 +117,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": 1
           }
         ]
       },
@@ -129,7 +129,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -153,7 +153,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": 1
           }
         ]
       },
@@ -201,7 +201,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "300"
           }
         ]
       },
@@ -213,7 +213,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "150"
           }
         ]
       },
@@ -225,7 +225,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "100"
           }
         ]
       },
@@ -237,7 +237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "200"
           }
         ]
       },
@@ -249,7 +249,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "150"
           }
         ]
       },
@@ -297,14 +297,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "150"
           }
         ]
       },
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -345,7 +345,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -357,7 +357,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -369,7 +369,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -393,14 +393,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400"
           }
         ]
       },
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
