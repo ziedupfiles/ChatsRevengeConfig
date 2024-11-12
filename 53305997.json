@@ -39,9 +39,14 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": "1",
+            "price": "100"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
@@ -522,5 +527,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "WakeyGaming"
 }
