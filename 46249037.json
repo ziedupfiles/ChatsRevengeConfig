@@ -420,6 +420,14 @@
           {
             "price": "1",
             "duration": "2"
+          },
+          {
+            "price": "1",
+            "duration": "4"
+          },
+          {
+            "price": "1",
+            "duration": "6"
           }
         ]
       },
@@ -432,6 +440,10 @@
           {
             "price": "1",
             "duration": "2"
+          },
+          {
+            "price": "1",
+            "duration": "4"
           }
         ]
       },
@@ -461,18 +473,6 @@
       }
     },
     "Input": {
-      "Press key": {
-        "id": "keyboard",
-        "unique": true,
-        "disabled": true,
-        "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
