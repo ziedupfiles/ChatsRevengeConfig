@@ -103,12 +103,17 @@
         "unique": false,
         "disabled": true,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "700",
+            "duration": "5"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
