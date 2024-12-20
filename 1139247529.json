@@ -54,11 +54,11 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "700",
+            "price": "300",
             "duration": "5"
           }
         ]
@@ -70,7 +70,7 @@
         "input": false,
         "variants": [
           {
-            "price": "700",
+            "price": "300",
             "duration": "5"
           }
         ]
