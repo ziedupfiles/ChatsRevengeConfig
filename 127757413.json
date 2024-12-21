@@ -553,14 +553,14 @@
   "specielKeyList": {
     "ArrowKeys": false,
     "F_Keys": false,
-    "Shift": false,
-    "Alt": false,
-    "Escape": false,
+    "Shift": true,
+    "Alt": true,
+    "Escape": true,
     "Enter": false,
-    "Tab": false,
+    "Tab": true,
     "Windows": false,
     "Delete": false,
-    "Control": false,
+    "Control": true,
     "BackSpace": false
   },
   "username": "Rhysindrycal"
