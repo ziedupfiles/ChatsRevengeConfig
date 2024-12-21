@@ -9,11 +9,11 @@
         "variants": [
           {
             "price": "300",
-            "duration": "5"
+            "duration": "15"
           },
           {
             "price": "150",
-            "duration": "2"
+            "duration": "5"
           }
         ]
       },
@@ -25,11 +25,11 @@
         "variants": [
           {
             "price": "300",
-            "duration": "5"
+            "duration": "15"
           },
           {
             "price": "100",
-            "duration": "2"
+            "duration": "5"
           }
         ]
       },
@@ -45,7 +45,7 @@
           },
           {
             "price": "100",
-            "duration": "2"
+            "duration": "5"
           }
         ]
       },
@@ -562,5 +562,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Rhysindrycal"
 }
