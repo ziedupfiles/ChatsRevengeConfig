@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "200",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "variants": [
           {
             "price": "20",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -33,7 +33,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "6"
           }
         ]
       },
@@ -532,5 +532,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "sparky36001"
 }
