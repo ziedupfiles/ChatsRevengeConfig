@@ -54,7 +54,7 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -66,7 +66,7 @@
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -78,7 +78,7 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -105,7 +105,7 @@
         "input": true,
         "variants": [
           {
-            "price": "2000",
+            "price": "1000",
             "duration": "20"
           }
         ]
@@ -118,7 +118,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "500"
           }
         ]
       }
