@@ -8,8 +8,8 @@
         "input": false,
         "variants": [
           {
-            "price": "2000",
-            "duration": "15"
+            "price": "500",
+            "duration": "10"
           }
         ]
       },
@@ -20,8 +20,8 @@
         "input": false,
         "variants": [
           {
-            "price": "1000",
-            "duration": "20"
+            "price": "500",
+            "duration": "10"
           }
         ]
       },
@@ -32,15 +32,15 @@
         "input": false,
         "variants": [
           {
-            "price": "1500",
-            "duration": "20"
+            "price": "1000",
+            "duration": "15"
           }
         ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -58,8 +58,8 @@
         "input": false,
         "variants": [
           {
-            "price": "1500",
-            "duration": "15"
+            "price": "500",
+            "duration": "10"
           }
         ]
       },
@@ -70,8 +70,8 @@
         "input": false,
         "variants": [
           {
-            "price": "1000",
-            "duration": "10"
+            "price": "100",
+            "duration": "5"
           }
         ]
       },
@@ -83,7 +83,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "3000"
+            "price": "100"
           }
         ]
       }
@@ -113,7 +113,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "100"
           }
         ]
       }
