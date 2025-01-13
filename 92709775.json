@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "2000",
-            "duration": "10"
+            "duration": "15"
           }
         ]
       },
@@ -32,7 +32,7 @@
         "input": false,
         "variants": [
           {
-            "price": "1000",
+            "price": "1500",
             "duration": "20"
           }
         ]
@@ -101,19 +101,14 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "price": "1000",
-            "duration": "20"
-          }
-        ]
+        "variants": []
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
