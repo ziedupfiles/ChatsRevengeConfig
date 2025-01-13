@@ -531,7 +531,7 @@
   },
   "SoundUrl": null,
   "specielKeyList": {
-    "ArrowKeys": true,
+    "ArrowKeys": false,
     "F_Keys": false,
     "Shift": false,
     "Alt": false,
