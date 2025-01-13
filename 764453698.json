@@ -13,7 +13,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "3"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -517,5 +522,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "FlimFlam2022"
 }
