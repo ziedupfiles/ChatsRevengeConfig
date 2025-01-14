@@ -32,8 +32,8 @@
         "input": false,
         "variants": [
           {
-            "price": "1000",
-            "duration": "15"
+            "price": "500",
+            "duration": "10"
           }
         ]
       },
@@ -45,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "200"
           }
         ]
       }
@@ -54,31 +54,21 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "500",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "5"
-          }
-        ]
+        "variants": []
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
