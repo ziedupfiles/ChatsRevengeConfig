@@ -8,16 +8,20 @@
         "input": false,
         "variants": [
           {
+            "price": "100",
+            "duration": "5"
+          },
+          {
             "price": "500",
             "duration": "10"
           },
           {
             "price": "1000",
-            "duration": "15"
+            "duration": "20"
           },
           {
             "price": "2000",
-            "duration": "20"
+            "duration": "30"
           }
         ]
       },
@@ -48,16 +52,20 @@
         "input": false,
         "variants": [
           {
+            "price": "100",
+            "duration": "5"
+          },
+          {
             "price": "500",
             "duration": "10"
           },
           {
             "price": "1000",
-            "duration": "15"
+            "duration": "20"
           },
           {
             "price": "2000",
-            "duration": "20"
+            "duration": "30"
           }
         ]
       },
