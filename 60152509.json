@@ -401,6 +401,106 @@
             "price": "500"
           }
         ]
+      },
+      "Teleport to Ship": {
+        "id": "lethalcompany_teleportShip",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Leave Early": {
+        "id": "lethalcompany_leaveEarly",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Revive All Players": {
+        "id": "lethalcompany_revive",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Meet Quota": {
+        "id": "lethalcompany_meetQuota",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Dog": {
+        "id": "lethalcompany_spawnDog",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn Bee Hive": {
+        "id": "lethalcompany_spawnBees",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      }
+    },
+    "Input": {
+      "Block mouse": {
+        "id": "block_mouse",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "block keyboard": {
+        "id": "block_keyboard",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Remove keyboard effect": {
+        "id": "cancel_keyboard",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
       }
     }
   },
