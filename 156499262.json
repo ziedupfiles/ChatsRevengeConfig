@@ -117,7 +117,7 @@
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -249,7 +249,7 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -261,7 +261,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -357,7 +357,7 @@
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -453,7 +453,7 @@
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
