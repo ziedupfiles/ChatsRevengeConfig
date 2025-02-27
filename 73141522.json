@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -22,6 +22,10 @@
           {
             "price": "100",
             "duration": "5"
+          },
+          {
+            "price": "200",
+            "duration": "10"
           }
         ]
       },
@@ -31,6 +35,10 @@
         "disabled": false,
         "input": false,
         "variants": [
+          {
+            "price": "100",
+            "duration": "5"
+          },
           {
             "price": "200",
             "duration": "10"
