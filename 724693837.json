@@ -1,0 +1,17 @@
+{
+  "products": {},
+  "SoundUrl": null,
+  "specielKeyList": {
+    "ArrowKeys": false,
+    "F_Keys": false,
+    "Shift": false,
+    "Alt": false,
+    "Escape": false,
+    "Enter": false,
+    "Tab": false,
+    "Windows": false,
+    "Delete": false,
+    "Control": false,
+    "BackSpace": false
+  }
+}
