@@ -70,12 +70,12 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "40",
             "duration": "5"
           },
           {
             "price": "100",
-            "duration": "10"
+            "duration": "12"
           }
         ]
       },
@@ -86,12 +86,12 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "40",
             "duration": "5"
           },
           {
             "price": "100",
-            "duration": "10"
+            "duration": "12"
           }
         ]
       },
