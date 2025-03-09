@@ -9,11 +9,11 @@
         "variants": [
           {
             "price": "50",
-            "duration": "5"
+            "duration": "7"
           },
           {
             "price": "100",
-            "duration": "10"
+            "duration": "11"
           }
         ]
       },
