@@ -615,6 +615,46 @@
             "price": "300"
           }
         ]
+      },
+      "Destroy Expensive Item": {
+        "id": "REPO_destroyexpensive",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy Closest Item": {
+        "id": "REPO_destroyClosest",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Flashlight Off": {
+        "id": "REPO_lightsOff",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          },
+          {
+            "price": "100",
+            "duration": "3"
+          }
+        ]
       }
     }
   },
