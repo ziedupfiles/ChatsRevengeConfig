@@ -63,7 +63,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "30"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
@@ -73,7 +78,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       }
@@ -637,5 +642,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "mariostaverne"
 }
