@@ -61,7 +61,7 @@
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -73,7 +73,7 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
