@@ -607,8 +607,12 @@
         "input": false,
         "variants": [
           {
-            "price": "250",
+            "price": "200",
             "duration": "10"
+          },
+          {
+            "price": "500",
+            "duration": "20"
           }
         ]
       }
