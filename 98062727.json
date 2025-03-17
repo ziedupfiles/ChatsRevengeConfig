@@ -613,18 +613,6 @@
           }
         ]
       },
-      "Destroy Expensive Item": {
-        "id": "REPO_destroyexpensive",
-        "unique": true,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
@@ -643,6 +631,114 @@
         "disabled": true,
         "input": false,
         "variants": []
+      },
+      "Kill A Monster": {
+        "id": "REPO_killememy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "150"
+          }
+        ]
+      },
+      "Initiate Self Destruct": {
+        "id": "REPO_selfDestruct",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Gnome Infestation": {
+        "id": "REPO_gnomeInfestation",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn A Head": {
+        "id": "REPO_head",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn An Eye": {
+        "id": "REPO_eye",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn A Runner": {
+        "id": "REPO_runner",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn A Clown": {
+        "id": "REPO_clown",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn A Hunter": {
+        "id": "REPO_hunter",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Spawn A Thinman": {
+        "id": "REPO_thinman",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
       }
     }
   },
