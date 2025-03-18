@@ -20,7 +20,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "15"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
