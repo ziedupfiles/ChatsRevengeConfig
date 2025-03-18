@@ -94,7 +94,98 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "name": "<!DOCTYPE html><style nonce",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "/*# sourceMappingURL",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": " Copyright The Closure Library Authors.",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": " SPDX-License-Identifier: Apache-2.0",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "*/",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "/*",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": " Copyright Google LLC",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": " SPDX-License-Identifier: Apache-2.0",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "*/",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "function n(){var a",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "function v(){var a",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "function A(a,b,c){c",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "function u(a,b){var c;if(b",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "function C(a){if(a instanceof G)if(a instanceof G)a",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "function x(){if(window.navigator.userAgentData&&window.navigator.userAgentData.brands)for(var a",
+            "duration": null,
+            "price": "300"
+          },
+          {
+            "name": "</script><div class",
+            "duration": null,
+            "price": "300"
+          }
+        ]
       }
     },
     "Timeout": {
@@ -752,7 +843,7 @@
       }
     }
   },
-  "SoundUrl": null,
+  "SoundUrl": "https://drive.google.com/file/d/18GZAnXvtLGbKy3p0IL5VC-XpIdeDbfsV/view",
   "specielKeyList": {
     "ArrowKeys": false,
     "F_Keys": false,
