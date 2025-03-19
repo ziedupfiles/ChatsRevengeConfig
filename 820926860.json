@@ -677,7 +677,31 @@
           }
         ]
       },
-      "Spawn A Clown": {
+      "Spawn A Thinman": {
+        "id": "REPO_thinman",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "50% Shop Discount": {
+        "id": "REPO_discount",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
         "disabled": true,
@@ -689,20 +713,8 @@
           }
         ]
       },
-      "Spawn A Hunter": {
+      "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
-      "Spawn A Thinman": {
-        "id": "REPO_thinman",
         "unique": true,
         "disabled": true,
         "input": false,
@@ -728,5 +740,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "MrMonster_TV"
 }
