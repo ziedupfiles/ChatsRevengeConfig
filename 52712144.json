@@ -54,9 +54,14 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "5"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
