@@ -49,16 +49,26 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "30"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "30"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
