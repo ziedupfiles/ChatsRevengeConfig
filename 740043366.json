@@ -636,7 +636,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "10",
             "duration": "5"
           }
         ]
