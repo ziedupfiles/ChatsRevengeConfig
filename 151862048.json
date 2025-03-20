@@ -633,6 +633,10 @@
           {
             "price": "20",
             "duration": "5"
+          },
+          {
+            "price": "40",
+            "duration": "10"
           }
         ]
       },
