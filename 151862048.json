@@ -631,8 +631,8 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "10"
+            "price": "20",
+            "duration": "5"
           }
         ]
       },
