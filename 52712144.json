@@ -4,23 +4,18 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "3"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "30",
             "duration": "5"
           }
         ]
@@ -28,11 +23,11 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "30",
             "duration": "5"
           }
         ]
@@ -54,7 +49,7 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -532,7 +527,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -544,7 +539,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -556,7 +551,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -568,7 +563,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -580,7 +575,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -592,7 +587,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -604,7 +599,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -616,7 +611,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "20"
           }
         ]
       },
@@ -628,7 +623,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -640,7 +635,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -651,7 +646,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "20",
             "duration": "10"
           }
         ]
@@ -664,7 +659,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -676,7 +671,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "50"
           }
         ]
       },
@@ -688,7 +683,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -700,7 +695,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "50"
           }
         ]
       },
@@ -712,7 +707,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "50"
           }
         ]
       },
@@ -724,7 +719,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "50"
           }
         ]
       },
@@ -736,7 +731,139 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Duck": {
+        "id": "REPO_duck",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Hidden": {
+        "id": "REPO_hidden",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Robe": {
+        "id": "REPO_robe",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Blowtie": {
+        "id": "REPO_blowtie",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn An Upstream": {
+        "id": "REPO_upscream",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Mouth": {
+        "id": "REPO_mouth",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Trudge": {
+        "id": "REPO_trudge",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn An Alien": {
+        "id": "REPO_alien",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn An Frog": {
+        "id": "REPO_frog",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn An Animal": {
+        "id": "REPO_animal",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Spawn A Rugrat": {
+        "id": "REPO_rugrat",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
           }
         ]
       }
