@@ -548,7 +548,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -717,7 +717,7 @@
       }
     }
   },
-  "SoundUrl": "https://freesound.org/people/klankbeeld/sounds/792879/",
+  "SoundUrl": null,
   "specielKeyList": {
     "ArrowKeys": false,
     "F_Keys": false,
@@ -730,5 +730,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Precysion"
 }
