@@ -56,14 +56,24 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "duration": "10"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "duration": "10"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
