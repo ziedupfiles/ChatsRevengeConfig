@@ -241,48 +241,48 @@
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -325,12 +325,12 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
