@@ -97,7 +97,7 @@
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -109,7 +109,7 @@
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -145,7 +145,7 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -162,7 +162,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -174,7 +174,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -186,7 +186,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -205,19 +205,19 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -229,12 +229,12 @@
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
