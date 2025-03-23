@@ -846,6 +846,18 @@
             "price": "20"
           }
         ]
+      },
+      "10 Damage To Player": {
+        "id": "REPO_hurt",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "30"
+          }
+        ]
       }
     }
   },
