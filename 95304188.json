@@ -790,18 +790,6 @@
           }
         ]
       },
-      "Spawn An Upstream": {
-        "id": "REPO_upscream",
-        "unique": true,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "250"
-          }
-        ]
-      },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
@@ -864,6 +852,42 @@
       },
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Give Random Weapon": {
+        "id": "REPO_weapon",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Give Immunity": {
+        "id": "REPO_immunity",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "price": "200",
+            "duration": "2"
+          }
+        ]
+      },
+      "Spawn An Upscream": {
+        "id": "REPO_upscream",
         "unique": true,
         "disabled": false,
         "input": false,
