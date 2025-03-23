@@ -517,7 +517,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -541,7 +541,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -553,7 +553,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "200"
           }
         ]
       },
@@ -577,7 +577,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -908,5 +908,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "LuckySomni"
 }
