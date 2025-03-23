@@ -627,12 +627,12 @@
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
