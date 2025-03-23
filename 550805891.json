@@ -536,7 +536,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "10"
           }
         ]
       },
@@ -548,7 +548,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "10"
           }
         ]
       },
@@ -572,7 +572,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "20"
           }
         ]
       },
@@ -596,7 +596,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -608,7 +608,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "40"
+            "price": "10"
           }
         ]
       },
@@ -620,7 +620,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -639,7 +639,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "40"
+            "price": "10"
           }
         ]
       },
@@ -651,7 +651,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "40"
+            "price": "20"
           }
         ]
       },
@@ -663,7 +663,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "10"
           }
         ]
       },
@@ -675,7 +675,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -687,7 +687,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "10"
           }
         ]
       },
@@ -699,7 +699,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -711,7 +711,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -735,7 +735,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -747,7 +747,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "40"
+            "price": "20"
           }
         ]
       },
@@ -759,19 +759,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
-          }
-        ]
-      },
-      "Spawn An Upstream": {
-        "id": "REPO_upscream",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -783,7 +771,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -795,7 +783,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -807,7 +795,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "10"
           }
         ]
       },
@@ -819,7 +807,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "10"
           }
         ]
       },
@@ -843,7 +831,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "30"
           }
         ]
       },
@@ -855,7 +843,38 @@
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "10"
+          }
+        ]
+      },
+      "Give Random Weapon": {
+        "id": "REPO_weapon",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "10"
+          }
+        ]
+      },
+      "Give Immunity": {
+        "id": "REPO_immunity",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Spawn An Upscream": {
+        "id": "REPO_upscream",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
           }
         ]
       }
