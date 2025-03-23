@@ -524,7 +524,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -879,5 +879,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Neineiwolfy"
 }
