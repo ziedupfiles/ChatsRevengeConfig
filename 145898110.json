@@ -25,7 +25,7 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -780,18 +780,6 @@
           }
         ]
       },
-      "Spawn An Upstream": {
-        "id": "REPO_upscream",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
@@ -854,6 +842,37 @@
       },
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Give Random Weapon": {
+        "id": "REPO_weapon",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Give Immunity": {
+        "id": "REPO_immunity",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Spawn An Upscream": {
+        "id": "REPO_upscream",
         "unique": true,
         "disabled": true,
         "input": false,
