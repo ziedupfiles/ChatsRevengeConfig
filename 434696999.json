@@ -512,7 +512,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "20"
           }
         ]
       },
@@ -536,7 +536,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "10"
           }
         ]
       },
@@ -548,7 +548,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "20"
           }
         ]
       },
@@ -560,7 +560,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -572,7 +572,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "50"
           }
         ]
       },
@@ -584,7 +584,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -596,7 +596,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
@@ -608,7 +608,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -620,7 +620,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "150"
           }
         ]
       },
@@ -632,7 +632,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "300"
           }
         ]
       },
@@ -643,7 +643,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "10",
             "duration": "10"
           }
         ]
@@ -656,14 +656,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "40"
           }
         ]
       },
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -680,7 +680,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -692,7 +692,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -704,7 +704,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -716,7 +716,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "100"
           }
         ]
       },
@@ -728,7 +728,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -740,7 +740,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -752,7 +752,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
@@ -764,7 +764,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -776,7 +776,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -788,7 +788,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -800,7 +800,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "100"
           }
         ]
       },
@@ -812,7 +812,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -824,7 +824,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -836,7 +836,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "200"
           }
         ]
       },
@@ -848,7 +848,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       },
@@ -860,7 +860,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
@@ -872,7 +872,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "50"
           }
         ]
       },
@@ -884,7 +884,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       }
