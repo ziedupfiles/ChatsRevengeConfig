@@ -98,7 +98,12 @@
         "unique": false,
         "disabled": true,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "60"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
