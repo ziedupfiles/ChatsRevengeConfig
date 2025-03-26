@@ -660,12 +660,7 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "150",
-            "duration": "30"
-          }
-        ]
+        "variants": []
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
@@ -718,7 +713,7 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -730,7 +725,7 @@
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
