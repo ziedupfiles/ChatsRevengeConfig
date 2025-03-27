@@ -651,7 +651,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "100"
           }
         ]
       },
@@ -660,7 +660,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
