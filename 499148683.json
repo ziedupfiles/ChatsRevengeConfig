@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "500",
-            "duration": "8"
+            "duration": "5"
           }
         ]
       },
@@ -923,5 +923,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Kelivas_"
 }
