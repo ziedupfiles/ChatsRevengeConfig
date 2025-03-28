@@ -531,7 +531,7 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
