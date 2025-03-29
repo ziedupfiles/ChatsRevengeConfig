@@ -618,12 +618,12 @@
       "Kill A Monster": {
         "id": "REPO_killememy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
