@@ -4,13 +4,6 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Blur": {
-        "id": "blur",
-        "unique": false,
         "disabled": false,
         "input": false,
         "variants": [
@@ -19,6 +12,13 @@
             "duration": "10"
           }
         ]
+      },
+      "Blur": {
+        "id": "blur",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
