@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "duration": "10"
           }
         ]
@@ -20,7 +20,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "duration": "20"
           }
         ]
@@ -32,7 +32,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "duration": "30"
           }
         ]
@@ -45,7 +45,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       }
