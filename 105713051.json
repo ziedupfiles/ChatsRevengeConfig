@@ -584,7 +584,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400"
           }
         ]
       },
@@ -608,7 +608,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -620,7 +620,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -632,7 +632,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -660,7 +660,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "duration": "30"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
@@ -670,7 +675,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -682,7 +687,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -694,7 +699,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -706,7 +711,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -718,7 +723,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -730,7 +735,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -742,7 +747,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -766,7 +771,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -778,7 +783,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -790,7 +795,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -802,7 +807,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -814,7 +819,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -826,7 +831,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -838,7 +843,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -850,7 +855,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -862,7 +867,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -874,7 +879,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       }
