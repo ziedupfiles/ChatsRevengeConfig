@@ -9,7 +9,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "1"
+            "price": "1",
+            "cooldown": "3",
+            "channelPoints": "2"
           }
         ]
       },
@@ -848,18 +850,6 @@
           }
         ]
       },
-      "Spawn An Upstream": {
-        "id": "REPO_upscream",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
-      },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
@@ -922,6 +912,18 @@
       },
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Spawn An Upscream": {
+        "id": "REPO_upscream",
         "unique": true,
         "disabled": true,
         "input": false,
