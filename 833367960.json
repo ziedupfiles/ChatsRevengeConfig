@@ -23,9 +23,14 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "5"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
