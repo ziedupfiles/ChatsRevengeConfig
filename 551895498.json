@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "500",
-            "duration": "10"
+            "duration": "15"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "variants": [
           {
             "price": "300",
-            "duration": "10"
+            "duration": "30"
           }
         ]
       },
@@ -33,7 +33,7 @@
         "variants": [
           {
             "price": "500",
-            "duration": "10"
+            "duration": "30"
           }
         ]
       },
