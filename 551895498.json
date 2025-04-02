@@ -8,8 +8,8 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "500",
+            "duration": "10"
           }
         ]
       },
@@ -18,14 +18,24 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "duration": "10"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "duration": "10"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -898,5 +908,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "HarperStrikes"
 }
