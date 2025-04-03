@@ -560,7 +560,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -572,7 +572,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -584,7 +584,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -596,7 +596,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -608,7 +608,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -632,7 +632,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10000"
           }
         ]
       },
@@ -651,7 +651,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10000"
           }
         ]
       },
@@ -893,5 +893,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "TruPhoenix69"
 }
