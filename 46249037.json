@@ -17,11 +17,11 @@
           {
             "price": "300",
             "cooldown": "1",
-            "disabled": true
+            "disabled": false
           },
           {
             "price": "300",
-            "disabled": true
+            "disabled": false
           },
           {
             "price": "300",
