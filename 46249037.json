@@ -26,6 +26,10 @@
           {
             "price": "300",
             "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": true
           }
         ]
       },
