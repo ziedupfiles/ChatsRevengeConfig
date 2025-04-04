@@ -4,7 +4,7 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -522,7 +522,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -661,7 +661,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "4200"
           }
         ]
       },
@@ -675,7 +675,7 @@
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
