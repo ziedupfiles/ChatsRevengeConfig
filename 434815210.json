@@ -507,7 +507,7 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
