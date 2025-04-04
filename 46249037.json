@@ -11,17 +11,21 @@
             "duration": null,
             "price": "1",
             "cooldown": "6",
-            "channelPoints": "4"
+            "channelPoints": "4",
+            "disabled": false
           },
           {
             "price": "300",
-            "cooldown": "1"
+            "cooldown": "1",
+            "disabled": false
           },
           {
-            "price": "300"
+            "price": "300",
+            "disabled": false
           },
           {
-            "price": "300"
+            "price": "300",
+            "disabled": true
           }
         ]
       },
