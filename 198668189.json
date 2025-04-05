@@ -608,7 +608,7 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -890,7 +890,7 @@
       }
     }
   },
-  "SoundUrl": null,
+  "SoundUrl": "https://www.youtube.com/watch?v=oxZxe092eqo",
   "specielKeyList": {
     "ArrowKeys": false,
     "F_Keys": false,
