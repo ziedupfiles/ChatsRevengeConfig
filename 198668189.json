@@ -63,7 +63,7 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -892,7 +892,7 @@
   },
   "SoundUrl": "https://www.youtube.com/watch?v=oxZxe092eqo",
   "specielKeyList": {
-    "ArrowKeys": false,
+    "ArrowKeys": true,
     "F_Keys": false,
     "Shift": false,
     "Alt": false,
