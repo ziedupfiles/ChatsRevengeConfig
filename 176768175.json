@@ -584,7 +584,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "10"
           }
         ]
       },
@@ -596,7 +596,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "100"
           }
         ]
       },
@@ -608,7 +608,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -651,7 +651,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "500"
           }
         ]
       },
@@ -682,7 +682,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -802,7 +802,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "500"
           }
         ]
       },
