@@ -572,7 +572,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "50"
           }
         ]
       },
@@ -584,7 +584,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -596,7 +596,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       },
@@ -608,7 +608,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "100"
           }
         ]
       },
@@ -620,7 +620,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "50"
           }
         ]
       },
@@ -632,7 +632,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "500"
           }
         ]
       },
@@ -675,15 +675,15 @@
         "input": false,
         "variants": [
           {
-            "price": "200",
+            "price": "50",
             "duration": "10"
           },
           {
-            "price": "350",
+            "price": "100",
             "duration": "20"
           },
           {
-            "price": "500",
+            "price": "150",
             "duration": "45"
           }
         ]
@@ -696,7 +696,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "200"
           }
         ]
       },
@@ -708,7 +708,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "200"
           }
         ]
       },
@@ -720,7 +720,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "100"
           }
         ]
       },
@@ -732,7 +732,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "300"
           }
         ]
       },
@@ -744,7 +744,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "200"
           }
         ]
       },
@@ -756,7 +756,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "150"
           }
         ]
       },
@@ -768,7 +768,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -780,7 +780,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -792,7 +792,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "300"
           }
         ]
       },
@@ -804,7 +804,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "700"
+            "price": "200"
           }
         ]
       },
@@ -816,7 +816,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "200"
           }
         ]
       },
@@ -840,7 +840,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "150"
           }
         ]
       },
@@ -852,7 +852,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800"
+            "price": "400"
           }
         ]
       },
@@ -864,7 +864,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "250"
           }
         ]
       },
@@ -876,7 +876,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -888,7 +888,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "400"
           }
         ]
       },
@@ -900,7 +900,131 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "150"
+          }
+        ]
+      }
+    },
+    "Schedule I": {
+      "Claim NPC": {
+        "id": "scheduleI_claimCharacter",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Unlock All NPCs": {
+        "id": "scheduleI_unlockAll",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Double/Half Cash (50%)": {
+        "id": "scheduleI_50double50halfCash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Double Cash": {
+        "id": "scheduleI_doubleCash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Half Cash": {
+        "id": "scheduleI_halfCash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Request To Buy Substance": {
+        "id": "scheduleI_sendContract",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "3 Free Slot Spins": {
+        "id": "scheduleI_freeSlotSpin",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Better Slot Odds": {
+        "id": "scheduleI_betterSlotodds",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Call The Cops": {
+        "id": "scheduleI_callCops",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Suspicous Profiling": {
+        "id": "scheduleI_profiling",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Fake Game Crash": {
+        "id": "scheduleI_fakeCrash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
           }
         ]
       }
@@ -919,5 +1043,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Jarojo_VTuber"
 }
