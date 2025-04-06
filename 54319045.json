@@ -103,7 +103,12 @@
         "unique": false,
         "disabled": true,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -913,7 +918,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -949,7 +954,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -961,7 +966,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -973,7 +978,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -985,7 +990,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -994,7 +999,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "duration": "120"
+          }
+        ]
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
@@ -1004,7 +1014,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1013,7 +1023,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "duration": "120"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
@@ -1023,7 +1038,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       }
