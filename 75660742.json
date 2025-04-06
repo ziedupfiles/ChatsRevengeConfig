@@ -54,26 +54,44 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "duration": "10"
+          },
+          {
+            "price": "150",
+            "duration": "30"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "duration": "10"
+          },
+          {
+            "price": "150",
+            "duration": "1"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       }
@@ -1036,12 +1054,12 @@
   "SoundUrl": null,
   "specielKeyList": {
     "ArrowKeys": false,
-    "F_Keys": true,
+    "F_Keys": false,
     "Shift": false,
     "Alt": false,
     "Escape": false,
     "Enter": false,
-    "Tab": false,
+    "Tab": true,
     "Windows": false,
     "Delete": false,
     "Control": false,
