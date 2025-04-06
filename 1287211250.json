@@ -46,14 +46,9 @@
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "100"
-          }
-        ]
+        "variants": []
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
@@ -893,7 +888,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -905,7 +900,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1200"
           }
         ]
       },
@@ -917,7 +912,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -929,7 +924,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -941,7 +936,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400"
           }
         ]
       },
@@ -953,7 +948,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -965,7 +960,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -977,15 +972,15 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "100"
           },
           {
             "price": "300",
-            "duration": "1"
+            "duration": "300"
           },
           {
             "price": "500",
-            "duration": "1"
+            "duration": "500"
           }
         ]
       },
@@ -997,7 +992,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1009,15 +1004,15 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "100"
           },
           {
             "price": "300",
-            "duration": "1"
+            "duration": "300"
           },
           {
             "price": "500",
-            "duration": "1"
+            "duration": "500"
           }
         ]
       },
@@ -1029,7 +1024,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       }
