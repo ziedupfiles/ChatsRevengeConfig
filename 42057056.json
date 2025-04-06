@@ -967,14 +967,9 @@
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
@@ -1022,5 +1017,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "MajinTajin"
 }
