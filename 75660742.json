@@ -1036,7 +1036,7 @@
   "SoundUrl": null,
   "specielKeyList": {
     "ArrowKeys": false,
-    "F_Keys": false,
+    "F_Keys": true,
     "Shift": false,
     "Alt": false,
     "Escape": false,
