@@ -998,7 +998,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "duration": "10"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
@@ -1008,7 +1013,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "4000"
           }
         ]
       }
