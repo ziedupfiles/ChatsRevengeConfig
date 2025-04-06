@@ -20,7 +20,7 @@
         "input": false,
         "variants": [
           {
-            "price": "20",
+            "price": "10",
             "duration": "5"
           }
         ]
@@ -28,14 +28,9 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "20",
-            "duration": "5"
-          }
-        ]
+        "variants": []
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
