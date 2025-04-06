@@ -117,12 +117,12 @@
             "duration": "20"
           },
           {
-            "price": "200",
-            "duration": "60"
-          },
-          {
             "price": "600",
             "duration": "690"
+          },
+          {
+            "price": "200",
+            "duration": "69"
           }
         ]
       },
