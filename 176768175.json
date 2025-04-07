@@ -33,6 +33,46 @@
             "price": "300"
           }
         ]
+      },
+      "Minimize Window": {
+        "id": "minimize",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Glitch Window": {
+        "id": "glitch",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Pixelate Window": {
+        "id": "pixelate",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Lag Window": {
+        "id": "lag",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Shrink Window": {
+        "id": "ant",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
@@ -536,7 +576,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
@@ -584,7 +624,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "50"
           }
         ]
       },
@@ -608,7 +648,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "200"
           }
         ]
       },
@@ -682,7 +722,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "1200"
           }
         ]
       },
@@ -694,7 +734,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -730,7 +770,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "800"
           }
         ]
       },
@@ -754,7 +794,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -766,7 +806,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400"
           }
         ]
       },
@@ -778,7 +818,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "1200"
           }
         ]
       },
@@ -790,7 +830,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "800"
           }
         ]
       },
@@ -802,7 +842,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "600"
           }
         ]
       },
@@ -814,7 +854,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -826,7 +866,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1200"
+            "price": "1500"
           }
         ]
       },
@@ -838,7 +878,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "900"
           }
         ]
       },
@@ -874,7 +914,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "350"
+            "price": "500"
           }
         ]
       }
@@ -992,6 +1032,54 @@
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "NPC attack": {
+        "id": "scheduleI_attack",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Mob of NPCs attack": {
+        "id": "scheduleI_attackGroup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Rain Raining Trash": {
+        "id": "scheduleI_trash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy a Random Plant": {
+        "id": "scheduleI_destroyRandomPlant",
         "unique": true,
         "disabled": true,
         "input": false,
