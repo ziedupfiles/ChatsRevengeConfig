@@ -81,6 +81,13 @@
             "price": "300"
           }
         ]
+      },
+      "Shrink Window": {
+        "id": "ant",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
@@ -936,7 +943,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "200"
           }
         ]
       },
@@ -972,7 +979,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "300"
           }
         ]
       },
@@ -984,7 +991,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "400"
           }
         ]
       },
@@ -996,7 +1003,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "350"
+            "price": "200"
           }
         ]
       },
@@ -1027,7 +1034,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "350"
           }
         ]
       },
@@ -1039,7 +1046,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "350"
           }
         ]
       },
@@ -1051,7 +1058,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "500"
           }
         ]
       },
@@ -1066,6 +1073,30 @@
         "id": "scheduleI_fakeCrash",
         "unique": true,
         "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Rain Raining Trash": {
+        "id": "scheduleI_trash",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "400"
+          }
+        ]
+      },
+      "Destroy a Random Plant": {
+        "id": "scheduleI_destroyRandomPlant",
+        "unique": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
