@@ -21,18 +21,6 @@
       "input": false,
       "variants": []
     },
-    "Remove monitor effect": {
-      "id": "cancel_monitor",
-      "unique": true,
-      "disabled": true,
-      "input": false,
-      "variants": [
-        {
-          "duration": null,
-          "price": "300"
-        }
-      ]
-    },
     "Minimize Window": {
       "id": "minimize",
       "unique": true,
