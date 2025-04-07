@@ -81,6 +81,13 @@
             "price": "300"
           }
         ]
+      },
+      "Shrink Window": {
+        "id": "ant",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
@@ -567,7 +574,7 @@
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -579,7 +586,7 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -591,7 +598,7 @@
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -603,7 +610,7 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1069,6 +1076,30 @@
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Rain Raining Trash": {
+        "id": "scheduleI_trash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy a Random Plant": {
+        "id": "scheduleI_destroyRandomPlant",
         "unique": true,
         "disabled": true,
         "input": false,
