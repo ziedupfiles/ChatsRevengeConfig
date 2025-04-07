@@ -1,62 +1,62 @@
 {
-	'Monitor': {
-		'Turn off': {
+	"Monitor": {
+		"Turn off": {
 			"id": "monitor",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Blur': {
+		"Blur": {
 			"id": "blur",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Rotate': {
+		"Rotate": {
 			"id": "rotate",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Remove monitor effect': {
+		"Remove monitor effect": {
 			"id": "cancel_monitor",
 			"unique": true,
 			"disabled": true,
 			"input": false,
 			"variants": [{ "duration": null, "price": "300" }]
 		},
-		'Minimize Window': {
+		"Minimize Window": {
 			"id": "minimize",
 			"unique": true,
 			"disabled": true,
 			"input": false,
 			"variants": [{ "duration": null, "price": "300" }]
 		},
-		'Glitch Window': {
+		"Glitch Window": {
 			"id": "glitch",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Pixelate Window': {
+		"Pixelate Window": {
 			"id": "pixelate",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Lag Window': {
+		"Lag Window": {
 			"id": "lag",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Shrink Window': {
+		"Shrink Window": {
 			"id": "ant",
 			"unique": false,
 			"disabled": false,
@@ -64,29 +64,29 @@
 			"variants": []
 		},
 	},
-	'Input': {
-		// 'Press key': {
+	"Input": {
+		// "Press key": {
 		// 	"id": "keyboard",
 		// 	"unique": true,
 		// 	"disabled": true,
 		// 	"input": true,
 		// 	"variants": [{ "duration": null, "price": "300" }]
 		// },
-		'Block mouse': {
+		"Block mouse": {
 			"id": "block_mouse",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'block keyboard': {
+		"block keyboard": {
 			"id": "block_keyboard",
 			"unique": false,
 			"disabled": false,
 			"input": false,
 			"variants": []
 		},
-		'Remove keyboard effect': {
+		"Remove keyboard effect": {
 			"id": "cancel_keyboard",
 			"unique": true,
 			"disabled": true,
@@ -94,8 +94,8 @@
 			"variants": [{ "duration": null, "price": "300" }]
 		},
 	},
-	'Sound': {
-		'Play': {
+	"Sound": {
+		"Play": {
 			"id": "playsound",
 			"unique": false,
 			"disabled": false,
@@ -103,15 +103,15 @@
 			"variants": []
 		}
 	},
-	'Timeout': {
-		'Create timeout': {
+	"Timeout": {
+		"Create timeout": {
 			"id": "timeout",
 			"unique": false,
 			"disabled": false,
 			"input": true,
 			"variants": []
 		},
-		'Remove timeout': {
+		"Remove timeout": {
 			"id": "untimeout",
 			"unique": true,
 			"disabled": true,
@@ -119,7 +119,7 @@
 			"variants": [{ "duration": null, "price": "300" }]
 		}
 	},
-	'Lethal Company': {
+	"Lethal Company": {
 		"Teleport": {
 			"id": "lethalcompany_teleport",
 			"unique": true,
@@ -373,7 +373,7 @@
 		// 	"variants": [{ "duration": null, "price": "300" }]
 		// },
 	},
-	'R.E.P.O.': {
+	"R.E.P.O.": {
 		"Teleport": {
 			"id": "REPO_teleport",
 			"unique": true,
@@ -613,7 +613,7 @@
 			"variants": [{ "duration": null, "price": "300" }]
 		},
 	},
-	'Schedule I': {
+	"Schedule I": {
 		"Claim NPC": {
 			"id": "scheduleI_claimCharacter",
 			"unique": true,
