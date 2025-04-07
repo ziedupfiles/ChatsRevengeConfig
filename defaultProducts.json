@@ -65,13 +65,6 @@
 		},
 	},
 	"Input": {
-		// "Press key": {
-		// 	"id": "keyboard",
-		// 	"unique": true,
-		// 	"disabled": true,
-		// 	"input": true,
-		// 	"variants": [{ "duration": null, "price": "300" }]
-		// },
 		"Block mouse": {
 			"id": "block_mouse",
 			"unique": false,
@@ -358,20 +351,6 @@
 			"input": false,
 			"variants": [{ "duration": null, "price": "300" }]
 		},
-		// "Charge Battery": {
-		// 	"id": "lethalcompany_chargeBattey",
-		// 	"unique": true,
-		// 	"disabled": true,
-		// 	"input": false,
-		// 	"variants": [{ "duration": null, "price": "300" }]
-		// },
-		// "Drain Battery": {
-		// 	"id": "lethalcompany_drainBattey",
-		// 	"unique": true,
-		// 	"disabled": true,
-		// 	"input": false,
-		// 	"variants": [{ "duration": null, "price": "300" }]
-		// },
 	},
 	"R.E.P.O.": {
 		"Teleport": {
