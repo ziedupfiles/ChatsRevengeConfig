@@ -26,14 +26,24 @@
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Minimize Window": {
       "id": "minimize",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Glitch Window": {
       "id": "glitch",
@@ -84,7 +94,12 @@
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     }
   },
   "Sound": {
@@ -109,7 +124,12 @@
       "unique": true,
       "disabled": true,
       "input": true,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     }
   },
   "Lethal Company": {
@@ -118,238 +138,957 @@
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Teleport to Ship": {
       "id": "lethalcompany_teleportShip",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Leave Early": {
       "id": "lethalcompany_leaveEarly",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Mine": {
       "id": "lethalcompany_spawnMine",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Revive All Players": {
       "id": "lethalcompany_revive",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Meet Quota": {
       "id": "lethalcompany_meetQuota",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Double Credits": {
       "id": "lethalcompany_doubleCredits",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Half Credits": {
       "id": "lethalcompany_halfCredits",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Bug Infestation": {
       "id": "lethalcompany_bugs",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Lootbox": {
       "id": "lethalcompany_lootbox",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Open all vents": {
       "id": "lethalcompany_vents",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Drunk filter": {
       "id": "lethalcompany_drunk",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Fake turret sound": {
       "id": "lethalcompany_turretSound",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Coilhead Sound": {
       "id": "lethalcompany_coilheadSound",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Jester Sound": {
       "id": "lethalcompany_jesterSound",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Ghost Girl Sound": {
       "id": "lethalcompany_girlSound",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Stormy": {
       "id": "lethalcompany_stormy",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Foggy": {
       "id": "lethalcompany_foggy",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Rainy": {
       "id": "lethalcompany_rainy",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Eclipse": {
       "id": "lethalcompany_eclipse",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Flooded": {
       "id": "lethalcompany_flooded",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Clear Weather": {
       "id": "lethalcompany_clearweather",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Fake Random Action": {
       "id": "lethalcompany_fakeAction",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Destroy All Held Items": {
       "id": "lethalcompany_destroyAllItem",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Destroy Current Item": {
       "id": "lethalcompany_destroyCurrentItem",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Immunity": {
       "id": "lethalcompany_immunity",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Dog": {
       "id": "lethalcompany_spawnDog",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Bee Hive": {
       "id": "lethalcompany_spawnBees",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Jester": {
       "id": "lethalcompany_spawnJester",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Coilhead": {
       "id": "lethalcompany_spawnCoilhead",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Spider": {
       "id": "lethalcompany_spawnSpider",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Bracken": {
       "id": "lethalcompany_spawnBracken",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Spawn Nutcracker": {
       "id": "lethalcompany_spawnNutcracker",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     },
     "Kill Enemy": {
       "id": "lethalcompany_killEnemy",
       "unique": true,
       "disabled": true,
       "input": false,
-      "variants": [{ "duration": null, "price": "300" }]
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
     }
-  }
+  },
+  "R.E.P.O.": {
+    "Teleport": {
+      "id": "REPO_teleport",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Lootbox": {
+      "id": "REPO_lootbox",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn Live Grenade": {
+      "id": "REPO_spawnGrenade",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn Live Mine": {
+      "id": "REPO_spawnMine",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Give Random Weapon": {
+      "id": "REPO_weapon",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Heal Player": {
+      "id": "REPO_heal",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "10 Damage To Player": {
+      "id": "REPO_hurt",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Revive Player": {
+      "id": "REPO_revive",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Kill A Monster": {
+      "id": "REPO_killememy",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "50% Shop Discount": {
+      "id": "REPO_discount",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Initiate Self Destruct": {
+      "id": "REPO_selfDestruct",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Give Immunity": {
+      "id": "REPO_immunity",
+      "unique": false,
+      "disabled": true,
+      "input": false,
+      "variants": []
+    },
+    "Destroy Closest Item": {
+      "id": "REPO_destroyClosest",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Flashlight Off": {
+      "id": "REPO_lightsOff",
+      "unique": false,
+      "disabled": true,
+      "input": false,
+      "variants": []
+    },
+    "Gnome Infestation": {
+      "id": "REPO_gnomeInfestation",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Head": {
+      "id": "REPO_head",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn An Eye": {
+      "id": "REPO_eye",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Runner": {
+      "id": "REPO_runner",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Laser Clown": {
+      "id": "REPO_clown",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Blind Hunter": {
+      "id": "REPO_hunter",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Thinman": {
+      "id": "REPO_thinman",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Duck": {
+      "id": "REPO_duck",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Hidden": {
+      "id": "REPO_hidden",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Robe": {
+      "id": "REPO_robe",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Blowtie": {
+      "id": "REPO_blowtie",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn An Upscream": {
+      "id": "REPO_upscream",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Mouth": {
+      "id": "REPO_mouth",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Trudge": {
+      "id": "REPO_trudge",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn An Alien": {
+      "id": "REPO_alien",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn An Frog": {
+      "id": "REPO_frog",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn An Animal": {
+      "id": "REPO_animal",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Spawn A Rugrat": {
+      "id": "REPO_rugrat",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    }
+  },
+  "Schedule I": {
+    "Claim NPC": {
+      "id": "scheduleI_claimCharacter",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Unlock All NPCs": {
+      "id": "scheduleI_unlockAll",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Double/Half Cash (50%)": {
+      "id": "scheduleI_50double50halfCash",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Double Cash": {
+      "id": "scheduleI_doubleCash",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Half Cash": {
+      "id": "scheduleI_halfCash",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Request To Buy Substance": {
+      "id": "scheduleI_sendContract",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "3 Free Slot Spins": {
+      "id": "scheduleI_freeSlotSpin",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Better Slot Odds": {
+      "id": "scheduleI_betterSlotodds",
+      "unique": false,
+      "disabled": false,
+      "input": false,
+      "variants": []
+    },
+    "Call The Cops": {
+      "id": "scheduleI_callCops",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "NPC attack": {
+      "id": "scheduleI_attack",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Mob of NPCs attack": {
+      "id": "scheduleI_attackGroup",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Suspicous Profiling": {
+      "id": "scheduleI_profiling",
+      "unique": false,
+      "disabled": false,
+      "input": false,
+      "variants": []
+    },
+    "Fake Game Crash": {
+      "id": "scheduleI_fakeCrash",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Rain Raining Trash": {
+      "id": "scheduleI_trash",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
+    "Destroy a Random Plant": {
+      "id": "scheduleI_destroyRandomPlant",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    }
+  },
+  "username": ""
 }
