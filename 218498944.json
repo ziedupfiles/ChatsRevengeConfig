@@ -49,7 +49,7 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -61,7 +61,7 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -73,7 +73,7 @@
       "Lag Window": {
         "id": "lag",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
