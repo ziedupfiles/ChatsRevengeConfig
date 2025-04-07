@@ -62,7 +62,7 @@
 			"disabled": false,
 			"input": false,
 			"variants": []
-		},
+		}
 	},
 	"Input": {
 		"Block mouse": {
@@ -350,7 +350,7 @@
 			"disabled": true,
 			"input": false,
 			"variants": [{ "duration": null, "price": "300" }]
-		},
+		}
 	},
 	"R.E.P.O.": {
 		"Teleport": {
@@ -590,7 +590,7 @@
 			"disabled": true,
 			"input": false,
 			"variants": [{ "duration": null, "price": "300" }]
-		},
+		}
 	},
 	"Schedule I": {
 		"Claim NPC": {
@@ -697,6 +697,6 @@
 			"disabled": true,
 			"input": false,
 			"variants": [{ "duration": null, "price": "300" }]
-		},
+		}
 	}
 }
