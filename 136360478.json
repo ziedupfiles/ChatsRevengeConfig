@@ -54,50 +54,30 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       }
     },
     "Input": {
@@ -613,7 +593,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -625,7 +605,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -637,7 +617,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -649,7 +629,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
