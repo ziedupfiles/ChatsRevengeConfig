@@ -48,6 +48,54 @@
             "price": "50"
           }
         ]
+      },
+      "Minimize Window": {
+        "id": "minimize",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Glitch Window": {
+        "id": "glitch",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Pixelate Window": {
+        "id": "pixelate",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Lag Window": {
+        "id": "lag",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
       }
     },
     "Input": {
@@ -1019,6 +1067,30 @@
           {
             "duration": null,
             "price": "100"
+          }
+        ]
+      },
+      "NPC attack": {
+        "id": "scheduleI_attack",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Mob of NPCs attack": {
+        "id": "scheduleI_attackGroup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
           }
         ]
       }
