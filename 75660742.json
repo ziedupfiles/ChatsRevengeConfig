@@ -48,6 +48,66 @@
             "price": "10"
           }
         ]
+      },
+      "Minimize Window": {
+        "id": "minimize",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "150"
+          }
+        ]
+      },
+      "Glitch Window": {
+        "id": "glitch",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
+      },
+      "Pixelate Window": {
+        "id": "pixelate",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
+      },
+      "Lag Window": {
+        "id": "lag",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
+      },
+      "Shrink Window": {
+        "id": "ant",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       }
     },
     "Input": {
@@ -1059,6 +1119,54 @@
           {
             "duration": null,
             "price": "100"
+          }
+        ]
+      },
+      "NPC attack": {
+        "id": "scheduleI_attack",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Mob of NPCs attack": {
+        "id": "scheduleI_attackGroup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Rain Raining Trash": {
+        "id": "scheduleI_trash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy a Random Plant": {
+        "id": "scheduleI_destroyRandomPlant",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
           }
         ]
       }
