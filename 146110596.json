@@ -4,7 +4,7 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -16,7 +16,7 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -64,7 +64,7 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -76,7 +76,7 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -88,7 +88,7 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -100,7 +100,7 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
