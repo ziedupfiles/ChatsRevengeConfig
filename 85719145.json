@@ -49,7 +49,7 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -85,9 +85,14 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "5"
+          }
+        ]
       }
     },
     "Input": {
