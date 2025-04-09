@@ -17,34 +17,28 @@
             "variantID": "lethalcompany_teleport0"
           },
           {
-            "price": 1,
+            "price": "300",
             "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport1744225006851"
+            "type": "bits",
+            "variantID": "Teleport1744226216980"
+          },
+          {
+            "price": "300",
+            "disabled": true,
+            "type": "bits",
+            "variantID": "Teleport1744226217248"
           },
           {
             "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744225055272"
+            "variantID": "Teleport1744226217794"
           },
           {
             "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744226085986"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport1744226206778"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport1744226207034"
+            "variantID": "Teleport1744226218022"
           }
         ]
       },
