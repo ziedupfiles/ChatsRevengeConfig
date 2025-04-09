@@ -983,12 +983,12 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -1019,7 +1019,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600"
+            "price": "500"
           }
         ]
       },
@@ -1043,7 +1043,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "700"
+            "price": "500"
           }
         ]
       },
@@ -1067,14 +1067,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1086,7 +1086,7 @@
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
