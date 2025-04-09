@@ -40,6 +40,12 @@
             "disabled": true,
             "type": "bits",
             "variantID": "lethalcompany_teleport4"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Teleport1744224731770"
           }
         ]
       },
