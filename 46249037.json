@@ -27,6 +27,12 @@
             "disabled": true,
             "type": "channelPoints",
             "variantID": "Teleport1744225055272"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Teleport1744226085986"
           }
         ]
       },
