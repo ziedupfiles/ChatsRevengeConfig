@@ -6,21 +6,36 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "duration": "5"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "10"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "10"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -1125,5 +1140,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "EgoVenatus"
 }
