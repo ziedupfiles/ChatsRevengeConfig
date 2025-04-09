@@ -114,7 +114,16 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          },
+          {
+            "price": "200",
+            "duration": "30"
+          }
+        ]
       }
     },
     "Input": {
