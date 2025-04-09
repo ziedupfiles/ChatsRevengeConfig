@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "200",
             "cooldown": "6",
             "channelPoints": "4",
             "disabled": false,
