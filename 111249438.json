@@ -943,7 +943,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -962,7 +962,7 @@
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1039,7 +1039,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -1051,7 +1051,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -1063,7 +1063,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -1082,7 +1082,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -1094,7 +1094,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -1106,7 +1106,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       }
