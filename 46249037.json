@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "350",
+            "price": "20",
             "cooldown": "6",
             "channelPoints": "4",
             "disabled": false,
@@ -432,7 +432,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "600",
             "type": "bits",
             "variantID": "lethalcompany_jesterSound0"
           }
