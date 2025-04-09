@@ -524,6 +524,13 @@
             "type": "channelPoints",
             "variantID": "Turn off1744225028721",
             "duration": "1"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Turn off1744225064256",
+            "duration": "1"
           }
         ]
       },
