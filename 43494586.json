@@ -1116,14 +1116,15 @@
   "specielKeyList": {
     "ArrowKeys": false,
     "F_Keys": false,
-    "Shift": false,
+    "Shift": true,
     "Alt": false,
     "Escape": false,
     "Enter": false,
-    "Tab": false,
+    "Tab": true,
     "Windows": false,
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "DeathTech154"
 }
