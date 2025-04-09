@@ -4,36 +4,36 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "150",
+            "duration": "5"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "50",
+            "duration": "10"
           }
         ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -64,48 +64,48 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "50",
+            "duration": "10"
           }
         ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "50",
+            "duration": "10"
           }
         ]
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "50",
+            "duration": "10"
           }
         ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "50",
+            "duration": "10"
           }
         ]
       }
