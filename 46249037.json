@@ -493,25 +493,6 @@
             "duration": "2",
             "type": "bits",
             "variantID": "monitor0"
-          },
-          {
-            "price": "1",
-            "duration": "4",
-            "type": "bits",
-            "variantID": "monitor1"
-          },
-          {
-            "price": "1",
-            "duration": "6",
-            "type": "bits",
-            "variantID": "monitor2"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Turn off1744225028721",
-            "duration": "1"
           }
         ]
       },
