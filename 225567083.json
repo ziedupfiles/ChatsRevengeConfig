@@ -25,7 +25,7 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -37,7 +37,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -552,7 +552,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -564,7 +564,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -576,7 +576,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -588,7 +588,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -600,7 +600,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -612,7 +612,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -624,7 +624,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -636,7 +636,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -648,7 +648,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -660,7 +660,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -672,7 +672,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -681,7 +681,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
@@ -691,7 +696,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -700,7 +705,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "1"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
@@ -710,7 +720,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -722,7 +732,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -734,7 +744,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -746,7 +756,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -758,7 +768,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -770,7 +780,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -782,7 +792,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -794,7 +804,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -806,7 +816,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -818,7 +828,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -830,7 +840,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -842,7 +852,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -854,7 +864,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -866,7 +876,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -878,7 +888,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -890,7 +900,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -902,7 +912,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -914,7 +924,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       }
@@ -1105,5 +1115,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "xNokedli_"
 }
