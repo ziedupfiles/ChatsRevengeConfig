@@ -1275,7 +1275,8 @@
             "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Call The Cops1744301657705"
+            "variantID": "Call The Cops1744301657705",
+            "cooldown": "2"
           }
         ]
       },
