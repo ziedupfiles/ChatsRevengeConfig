@@ -505,6 +505,13 @@
             "duration": "2",
             "type": "bits",
             "variantID": "monitor0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Turn off1744300903061",
+            "duration": "1"
           }
         ]
       },
