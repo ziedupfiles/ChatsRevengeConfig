@@ -667,7 +667,7 @@
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -722,7 +722,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -734,7 +734,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -746,7 +746,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -758,7 +758,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -770,7 +770,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -782,7 +782,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -794,31 +794,31 @@
         "variants": [
           {
             "duration": null,
-            "price": "400"
+            "price": "500"
           }
         ]
       },
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -849,24 +849,24 @@
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -878,7 +878,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -897,12 +897,12 @@
       "Spawn An Animal": {
         "id": "REPO_animal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
