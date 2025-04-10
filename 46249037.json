@@ -576,7 +576,15 @@
         "unique": false,
         "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Glitch Window1744300925727",
+            "duration": "1"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
