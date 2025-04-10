@@ -469,12 +469,6 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_clearweather0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Clear Weather1744302002423"
           }
         ]
       },
