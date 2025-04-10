@@ -1270,12 +1270,6 @@
             "price": "300",
             "type": "bits",
             "variantID": "scheduleI_callCops0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Call The Cops1744301649470"
           }
         ]
       },
