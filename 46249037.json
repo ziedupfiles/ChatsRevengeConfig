@@ -15,12 +15,6 @@
             "disabled": false,
             "type": "bits",
             "variantID": "lethalcompany_teleport0"
-          },
-          {
-            "price": "350",
-            "disabled": false,
-            "type": "channelPoints",
-            "variantID": "Teleport1744297349155"
           }
         ]
       },
