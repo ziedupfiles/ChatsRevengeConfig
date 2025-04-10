@@ -983,7 +983,7 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1105,5 +1105,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "zKreed"
 }
