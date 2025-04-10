@@ -1257,7 +1257,16 @@
         "unique": false,
         "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Better Slot Odds1744301631683",
+            "duration": "1",
+            "cooldown": "1"
+          }
+        ]
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
