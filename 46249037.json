@@ -528,10 +528,11 @@
             "variantID": "blur0"
           },
           {
-            "price": "1",
-            "duration": "4",
-            "type": "bits",
-            "variantID": "blur1"
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Blur1744300913631",
+            "duration": "1"
           }
         ]
       },
