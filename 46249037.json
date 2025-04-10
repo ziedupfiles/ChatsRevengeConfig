@@ -111,6 +111,12 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_bugs0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Bug Infestation1744301685347"
           }
         ]
       },
