@@ -762,6 +762,12 @@
             "price": "300",
             "type": "bits",
             "variantID": "REPO_spawnGrenade0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Spawn Live Grenade1744302544321"
           }
         ]
       },
