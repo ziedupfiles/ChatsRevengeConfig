@@ -700,12 +700,17 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -717,7 +722,7 @@
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -729,7 +734,7 @@
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -741,7 +746,7 @@
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -753,7 +758,7 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -765,7 +770,7 @@
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -777,7 +782,7 @@
       "Spawn A Thinman": {
         "id": "REPO_thinman",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -789,7 +794,7 @@
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -801,7 +806,7 @@
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -813,7 +818,7 @@
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
