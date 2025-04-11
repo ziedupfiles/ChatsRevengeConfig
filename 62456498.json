@@ -923,7 +923,7 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -935,7 +935,7 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
