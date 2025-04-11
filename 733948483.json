@@ -733,12 +733,12 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
