@@ -559,7 +559,7 @@
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -595,7 +595,7 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -607,7 +607,7 @@
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -619,7 +619,7 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
