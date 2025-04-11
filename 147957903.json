@@ -686,7 +686,7 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
