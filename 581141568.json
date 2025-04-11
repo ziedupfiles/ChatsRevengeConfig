@@ -22,7 +22,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "30",
             "duration": "3"
           }
         ]
@@ -1110,5 +1110,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "niproxdlol_07"
 }
