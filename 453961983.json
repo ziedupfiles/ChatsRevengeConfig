@@ -11,9 +11,14 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -49,9 +54,14 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
