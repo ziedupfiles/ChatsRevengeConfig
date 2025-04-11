@@ -1091,7 +1091,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "800"
           }
         ]
       },
@@ -1103,7 +1103,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -1115,7 +1115,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       }
