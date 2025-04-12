@@ -20,13 +20,14 @@
             "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744495211239"
+            "variantID": "Teleport1744495211239",
+            "rewardID": "5f34363d-dd66-4b2e-bcad-556c23108fa5"
           },
           {
-            "price": 1,
+            "price": "30",
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744495318661"
+            "variantID": "Teleport1744495340473"
           }
         ]
       },
