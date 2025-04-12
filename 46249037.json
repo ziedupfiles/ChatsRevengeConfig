@@ -15,12 +15,6 @@
             "disabled": false,
             "type": "bits",
             "variantID": "lethalcompany_teleport0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport1744302248052"
           }
         ]
       },
@@ -619,7 +613,9 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "1",
+            "type": "bits",
+            "variantID": "pixelate0"
           }
         ]
       },
@@ -638,9 +634,39 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "1",
+            "type": "bits",
+            "variantID": "ant0"
           }
         ]
+      },
+      "Open a Pop Up": {
+        "id": "minimize",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300",
+            "type": "bits",
+            "variantID": "minimize0"
+          }
+        ]
+      },
+      "Negative Colors": {
+        "id": "invert",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": []
+      },
+      "Mirror Screen": {
+        "id": "mirror",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
