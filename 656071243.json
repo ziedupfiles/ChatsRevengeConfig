@@ -15,8 +15,8 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
-            "duration": "1"
+            "price": "250",
+            "duration": "10"
           }
         ]
       },
@@ -27,8 +27,8 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "250",
+            "duration": "10"
           }
         ]
       },
