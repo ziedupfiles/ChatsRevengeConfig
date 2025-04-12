@@ -18,9 +18,10 @@
           },
           {
             "price": 1,
-            "disabled": true,
+            "disabled": false,
             "type": "channelPoints",
-            "variantID": "Teleport1744495029537"
+            "variantID": "Teleport1744495029537",
+            "rewardID": "4c4e8dc7-52ea-4542-b50a-5c6715f0ceb3"
           }
         ]
       },
