@@ -24,10 +24,11 @@
             "rewardID": "5f34363d-dd66-4b2e-bcad-556c23108fa5"
           },
           {
-            "price": "30",
+            "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744495340473"
+            "variantID": "Teleport1744495347629",
+            "cooldown": "2"
           }
         ]
       },
