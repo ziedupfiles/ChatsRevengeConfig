@@ -88,6 +88,32 @@
         "disabled": true,
         "input": false,
         "variants": []
+      },
+      "Open a Pop Up": {
+        "id": "minimize",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Negative Colors": {
+        "id": "invert",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Mirror Screen": {
+        "id": "mirror",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
