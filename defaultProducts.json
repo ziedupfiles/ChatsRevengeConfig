@@ -72,6 +72,20 @@
       "disabled": false,
       "input": false,
       "variants": []
+    },
+    "Negative Colors": {
+      "id": "invert",
+      "unique": false,
+      "disabled": false,
+      "input": false,
+      "variants": []
+    },
+    "Mirror Screen": {
+      "id": "mirror",
+      "unique": false,
+      "disabled": false,
+      "input": false,
+      "variants": []
     }
   },
   "Input": {
