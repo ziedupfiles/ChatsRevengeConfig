@@ -18,7 +18,7 @@
           },
           {
             "price": "600",
-            "disabled": false,
+            "disabled": true,
             "type": "channelPoints",
             "variantID": "Teleport1744494144625",
             "rewardID": "1c42d668-6277-46a5-8706-3b4f4f9f9bc0"
