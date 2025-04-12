@@ -71,24 +71,6 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_revive0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Revive All Players1744300728443"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Revive All Players1744302142481"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Revive All Players1744302204731"
           }
         ]
       },
