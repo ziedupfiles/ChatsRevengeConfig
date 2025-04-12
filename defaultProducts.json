@@ -45,6 +45,18 @@
         }
       ]
     },
+    "Open a Pop Up": {
+      "id": "minimize",
+      "unique": true,
+      "disabled": true,
+      "input": false,
+      "variants": [
+        {
+          "duration": null,
+          "price": "300"
+        }
+      ]
+    },
     "Glitch Window": {
       "id": "glitch",
       "unique": false,
