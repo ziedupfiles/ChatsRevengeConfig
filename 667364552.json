@@ -605,7 +605,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "150"
           }
         ]
       },
@@ -617,7 +617,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -629,7 +629,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -701,7 +701,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "250"
           }
         ]
       },
@@ -756,7 +756,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -1135,6 +1135,89 @@
             "price": "300"
           }
         ]
+      },
+      "Heal The Player": {
+        "id": "scheduleI_heal",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Deal 10 Damage": {
+        "id": "scheduleI_damage",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Reduce Wanted Level": {
+        "id": "scheduleI_reduceWanted",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Increase Wanted Level": {
+        "id": "scheduleI_escalateWanted",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Anti-Gravity": {
+        "id": "scheduleI_antiGravity",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Seizure Procedure": {
+        "id": "scheduleI_seizure",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Make Player Disoriented": {
+        "id": "scheduleI_disorienting",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Make Player Athletic": {
+        "id": "scheduleI_athletic",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Random Status Effect": {
+        "id": "scheduleI_randomStatusEffect",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     }
   },
