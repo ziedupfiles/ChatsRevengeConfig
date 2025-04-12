@@ -981,7 +981,7 @@
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
