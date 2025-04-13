@@ -43,6 +43,12 @@
             "price": "1",
             "type": "bits",
             "variantID": "lethalcompany_leaveEarly0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Leave Early1744566868852"
           }
         ]
       },
