@@ -59,7 +59,7 @@
             "variantID": "lethalcompany_spawnMine0"
           },
           {
-            "price": 1,
+            "price": "800",
             "disabled": true,
             "type": "channelPoints",
             "variantID": "Spawn Mine1744568918266",
