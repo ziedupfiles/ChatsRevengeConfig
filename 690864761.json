@@ -94,6 +94,10 @@
           {
             "price": "20",
             "duration": "10"
+          },
+          {
+            "price": "20",
+            "duration": "1"
           }
         ]
       },
