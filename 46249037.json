@@ -17,10 +17,10 @@
             "variantID": "lethalcompany_teleport0"
           },
           {
-            "price": 1,
-            "disabled": false,
+            "price": "100",
+            "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744504024992"
+            "variantID": "Teleport1744564353333"
           }
         ]
       },
