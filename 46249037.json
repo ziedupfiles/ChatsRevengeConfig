@@ -88,7 +88,7 @@
           },
           {
             "price": 1,
-            "disabled": true,
+            "disabled": false,
             "type": "channelPoints",
             "variantID": "Meet Quota1744564638079",
             "rewardID": "bc25da1b-7315-4628-af95-b4fa8b17dfa2"
