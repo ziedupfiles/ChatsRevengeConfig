@@ -46,7 +46,7 @@
       ]
     },
     "Open a Pop Up": {
-      "id": "minimize",
+      "id": "popup",
       "unique": true,
       "disabled": true,
       "input": false,
@@ -86,7 +86,7 @@
       "variants": []
     },
     "Negative Colors": {
-      "id": "invert",
+      "id": "negative",
       "unique": false,
       "disabled": false,
       "input": false,
