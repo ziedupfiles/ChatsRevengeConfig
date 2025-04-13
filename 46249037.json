@@ -38,7 +38,7 @@
           },
           {
             "price": 1,
-            "disabled": false,
+            "disabled": true,
             "type": "channelPoints",
             "variantID": "Teleport to Ship1744504034786",
             "rewardID": "6733fbfd-507d-4a10-826d-e255a50ca683"
