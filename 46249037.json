@@ -636,19 +636,24 @@
           }
         ]
       },
-      "Negative Colors": {
-        "id": "invert",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
         "variants": []
+      },
+      "Invert Colors": {
+        "id": "negative",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Input": {
