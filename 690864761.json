@@ -122,7 +122,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Input": {
