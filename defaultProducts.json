@@ -128,15 +128,6 @@
       ]
     }
   },
-  "Sound": {
-    "Play": {
-      "id": "playsound",
-      "unique": false,
-      "disabled": false,
-      "input": false,
-      "variants": []
-    }
-  },
   "Timeout": {
     "Create timeout": {
       "id": "timeout",
