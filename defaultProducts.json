@@ -85,8 +85,8 @@
       "input": false,
       "variants": []
     },
-    "Negative Colors": {
-      "id": "negative",
+    "Invert Colors": {
+      "id": "invert",
       "unique": false,
       "disabled": false,
       "input": false,
