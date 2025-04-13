@@ -60,9 +60,10 @@
           },
           {
             "price": 1,
-            "disabled": true,
+            "disabled": false,
             "type": "channelPoints",
-            "variantID": "Spawn Mine1744566392990"
+            "variantID": "Spawn Mine1744566392990",
+            "rewardID": "09caddf0-f2f0-45cf-9e44-f52886cd3945"
           }
         ]
       },
@@ -91,13 +92,6 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_meetQuota0"
-          },
-          {
-            "price": 1,
-            "disabled": false,
-            "type": "channelPoints",
-            "variantID": "Meet Quota1744564638079",
-            "rewardID": "bc25da1b-7315-4628-af95-b4fa8b17dfa2"
           }
         ]
       },
