@@ -85,13 +85,6 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_meetQuota0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Meet Quota1744568415802",
-            "rewardID": "8ee8ec6b-690d-4589-b921-4d633acfe07f"
           }
         ]
       },
