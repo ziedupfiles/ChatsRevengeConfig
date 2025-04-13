@@ -140,16 +140,16 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "10"
           },
           {
             "price": "20",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
