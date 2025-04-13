@@ -639,14 +639,14 @@
       "Negative Colors": {
         "id": "invert",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       }
@@ -1456,35 +1456,35 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       },
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": []
       }
