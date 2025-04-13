@@ -86,15 +86,15 @@
         "input": false,
         "variants": []
       },
-      "Negative Colors": {
-        "id": "negative",
+      "Mirror Screen": {
+        "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
         "variants": []
       },
-      "Mirror Screen": {
-        "id": "mirror",
+      "Invert Colors": {
+        "id": "negative",
         "unique": false,
         "disabled": true,
         "input": false,
