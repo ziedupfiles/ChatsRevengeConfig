@@ -104,9 +104,14 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "40",
+            "duration": "1"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
