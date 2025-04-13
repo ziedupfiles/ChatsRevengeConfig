@@ -516,15 +516,15 @@
           }
         ]
       },
-      "Negative Colors": {
-        "id": "negative",
+      "Mirror Screen": {
+        "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
         "variants": []
       },
-      "Mirror Screen": {
-        "id": "mirror",
+      "Invert Colors": {
+        "id": "negative",
         "unique": false,
         "disabled": true,
         "input": false,
@@ -575,7 +575,7 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
