@@ -35,6 +35,12 @@
             "price": "1",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Teleport to Ship1744504034786"
           }
         ]
       },
