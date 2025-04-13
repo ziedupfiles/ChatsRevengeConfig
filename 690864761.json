@@ -8,12 +8,12 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "20",
+            "duration": "10"
           },
           {
-            "price": "100",
-            "duration": "1"
+            "price": "30",
+            "duration": "10"
           }
         ]
       },
