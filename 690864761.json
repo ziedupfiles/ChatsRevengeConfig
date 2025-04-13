@@ -109,7 +109,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "1"
+          }
+        ]
       },
       "Open a Pop Up": {
         "id": "popup",
