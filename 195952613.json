@@ -564,7 +564,7 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -581,19 +581,19 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "20"
           }
         ]
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "20"
           }
         ]
       },
@@ -605,7 +605,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "40"
           }
         ]
       },
@@ -617,7 +617,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "50"
           }
         ]
       },
@@ -629,7 +629,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "100"
           }
         ]
       },
@@ -641,7 +641,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "150"
           }
         ]
       },
@@ -715,11 +715,11 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "30",
             "duration": "30"
           }
         ]
@@ -727,12 +727,12 @@
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "40"
           }
         ]
       },
@@ -775,12 +775,12 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "50"
           }
         ]
       },
