@@ -73,11 +73,11 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "10"
           },
           {
             "price": "40",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
