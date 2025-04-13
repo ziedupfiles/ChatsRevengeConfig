@@ -20,7 +20,8 @@
             "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Teleport1744564615391"
+            "variantID": "Teleport1744564619445",
+            "cooldown": "3"
           }
         ]
       },
