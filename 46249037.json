@@ -60,7 +60,7 @@
           },
           {
             "price": 1,
-            "disabled": true,
+            "disabled": false,
             "type": "channelPoints",
             "variantID": "Spawn Mine1744564483603"
           }
