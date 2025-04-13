@@ -69,7 +69,8 @@
             "price": 1,
             "disabled": true,
             "type": "channelPoints",
-            "variantID": "Spawn Mine1744566747464"
+            "variantID": "Spawn Mine1744566758588",
+            "cooldown": "22"
           }
         ]
       },
