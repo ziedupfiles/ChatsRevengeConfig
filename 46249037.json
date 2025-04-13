@@ -172,7 +172,7 @@
           },
           {
             "price": "100",
-            "disabled": true,
+            "disabled": false,
             "type": "channelPoints",
             "variantID": "Stormy1744568528983",
             "rewardID": "100a0b11-30bc-4c24-a9c0-ccd522c0ad40"
