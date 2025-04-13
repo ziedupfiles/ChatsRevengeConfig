@@ -46,9 +46,10 @@
           },
           {
             "price": 1,
-            "disabled": true,
+            "disabled": false,
             "type": "channelPoints",
-            "variantID": "Leave Early1744566868852"
+            "variantID": "Leave Early1744566868852",
+            "rewardID": "7e0a7eab-80ee-4e4d-92e9-f3e6519dba13"
           }
         ]
       },
