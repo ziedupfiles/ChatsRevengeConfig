@@ -493,13 +493,6 @@
             "duration": "2",
             "type": "bits",
             "variantID": "monitor0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Turn off1744300903061",
-            "duration": "1"
           }
         ]
       },
@@ -564,15 +557,7 @@
         "unique": false,
         "disabled": false,
         "input": false,
-        "variants": [
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Glitch Window1744300925727",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Pixelate Window": {
         "id": "pixelate",
@@ -651,15 +636,7 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Block mouse1744300938963",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
