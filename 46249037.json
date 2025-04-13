@@ -169,6 +169,13 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_stormy0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Stormy1744568528983",
+            "rewardID": "100a0b11-30bc-4c24-a9c0-ccd522c0ad40"
           }
         ]
       },
