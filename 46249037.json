@@ -29,13 +29,6 @@
             "price": "1",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport to Ship1744504034786",
-            "rewardID": "6733fbfd-507d-4a10-826d-e255a50ca683"
           }
         ]
       },
