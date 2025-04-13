@@ -116,7 +116,7 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -133,7 +133,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "40"
           }
         ]
       },
