@@ -29,12 +29,6 @@
             "price": "1",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0"
-          },
-          {
-            "price": 1,
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport to Ship1744566349555"
           }
         ]
       },
@@ -63,6 +57,12 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_spawnMine0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Spawn Mine1744566392990"
           }
         ]
       },
