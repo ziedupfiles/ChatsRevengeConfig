@@ -651,7 +651,9 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "1",
+            "type": "bits",
+            "variantID": "negative0"
           }
         ]
       }
