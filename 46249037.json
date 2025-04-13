@@ -57,13 +57,6 @@
             "price": "300",
             "type": "bits",
             "variantID": "lethalcompany_spawnMine0"
-          },
-          {
-            "price": 1,
-            "disabled": false,
-            "type": "channelPoints",
-            "variantID": "Spawn Mine1744566392990",
-            "rewardID": "09caddf0-f2f0-45cf-9e44-f52886cd3945"
           }
         ]
       },
