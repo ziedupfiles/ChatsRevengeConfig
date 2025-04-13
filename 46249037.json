@@ -15,12 +15,6 @@
             "disabled": false,
             "type": "bits",
             "variantID": "lethalcompany_teleport0"
-          },
-          {
-            "price": "100",
-            "disabled": true,
-            "type": "channelPoints",
-            "variantID": "Teleport1744564353333"
           }
         ]
       },
@@ -56,6 +50,12 @@
             "price": "1",
             "type": "bits",
             "variantID": "lethalcompany_leaveEarly0"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Leave Early1744564396195"
           }
         ]
       },
