@@ -64,6 +64,12 @@
             "type": "channelPoints",
             "variantID": "Spawn Mine1744566392990",
             "rewardID": "09caddf0-f2f0-45cf-9e44-f52886cd3945"
+          },
+          {
+            "price": 1,
+            "disabled": true,
+            "type": "channelPoints",
+            "variantID": "Spawn Mine1744566747464"
           }
         ]
       },
