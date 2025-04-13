@@ -9,19 +9,12 @@
         "variants": [
           {
             "duration": null,
-            "price": "400",
+            "price": "1",
             "cooldown": "6",
             "channelPoints": "4",
             "disabled": false,
             "type": "bits",
             "variantID": "lethalcompany_teleport0"
-          },
-          {
-            "price": 1,
-            "disabled": false,
-            "type": "channelPoints",
-            "variantID": "Teleport1744573852018",
-            "rewardID": "0018a2b2-707b-4918-8afa-3e41dfef3e74"
           }
         ]
       },
