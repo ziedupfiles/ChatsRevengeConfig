@@ -682,7 +682,7 @@
         "input": true,
         "variants": [
           {
-            "price": "300",
+            "price": "1",
             "disabled": false,
             "type": "bits",
             "variantID": "Create timeout1744659715168",
