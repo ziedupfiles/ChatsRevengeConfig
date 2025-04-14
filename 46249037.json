@@ -673,18 +673,6 @@
             "duration": "5",
             "type": "bits",
             "variantID": "timeout0"
-          },
-          {
-            "price": "100",
-            "duration": "1",
-            "type": "bits",
-            "variantID": "timeout1"
-          },
-          {
-            "price": "100",
-            "duration": "1",
-            "type": "bits",
-            "variantID": "timeout2"
           }
         ]
       },
