@@ -16,9 +16,18 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "8"
+          },
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
