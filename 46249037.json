@@ -1419,15 +1419,7 @@
         "unique": false,
         "disabled": false,
         "input": false,
-        "variants": [
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Make Player Disoriented1744635242250",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
