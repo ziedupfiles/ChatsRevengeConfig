@@ -10,7 +10,7 @@
           {
             "duration": null,
             "price": "1",
-            "cooldown": "6",
+            "cooldown": "600",
             "channelPoints": "4",
             "disabled": false,
             "type": "bits",
