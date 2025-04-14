@@ -1024,14 +1024,9 @@
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
@@ -1072,9 +1067,14 @@
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "15"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
@@ -1096,7 +1096,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "300"
           }
         ]
       },
