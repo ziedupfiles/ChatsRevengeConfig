@@ -73,6 +73,32 @@
         "disabled": true,
         "input": false,
         "variants": []
+      },
+      "Open a Pop Up": {
+        "id": "popup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Invert Colors": {
+        "id": "negative",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Mirror Screen": {
+        "id": "mirror",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
@@ -106,15 +132,6 @@
             "price": "300"
           }
         ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
       }
     },
     "Timeout": {
@@ -928,7 +945,7 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -940,55 +957,55 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "2000"
+            "price": "50"
           }
         ]
       },
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "50"
           }
         ]
       },
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "30"
           }
         ]
       },
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1000,7 +1017,7 @@
       "3 Free Slot Spins": {
         "id": "scheduleI_freeSlotSpin",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1019,7 +1036,19 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "1000"
+          }
+        ]
+      },
+      "NPC attack": {
+        "id": "scheduleI_attack",
+        "unique": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1028,27 +1057,15 @@
           }
         ]
       },
-      "NPC attack": {
-        "id": "scheduleI_attack",
-        "unique": true,
-        "disabled": true,
-        "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "100"
-          }
-        ]
-      },
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "1000"
           }
         ]
       },
@@ -1074,7 +1091,7 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1086,12 +1103,120 @@
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "1000"
+          }
+        ]
+      },
+      "Heal The Player": {
+        "id": "scheduleI_heal",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "50"
+          }
+        ]
+      },
+      "Deal 10 Damage": {
+        "id": "scheduleI_damage",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Reduce Wanted Level": {
+        "id": "scheduleI_reduceWanted",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "10"
+          }
+        ]
+      },
+      "Increase Wanted Level": {
+        "id": "scheduleI_escalateWanted",
+        "unique": true,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "500"
+          }
+        ]
+      },
+      "Anti-Gravity": {
+        "id": "scheduleI_antiGravity",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
+      },
+      "Seizure Procedure": {
+        "id": "scheduleI_seizure",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
+      },
+      "Make Player Disoriented": {
+        "id": "scheduleI_disorienting",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "200",
+            "duration": "10"
+          }
+        ]
+      },
+      "Make Player Athletic": {
+        "id": "scheduleI_athletic",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
+      },
+      "Random Status Effect": {
+        "id": "scheduleI_randomStatusEffect",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
           }
         ]
       }
