@@ -1208,9 +1208,14 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "3"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
