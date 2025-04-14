@@ -962,7 +962,7 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -979,7 +979,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -991,7 +991,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -1003,7 +1003,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -1015,7 +1015,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -1027,7 +1027,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1038,8 +1038,8 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
+            "price": "50",
+            "duration": "60"
           }
         ]
       },
@@ -1051,7 +1051,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1063,7 +1063,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -1075,7 +1075,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1087,7 +1087,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -1099,7 +1099,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1111,7 +1111,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1123,7 +1123,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -1135,7 +1135,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -1147,7 +1147,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1171,7 +1171,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1182,7 +1182,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "1"
           }
         ]
@@ -1194,7 +1194,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "1"
           }
         ]
@@ -1206,7 +1206,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "1"
           }
         ]
@@ -1218,7 +1218,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "1"
           }
         ]
@@ -1230,7 +1230,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "1"
           }
         ]
