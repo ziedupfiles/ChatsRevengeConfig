@@ -730,7 +730,14 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "1"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Live Grenade1744647313054"
           }
         ]
       },
