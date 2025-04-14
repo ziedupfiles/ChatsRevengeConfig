@@ -28,7 +28,20 @@
             "duration": null,
             "price": "1",
             "type": "bits",
-            "variantID": "lethalcompany_teleportShip0"
+            "variantID": "lethalcompany_teleportShip0",
+            "disabled": false
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Teleport to Ship1744659346780"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Teleport to Ship1744659347032"
           }
         ]
       },
