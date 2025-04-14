@@ -662,14 +662,14 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
             "price": "300",
+            "disabled": false,
             "type": "bits",
-            "variantID": "cancel_keyboard0"
+            "variantID": "Remove keyboard effect1744659688732"
           }
         ]
       }
