@@ -667,28 +667,14 @@
         "unique": false,
         "disabled": false,
         "input": true,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "5",
-            "type": "bits",
-            "variantID": "timeout0"
-          }
-        ]
+        "variants": []
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
         "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "untimeout0"
-          }
-        ]
+        "variants": []
       }
     },
     "R.E.P.O.": {
