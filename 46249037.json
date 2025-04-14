@@ -42,7 +42,8 @@
             "duration": null,
             "price": "1",
             "type": "bits",
-            "variantID": "lethalcompany_leaveEarly0"
+            "variantID": "lethalcompany_leaveEarly0",
+            "disabled": false
           }
         ]
       },
