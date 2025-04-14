@@ -1103,7 +1103,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "150"
           }
         ]
       },
@@ -1201,9 +1201,14 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
@@ -1215,23 +1220,38 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "duration": "10"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "duration": "10"
+          }
+        ]
       }
     }
   },
