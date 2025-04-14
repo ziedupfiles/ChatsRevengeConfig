@@ -63,7 +63,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "5"
           }
         ]
@@ -75,7 +75,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "5"
           }
         ]
@@ -98,6 +98,50 @@
         "disabled": true,
         "input": false,
         "variants": []
+      },
+      "Open a Pop Up": {
+        "id": "popup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Invert Colors": {
+        "id": "negative",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "price": "50",
+            "duration": "5"
+          },
+          {
+            "price": "100",
+            "duration": "15"
+          }
+        ]
+      },
+      "Mirror Screen": {
+        "id": "mirror",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "price": "50",
+            "duration": "5"
+          },
+          {
+            "price": "100",
+            "duration": "15"
+          }
+        ]
       }
     },
     "Input": {
@@ -126,15 +170,6 @@
             "price": "300"
           }
         ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
       }
     },
     "Timeout": {
@@ -1114,6 +1149,89 @@
             "price": "300"
           }
         ]
+      },
+      "Heal The Player": {
+        "id": "scheduleI_heal",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Deal 10 Damage": {
+        "id": "scheduleI_damage",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Reduce Wanted Level": {
+        "id": "scheduleI_reduceWanted",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Increase Wanted Level": {
+        "id": "scheduleI_escalateWanted",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Anti-Gravity": {
+        "id": "scheduleI_antiGravity",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Seizure Procedure": {
+        "id": "scheduleI_seizure",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Make Player Disoriented": {
+        "id": "scheduleI_disorienting",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Make Player Athletic": {
+        "id": "scheduleI_athletic",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Random Status Effect": {
+        "id": "scheduleI_randomStatusEffect",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     }
   },
