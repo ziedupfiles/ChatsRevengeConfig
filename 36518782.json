@@ -159,7 +159,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -171,7 +171,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -207,7 +207,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -219,7 +219,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
@@ -267,7 +267,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -303,7 +303,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -315,7 +315,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -327,7 +327,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -339,7 +339,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -945,7 +945,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -957,7 +957,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "2000"
           }
         ]
       },
@@ -969,7 +969,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -1005,7 +1005,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
@@ -1017,21 +1017,16 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
@@ -1041,7 +1036,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "1000"
           }
         ]
       },
@@ -1053,7 +1048,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "2000"
           }
         ]
       },
@@ -1065,7 +1060,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "3000"
           }
         ]
       },
@@ -1084,19 +1079,19 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "3000"
           }
         ]
       },
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
@@ -1108,7 +1103,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
@@ -1120,7 +1115,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "1000"
           }
         ]
       },
@@ -1132,7 +1127,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
@@ -1144,7 +1139,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "500"
           }
         ]
       },
@@ -1156,28 +1151,28 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "1000"
           }
         ]
       },
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "30"
-          }
-        ]
+        "variants": []
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
@@ -1189,14 +1184,9 @@
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "30"
-          }
-        ]
+        "variants": []
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
