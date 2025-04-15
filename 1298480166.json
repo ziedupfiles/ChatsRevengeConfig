@@ -11,9 +11,14 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "10"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
