@@ -37,7 +37,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -137,7 +137,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Input": {
