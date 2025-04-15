@@ -144,6 +144,10 @@
         "variants": [
           {
             "price": "100",
+            "duration": "10"
+          },
+          {
+            "price": "100",
             "duration": "1"
           }
         ]
@@ -1241,13 +1245,13 @@
     "ArrowKeys": false,
     "F_Keys": false,
     "Shift": false,
-    "Alt": false,
+    "Alt": true,
     "Escape": false,
     "Enter": false,
     "Tab": false,
     "Windows": false,
-    "Delete": false,
-    "Control": false,
+    "Delete": true,
+    "Control": true,
     "BackSpace": false
   },
   "username": "GameSux"
