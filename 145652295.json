@@ -123,9 +123,14 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "duration": "60"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
