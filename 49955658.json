@@ -576,7 +576,7 @@
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -593,7 +593,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -605,7 +605,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -617,7 +617,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
@@ -629,7 +629,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
@@ -653,7 +653,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1000"
           }
         ]
       },
@@ -665,7 +665,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -677,7 +677,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800"
           }
         ]
       },
@@ -689,7 +689,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
@@ -698,17 +698,22 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1500",
+            "duration": "10"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "900"
           }
         ]
       },
@@ -717,7 +722,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "duration": "10"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
@@ -727,7 +737,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -739,7 +749,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -751,7 +761,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -775,7 +785,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
@@ -787,7 +797,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       },
@@ -799,7 +809,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -823,7 +833,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -835,7 +845,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "900"
           }
         ]
       },
@@ -847,7 +857,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -859,7 +869,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -871,7 +881,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
@@ -883,7 +893,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
@@ -895,7 +905,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
@@ -907,7 +917,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -919,7 +929,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -931,7 +941,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700"
           }
         ]
       }
@@ -1205,5 +1215,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "radiorabbit0"
 }
