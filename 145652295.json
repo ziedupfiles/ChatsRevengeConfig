@@ -177,19 +177,19 @@
         "variants": [
           {
             "price": "500",
-            "duration": "600"
+            "duration": "300"
           }
         ]
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       }
