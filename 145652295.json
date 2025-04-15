@@ -141,7 +141,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
@@ -169,7 +174,12 @@
         "unique": false,
         "disabled": true,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "duration": "600"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -1239,5 +1249,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "GameSux"
 }
