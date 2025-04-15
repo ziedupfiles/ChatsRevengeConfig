@@ -700,8 +700,8 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1500"
+            "price": "1500",
+            "duration": "10"
           }
         ]
       },
