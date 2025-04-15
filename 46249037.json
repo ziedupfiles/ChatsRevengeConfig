@@ -29,7 +29,8 @@
             "price": "1",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0",
-            "disabled": false
+            "disabled": false,
+            "cooldown": "10"
           },
           {
             "price": "300",
