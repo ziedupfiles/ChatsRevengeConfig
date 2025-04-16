@@ -149,14 +149,9 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
