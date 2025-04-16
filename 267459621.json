@@ -1026,7 +1026,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "60"
+          }
+        ]
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
@@ -1072,7 +1077,7 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -1168,7 +1173,7 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -1180,7 +1185,7 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -1192,7 +1197,7 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -1204,7 +1209,7 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -1216,7 +1221,7 @@
         "variants": [
           {
             "price": "10",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       }
