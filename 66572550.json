@@ -945,7 +945,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -1005,7 +1005,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -1017,7 +1017,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -1036,7 +1036,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1048,7 +1048,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1067,9 +1067,14 @@
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
@@ -1079,7 +1084,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600"
           }
         ]
       },
@@ -1091,7 +1096,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350"
           }
         ]
       },
@@ -1103,7 +1108,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400"
           }
         ]
       },
@@ -1127,7 +1132,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "40"
           }
         ]
       },
@@ -1139,7 +1144,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -1151,7 +1156,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -1160,35 +1165,60 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       }
     }
   },
@@ -1205,5 +1235,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "javix24"
 }
