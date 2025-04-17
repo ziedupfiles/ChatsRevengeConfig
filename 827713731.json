@@ -1043,7 +1043,7 @@
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
