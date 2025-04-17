@@ -1211,7 +1211,7 @@
     "Escape": false,
     "Enter": false,
     "Tab": false,
-    "Windows": true,
+    "Windows": false,
     "Delete": false,
     "Control": false,
     "BackSpace": false
