@@ -87,12 +87,12 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -104,7 +104,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "2500"
+            "duration": "3000"
           }
         ]
       },
