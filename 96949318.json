@@ -11,26 +11,16 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "8"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "4"
-          }
-        ]
+        "variants": []
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -950,12 +940,12 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "300"
           }
         ]
       },
@@ -1041,36 +1031,36 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "30"
+            "price": "300"
           }
         ]
       },
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "300"
           }
         ]
       },
@@ -1156,7 +1146,7 @@
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1170,12 +1160,7 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
