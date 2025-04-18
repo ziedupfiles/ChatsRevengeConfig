@@ -1179,7 +1179,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "40",
             "duration": "150"
           }
         ]
@@ -1187,14 +1187,9 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "300"
-          }
-        ]
+        "variants": []
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
