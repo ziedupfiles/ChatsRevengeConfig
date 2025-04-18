@@ -47,7 +47,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -99,7 +99,7 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
