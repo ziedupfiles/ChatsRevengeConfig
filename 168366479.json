@@ -47,7 +47,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
