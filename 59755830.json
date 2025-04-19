@@ -1194,7 +1194,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "duration": "30"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
