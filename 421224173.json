@@ -1202,6 +1202,14 @@
           {
             "price": "100",
             "duration": "10"
+          },
+          {
+            "price": "200",
+            "duration": "30"
+          },
+          {
+            "price": "300",
+            "duration": "60"
           }
         ]
       }
