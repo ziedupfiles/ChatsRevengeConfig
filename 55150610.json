@@ -1055,7 +1055,7 @@
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
