@@ -89,7 +89,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "10"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
