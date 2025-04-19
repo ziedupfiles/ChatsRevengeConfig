@@ -68,9 +68,14 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "5"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
