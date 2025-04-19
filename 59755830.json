@@ -101,7 +101,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "30"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
