@@ -593,7 +593,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -605,7 +605,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -689,7 +689,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "3000"
           }
         ]
       },
@@ -1205,5 +1205,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "EmperorPenguiiin"
 }
