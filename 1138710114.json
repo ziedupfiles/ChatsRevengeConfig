@@ -1208,12 +1208,13 @@
     "F_Keys": false,
     "Shift": false,
     "Alt": false,
-    "Escape": false,
+    "Escape": true,
     "Enter": false,
     "Tab": false,
     "Windows": false,
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "ogGrumble"
 }
