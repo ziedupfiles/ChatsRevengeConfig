@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -33,7 +33,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -52,7 +52,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -64,7 +64,7 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -93,21 +93,16 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
@@ -117,7 +112,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -129,7 +124,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -141,7 +136,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       }
