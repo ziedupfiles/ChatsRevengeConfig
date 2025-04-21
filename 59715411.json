@@ -1236,6 +1236,10 @@
           {
             "price": "150",
             "duration": "30"
+          },
+          {
+            "price": "50",
+            "duration": "10"
           }
         ]
       },
@@ -1248,6 +1252,10 @@
           {
             "price": "100",
             "duration": "60"
+          },
+          {
+            "price": "50",
+            "duration": "10"
           }
         ]
       },
@@ -1258,8 +1266,12 @@
         "input": false,
         "variants": [
           {
-            "price": "150",
+            "price": "200",
             "duration": "300"
+          },
+          {
+            "price": "100",
+            "duration": "120"
           }
         ]
       }
