@@ -178,7 +178,12 @@
         "unique": false,
         "disabled": true,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -1110,9 +1115,14 @@
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "duration": "300"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
@@ -1225,7 +1235,7 @@
         "variants": [
           {
             "price": "150",
-            "duration": "10"
+            "duration": "30"
           }
         ]
       },
@@ -1237,7 +1247,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "10"
+            "duration": "60"
           }
         ]
       },
@@ -1249,7 +1259,7 @@
         "variants": [
           {
             "price": "150",
-            "duration": "10"
+            "duration": "300"
           }
         ]
       }
