@@ -6,36 +6,21 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -78,72 +63,42 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       }
     },
     "Input": {
