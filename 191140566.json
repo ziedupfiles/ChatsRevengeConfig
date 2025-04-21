@@ -945,14 +945,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -969,7 +969,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -993,7 +993,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "100"
           }
         ]
       },
@@ -1005,7 +1005,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1017,7 +1017,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1091,7 +1091,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50"
           }
         ]
       },
@@ -1165,9 +1165,14 @@
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "30"
+          }
+        ]
       },
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
@@ -1191,9 +1196,14 @@
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "30"
+          }
+        ]
       }
     }
   },
