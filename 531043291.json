@@ -960,7 +960,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -972,7 +972,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -984,7 +984,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -996,7 +996,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -1008,7 +1008,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -1020,7 +1020,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1039,7 +1039,7 @@
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1056,7 +1056,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -1068,7 +1068,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250"
           }
         ]
       },
@@ -1099,7 +1099,7 @@
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1116,7 +1116,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
@@ -1128,7 +1128,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       },
@@ -1140,7 +1140,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150"
+            "price": "100"
           }
         ]
       },
@@ -1152,7 +1152,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "100"
           }
         ]
       },
@@ -1164,7 +1164,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1176,14 +1176,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1195,7 +1195,7 @@
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1207,7 +1207,7 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1219,7 +1219,7 @@
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1231,7 +1231,7 @@
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
