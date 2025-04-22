@@ -701,7 +701,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "4"
+            "duration": "20"
           }
         ]
       },
@@ -720,9 +720,14 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "30"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
