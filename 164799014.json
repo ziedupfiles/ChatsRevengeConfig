@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "300",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -21,7 +21,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -33,7 +33,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -1250,5 +1250,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "BinBanshee"
 }
