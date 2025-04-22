@@ -1194,16 +1194,17 @@
   },
   "SoundUrl": null,
   "specielKeyList": {
-    "ArrowKeys": false,
-    "F_Keys": false,
-    "Shift": false,
-    "Alt": false,
-    "Escape": false,
-    "Enter": false,
-    "Tab": false,
-    "Windows": false,
-    "Delete": false,
-    "Control": false,
-    "BackSpace": false
-  }
+    "ArrowKeys": true,
+    "F_Keys": true,
+    "Shift": true,
+    "Alt": true,
+    "Escape": true,
+    "Enter": true,
+    "Tab": true,
+    "Windows": true,
+    "Delete": true,
+    "Control": true,
+    "BackSpace": true
+  },
+  "username": "cheeesyvr"
 }
