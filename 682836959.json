@@ -6,21 +6,36 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "duration": "10"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "2"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "8"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -63,42 +78,72 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Input": {
@@ -1215,5 +1260,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Farmagician"
 }
