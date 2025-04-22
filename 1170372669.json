@@ -4,23 +4,62 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "10"
+          },
+          {
+            "price": "100",
+            "duration": "30"
+          },
+          {
+            "price": "200",
+            "duration": "60"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "10"
+          },
+          {
+            "price": "40",
+            "duration": "30"
+          },
+          {
+            "price": "150",
+            "duration": "60"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "40",
+            "duration": "10"
+          },
+          {
+            "price": "100",
+            "duration": "30"
+          },
+          {
+            "price": "150",
+            "duration": "60"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -54,51 +93,129 @@
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "20"
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "10"
+          },
+          {
+            "price": "100",
+            "duration": "30"
+          },
+          {
+            "price": "150",
+            "duration": "60"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "10"
+          },
+          {
+            "price": "20",
+            "duration": "30"
+          },
+          {
+            "price": "40",
+            "duration": "60"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "duration": "10"
+          },
+          {
+            "price": "50",
+            "duration": "30"
+          },
+          {
+            "price": "100",
+            "duration": "60"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "10"
+          },
+          {
+            "price": "40",
+            "duration": "30"
+          },
+          {
+            "price": "100",
+            "duration": "60"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "10"
+          },
+          {
+            "price": "30",
+            "duration": "30"
+          },
+          {
+            "price": "50",
+            "duration": "60"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "10"
+          },
+          {
+            "price": "30",
+            "duration": "30"
+          },
+          {
+            "price": "50",
+            "duration": "60"
+          }
+        ]
       }
     },
     "Input": {
