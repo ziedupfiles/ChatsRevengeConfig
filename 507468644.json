@@ -173,9 +173,14 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "10"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
