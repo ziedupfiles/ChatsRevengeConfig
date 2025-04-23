@@ -926,12 +926,12 @@
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500"
           }
         ]
       }
@@ -1205,5 +1205,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "zakzillawolf"
 }
