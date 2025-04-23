@@ -782,12 +782,12 @@
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500"
           }
         ]
       },
@@ -931,7 +931,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "800"
           }
         ]
       }
