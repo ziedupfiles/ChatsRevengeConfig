@@ -4,9 +4,22 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "250",
+            "duration": "3"
+          },
+          {
+            "price": "300",
+            "duration": "5"
+          },
+          {
+            "price": "600",
+            "duration": "10"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
@@ -49,21 +62,34 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200"
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "250",
+            "duration": "3"
+          },
+          {
+            "price": "300",
+            "duration": "5"
+          },
+          {
+            "price": "600",
+            "duration": "10"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
@@ -719,15 +745,15 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "200",
             "duration": "5"
           },
           {
-            "price": "100",
+            "price": "400",
             "duration": "10"
           },
           {
-            "price": "150",
+            "price": "600",
             "duration": "15"
           }
         ]
@@ -740,7 +766,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -752,7 +778,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -764,7 +790,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -776,7 +802,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -788,7 +814,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -800,7 +826,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -812,7 +838,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -824,7 +850,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -836,7 +862,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -848,7 +874,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -860,7 +886,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -872,7 +898,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -884,7 +910,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -896,7 +922,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -908,7 +934,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -920,7 +946,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -932,7 +958,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       },
@@ -944,7 +970,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "1000"
           }
         ]
       }
