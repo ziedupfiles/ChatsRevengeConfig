@@ -1036,7 +1036,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "10"
           }
         ]
       },
@@ -1048,7 +1048,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "30"
           }
         ]
       },
@@ -1060,7 +1060,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "50"
           }
         ]
       },
@@ -1091,7 +1091,7 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1108,7 +1108,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "20"
           }
         ]
       },
@@ -1156,7 +1156,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250"
+            "price": "20"
           }
         ]
       },
@@ -1167,7 +1167,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "120"
           }
         ]
