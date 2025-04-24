@@ -1167,8 +1167,8 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
-            "duration": "200"
+            "price": "100",
+            "duration": "120"
           }
         ]
       },
