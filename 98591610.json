@@ -4,22 +4,9 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "150",
-            "duration": "3"
-          },
-          {
-            "price": "250",
-            "duration": "5"
-          },
-          {
-            "price": "500",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
@@ -74,22 +61,9 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "150",
-            "duration": "3"
-          },
-          {
-            "price": "250",
-            "duration": "5"
-          },
-          {
-            "price": "500",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Pixelate Window": {
         "id": "pixelate",
