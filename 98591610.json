@@ -8,15 +8,15 @@
         "input": false,
         "variants": [
           {
-            "price": "250",
+            "price": "150",
             "duration": "3"
           },
           {
-            "price": "300",
+            "price": "250",
             "duration": "5"
           },
           {
-            "price": "600",
+            "price": "500",
             "duration": "10"
           }
         ]
@@ -62,34 +62,21 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "250",
-            "duration": "3"
-          },
-          {
-            "price": "300",
-            "duration": "5"
-          },
-          {
-            "price": "600",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Pixelate Window": {
         "id": "pixelate",
