@@ -1024,9 +1024,14 @@
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "999"
+          }
+        ]
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
