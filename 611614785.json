@@ -9,7 +9,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "3"
           }
         ]
       },
@@ -699,7 +699,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "500"
           }
         ]
       },
