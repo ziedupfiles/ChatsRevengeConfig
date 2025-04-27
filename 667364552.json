@@ -101,15 +101,15 @@
           }
         ]
       },
-      "Negative Colors": {
-        "id": "invert",
+      "Mirror Screen": {
+        "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
         "variants": []
       },
-      "Mirror Screen": {
-        "id": "mirror",
+      "Invert Colors": {
+        "id": "negative",
         "unique": false,
         "disabled": true,
         "input": false,
