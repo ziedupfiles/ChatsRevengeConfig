@@ -967,7 +967,7 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -979,7 +979,7 @@
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1008,7 +1008,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "1000"
           }
         ]
       },
@@ -1032,7 +1032,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100"
           }
         ]
       },
@@ -1092,7 +1092,7 @@
         "variants": [
           {
             "price": "100",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -1123,7 +1123,7 @@
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1176,7 +1176,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
