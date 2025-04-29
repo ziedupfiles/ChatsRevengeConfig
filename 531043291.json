@@ -967,7 +967,7 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
