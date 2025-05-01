@@ -6,14 +6,28 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "1"
+          },
+          {
+            "price": "100",
+            "duration": "1"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "duration": "10"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -63,14 +77,24 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "duration": "10"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "duration": "10"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
@@ -940,7 +964,7 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -952,19 +976,19 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "1000"
           }
         ]
       },
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -976,7 +1000,7 @@
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -988,7 +1012,7 @@
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1000,7 +1024,7 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1012,7 +1036,7 @@
       "3 Free Slot Spins": {
         "id": "scheduleI_freeSlotSpin",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1031,7 +1055,7 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1043,7 +1067,7 @@
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1055,7 +1079,7 @@
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1074,7 +1098,7 @@
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1086,7 +1110,7 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1098,7 +1122,7 @@
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1110,7 +1134,7 @@
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1122,7 +1146,7 @@
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1134,7 +1158,7 @@
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1146,7 +1170,7 @@
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1225,5 +1249,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "TTV_NightsWatch"
 }
