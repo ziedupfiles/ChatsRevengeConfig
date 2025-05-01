@@ -4,28 +4,24 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
-            "duration": "1"
-          },
-          {
-            "price": "100",
-            "duration": "1"
+            "price": "350",
+            "duration": "15"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "10",
-            "duration": "10"
+            "price": "200",
+            "duration": "15"
           }
         ]
       },
@@ -63,36 +59,36 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150"
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "200",
-            "duration": "10"
+            "price": "300",
+            "duration": "15"
           }
         ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "200",
-            "duration": "10"
+            "price": "300",
+            "duration": "15"
           }
         ]
       },
@@ -106,9 +102,14 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "350",
+            "duration": "15"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
@@ -120,9 +121,14 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "duration": "15"
+          }
+        ]
       }
     },
     "Input": {
