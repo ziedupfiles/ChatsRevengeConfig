@@ -563,14 +563,9 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "price": "1100",
-            "duration": "960"
-          }
-        ]
+        "variants": []
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -1059,7 +1054,7 @@
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
