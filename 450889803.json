@@ -1160,7 +1160,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "60"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
@@ -1188,7 +1193,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "duration": "60"
+          }
+        ]
       }
     }
   },
@@ -1205,5 +1215,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "BluntForceVenom"
 }
