@@ -1199,7 +1199,7 @@
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
