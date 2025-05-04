@@ -1186,7 +1186,7 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
