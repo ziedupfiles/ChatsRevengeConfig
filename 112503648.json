@@ -4,27 +4,23 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "100",
             "duration": "5"
-          },
-          {
-            "price": "10",
-            "duration": "1"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "100",
             "duration": "5"
           },
           {
@@ -36,16 +32,12 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "100",
-            "duration": "5"
-          },
-          {
-            "price": "500",
-            "duration": "60"
+            "duration": "1"
           }
         ]
       },
@@ -64,132 +56,76 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "300"
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "100",
             "duration": "1"
-          },
-          {
-            "price": "40",
-            "duration": "5"
-          },
-          {
-            "price": "500",
-            "duration": "60"
           }
         ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "1"
-          },
-          {
-            "price": "40",
-            "duration": "5"
-          },
-          {
-            "price": "500",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "20",
-            "duration": "5"
-          },
-          {
-            "price": "300",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "10",
-            "duration": "1"
-          },
-          {
-            "price": "40",
-            "duration": "5"
-          },
-          {
-            "price": "500",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "20",
-            "duration": "5"
-          },
-          {
-            "price": "300",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "20",
+            "price": "100",
             "duration": "5"
-          },
-          {
-            "price": "400",
-            "duration": "60"
           }
         ]
       }
@@ -233,12 +169,7 @@
         "unique": false,
         "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "price": "100",
-            "duration": "5"
-          }
-        ]
+        "variants": []
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -1048,7 +979,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "300"
           }
         ]
       },
@@ -1079,7 +1010,7 @@
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1103,12 +1034,12 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "300"
           }
         ]
       },
@@ -1134,7 +1065,7 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1146,7 +1077,7 @@
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1163,7 +1094,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "300"
           }
         ]
       },
@@ -1194,7 +1125,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
@@ -1213,12 +1144,12 @@
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "10"
+            "price": "300"
           }
         ]
       },
@@ -1230,19 +1161,19 @@
         "variants": [
           {
             "duration": null,
-            "price": "100"
+            "price": "300"
           }
         ]
       },
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "20"
+            "price": "300"
           }
         ]
       },
@@ -1254,21 +1185,16 @@
         "variants": [
           {
             "duration": null,
-            "price": "200"
+            "price": "300"
           }
         ]
       },
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
@@ -1277,8 +1203,8 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
-            "duration": "60"
+            "price": "100",
+            "duration": "5"
           }
         ]
       },
@@ -1289,34 +1215,24 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
-            "duration": "60"
+            "price": "100",
+            "duration": "1"
           }
         ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "40",
-            "duration": "60"
-          }
-        ]
+        "variants": []
       }
     }
   },
