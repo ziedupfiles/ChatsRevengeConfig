@@ -108,45 +108,88 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "10",
             "duration": "1"
+          },
+          {
+            "price": "40",
+            "duration": "5"
+          },
+          {
+            "price": "500",
+            "duration": "60"
           }
         ]
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "5"
+          },
+          {
+            "price": "300",
+            "duration": "60"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "1"
+          },
+          {
+            "price": "40",
+            "duration": "5"
+          },
+          {
+            "price": "500",
+            "duration": "60"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "5"
+          },
+          {
+            "price": "300",
+            "duration": "60"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "20",
             "duration": "5"
+          },
+          {
+            "price": "400",
+            "duration": "60"
           }
         ]
       }
