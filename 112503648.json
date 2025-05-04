@@ -24,7 +24,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "40",
             "duration": "5"
           },
           {
@@ -44,7 +44,7 @@
             "duration": "5"
           },
           {
-            "price": "1000",
+            "price": "500",
             "duration": "60"
           }
         ]
@@ -110,7 +110,12 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "duration": "1"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
