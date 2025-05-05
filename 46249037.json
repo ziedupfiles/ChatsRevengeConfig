@@ -673,22 +673,6 @@
             "variantID": "Remove keyboard effect1744659688732"
           }
         ]
-      },
-      "Press key": {
-        "id": "keyboard",
-        "unique": false,
-        "disabled": false,
-        "input": false,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Press key1745697884803",
-            "keyPress": "f",
-            "cooldown": "14"
-          }
-        ]
       }
     },
     "Timeout": {
