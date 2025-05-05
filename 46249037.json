@@ -668,7 +668,7 @@
         "variants": [
           {
             "price": "300",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Remove keyboard effect1744659688732"
           }
