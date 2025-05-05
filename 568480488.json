@@ -157,196 +157,98 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnMine0"
-          }
-        ]
+        "variants": []
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_doubleCredits0"
-          }
-        ]
+        "variants": []
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_halfCredits0"
-          }
-        ]
+        "variants": []
       },
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_bugs0"
-          }
-        ]
+        "variants": []
       },
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_lootbox0"
-          }
-        ]
+        "variants": []
       },
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_vents0"
-          }
-        ]
+        "variants": []
       },
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_drunk0"
-          }
-        ]
+        "variants": []
       },
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_turretSound0"
-          }
-        ]
+        "variants": []
       },
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_coilheadSound0"
-          }
-        ]
+        "variants": []
       },
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_jesterSound0"
-          }
-        ]
+        "variants": []
       },
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_stormy0"
-          }
-        ]
+        "variants": []
       },
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_foggy0"
-          }
-        ]
+        "variants": []
       },
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_rainy0"
-          }
-        ]
+        "variants": []
       },
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_eclipse0"
-          }
-        ]
+        "variants": []
       },
       "Flooded": {
         "id": "lethalcompany_flooded",
