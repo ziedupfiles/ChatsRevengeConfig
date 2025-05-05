@@ -386,7 +386,7 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -400,7 +400,7 @@
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -414,7 +414,7 @@
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -428,7 +428,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -442,7 +442,7 @@
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -456,7 +456,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -470,7 +470,7 @@
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -484,7 +484,7 @@
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -542,7 +542,7 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -556,7 +556,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -591,7 +591,7 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
@@ -612,7 +612,7 @@
       "Open a Pop Up": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -626,7 +626,7 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
@@ -649,14 +649,14 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
@@ -679,14 +679,14 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": []
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": []
       }
@@ -787,7 +787,7 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -821,7 +821,7 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -835,7 +835,7 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -849,7 +849,7 @@
       "Kill A Monster": {
         "id": "REPO_killememy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -863,7 +863,7 @@
       "50% Shop Discount": {
         "id": "REPO_discount",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -877,7 +877,7 @@
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -905,7 +905,7 @@
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -919,7 +919,7 @@
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -933,7 +933,7 @@
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -947,7 +947,7 @@
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -961,7 +961,7 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -975,7 +975,7 @@
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -989,7 +989,7 @@
       "Spawn A Thinman": {
         "id": "REPO_thinman",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1003,7 +1003,7 @@
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1017,7 +1017,7 @@
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1031,7 +1031,7 @@
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1045,7 +1045,7 @@
       "Spawn A Blowtie": {
         "id": "REPO_blowtie",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1059,7 +1059,7 @@
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1073,7 +1073,7 @@
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1087,7 +1087,7 @@
       "Spawn An Alien": {
         "id": "REPO_alien",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1101,7 +1101,7 @@
       "Spawn An Frog": {
         "id": "REPO_frog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1115,7 +1115,7 @@
       "Spawn An Animal": {
         "id": "REPO_animal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1129,7 +1129,7 @@
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1143,7 +1143,7 @@
       "Spawn An Upscream": {
         "id": "REPO_upscream",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1159,7 +1159,7 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1173,7 +1173,7 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1187,7 +1187,7 @@
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1201,7 +1201,7 @@
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1215,7 +1215,7 @@
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1229,7 +1229,7 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1243,7 +1243,7 @@
       "3 Free Slot Spins": {
         "id": "scheduleI_freeSlotSpin",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1257,14 +1257,14 @@
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1278,7 +1278,7 @@
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1292,7 +1292,7 @@
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1306,14 +1306,14 @@
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1327,7 +1327,7 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1341,7 +1341,7 @@
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1355,7 +1355,7 @@
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1369,7 +1369,7 @@
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1383,7 +1383,7 @@
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1397,7 +1397,7 @@
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1411,14 +1411,14 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
@@ -1440,14 +1440,14 @@
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": []
       }
