@@ -770,43 +770,48 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "duration": "10"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -825,12 +830,12 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -842,7 +847,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -861,12 +866,12 @@
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -878,7 +883,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       },
@@ -890,7 +895,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "30"
           }
         ]
       },
@@ -902,7 +907,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -914,7 +919,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -938,7 +943,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
@@ -962,7 +967,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20"
           }
         ]
       },
