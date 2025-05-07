@@ -154,7 +154,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "10"
           }
         ]
@@ -166,7 +166,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "duration": "10"
           }
         ]
