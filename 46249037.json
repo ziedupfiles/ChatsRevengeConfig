@@ -1456,47 +1456,23 @@
       "Suggest Wild Encounter": {
         "id": "firered_wild",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Suggest Wild Encounter1746735699824",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Double Money": {
         "id": "firered_doubleBank",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Double Money1746735702914",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Half Money": {
         "id": "firered_halfBank",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Half Money1746735704924",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Empty All Money": {
         "id": "firered_halfBank",
@@ -1536,17 +1512,9 @@
       "Drop to 1 HP": {
         "id": "firered_reduceHP",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Drop to 1 HP1746735707818",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Apply Poison": {
         "id": "poison",
@@ -1558,17 +1526,9 @@
       "Apply Paralyze": {
         "id": "paralyze",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Apply Paralyze1746735711752",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Apply Sleep": {
         "id": "sleep",
@@ -1594,17 +1554,9 @@
       "Apply Poison To Enemy": {
         "id": "poisonEnemy",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Apply Poison To Enemy1746735714610",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Apply Paralyze To Enemy": {
         "id": "paralyzeEnemy",
