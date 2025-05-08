@@ -1456,135 +1456,287 @@
       "Suggest Wild Encounter": {
         "id": "firered_wild",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Suggest Wild Encounter1746735986921",
+            "duration": "1"
+          }
+        ]
       },
       "Double Money": {
         "id": "firered_doubleBank",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double Money1746735990907",
+            "duration": "1"
+          }
+        ]
       },
       "Half Money": {
         "id": "firered_halfBank",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Half Money1746735992871",
+            "duration": "1"
+          }
+        ]
       },
       "Empty All Money": {
         "id": "firered_halfBank",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Empty All Money1746735995242",
+            "duration": "1"
+          }
+        ]
       },
       "Full Heal": {
         "id": "firered_heal",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Full Heal1746735998522",
+            "duration": "1"
+          }
+        ]
       },
       "Enemy Full Heal": {
         "id": "firered_healEnemy",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Enemy Full Heal1746736002302",
+            "duration": "1"
+          }
+        ]
       },
       "25% Health Down": {
         "id": "firered_reduceHP",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "25% Health Down1746736004446",
+            "duration": "1"
+          }
+        ]
       },
       "25% PP Down": {
         "id": "firered_reducePP",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "25% PP Down1746736006166",
+            "duration": "1"
+          }
+        ]
       },
       "Drop to 1 HP": {
         "id": "firered_reduceHP",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Drop to 1 HP1746736009486",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Poison": {
         "id": "poison",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Poison1746736012299",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Paralyze": {
         "id": "paralyze",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Paralyze1746736015230",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Sleep": {
         "id": "sleep",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Sleep1746736018484",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Burn": {
         "id": "burn",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Burn1746736020970",
+            "duration": "1"
+          }
+        ]
       },
       "Reset Status": {
         "id": "resetstatus",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Reset Status1746736023712",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Poison To Enemy": {
         "id": "poisonEnemy",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Poison To Enemy1746736026784",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Paralyze To Enemy": {
         "id": "paralyzeEnemy",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Paralyze To Enemy1746736029467",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Sleep To Enemy": {
         "id": "sleepEnemy",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Sleep To Enemy1746736033217",
+            "duration": "1"
+          }
+        ]
       },
       "Apply Burn To Enemy": {
         "id": "burnEnemy",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Burn To Enemy1746736035824",
+            "duration": "1"
+          }
+        ]
       },
       "Reset Enemy Status": {
         "id": "resetstatusEnemy",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Reset Enemy Status1746736038568",
+            "duration": "1"
+          }
+        ]
       }
     }
   },
