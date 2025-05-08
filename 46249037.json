@@ -1451,6 +1451,189 @@
         "input": false,
         "variants": []
       }
+    },
+    "Pokemon FireRed": {
+      "Suggest Wild Encounter": {
+        "id": "firered_wild",
+        "unique": false,
+        "disabled": false,
+        "input": true,
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Suggest Wild Encounter1746735699824",
+            "duration": "1"
+          }
+        ]
+      },
+      "Double Money": {
+        "id": "firered_doubleBank",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double Money1746735702914",
+            "duration": "1"
+          }
+        ]
+      },
+      "Half Money": {
+        "id": "firered_halfBank",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Half Money1746735704924",
+            "duration": "1"
+          }
+        ]
+      },
+      "Empty All Money": {
+        "id": "firered_halfBank",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Full Heal": {
+        "id": "firered_heal",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Enemy Full Heal": {
+        "id": "firered_healEnemy",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "25% Health Down": {
+        "id": "firered_reduceHP",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "25% PP Down": {
+        "id": "firered_reducePP",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Drop to 1 HP": {
+        "id": "firered_reduceHP",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Drop to 1 HP1746735707818",
+            "duration": "1"
+          }
+        ]
+      },
+      "Apply Poison": {
+        "id": "poison",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Paralyze": {
+        "id": "paralyze",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Paralyze1746735711752",
+            "duration": "1"
+          }
+        ]
+      },
+      "Apply Sleep": {
+        "id": "sleep",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Burn": {
+        "id": "burn",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Reset Status": {
+        "id": "resetstatus",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Poison To Enemy": {
+        "id": "poisonEnemy",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "1",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Poison To Enemy1746735714610",
+            "duration": "1"
+          }
+        ]
+      },
+      "Apply Paralyze To Enemy": {
+        "id": "paralyzeEnemy",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Sleep To Enemy": {
+        "id": "sleepEnemy",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Burn To Enemy": {
+        "id": "burnEnemy",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Reset Enemy Status": {
+        "id": "resetstatusEnemy",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      }
     }
   },
   "specielKeyList": {
