@@ -626,7 +626,7 @@
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
