@@ -749,7 +749,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_lootbox0"
+            "variantID": "REPO_lootbox0",
+            "cooldown": "20"
           }
         ]
       },
@@ -763,7 +764,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "20"
           }
         ]
       },
@@ -777,7 +779,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_spawnMine0"
+            "variantID": "REPO_spawnMine0",
+            "cooldown": "20"
           }
         ]
       },
@@ -791,7 +794,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_weapon0"
+            "variantID": "REPO_weapon0",
+            "cooldown": "20"
           }
         ]
       },
@@ -805,7 +809,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_heal0"
+            "variantID": "REPO_heal0",
+            "cooldown": "20"
           }
         ]
       },
@@ -819,7 +824,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_hurt0"
+            "variantID": "REPO_hurt0",
+            "cooldown": "20"
           }
         ]
       },
@@ -833,7 +839,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_revive0"
+            "variantID": "REPO_revive0",
+            "cooldown": "20"
           }
         ]
       },
@@ -847,7 +854,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_killememy0"
+            "variantID": "REPO_killememy0",
+            "cooldown": "20"
           }
         ]
       },
