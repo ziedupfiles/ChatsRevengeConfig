@@ -1386,9 +1386,17 @@
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Random Status Effect1746870248089",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Pokemon FireRed": {
