@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "200",
             "duration": "5",
             "type": "bits",
             "variantID": "monitor0"
@@ -22,7 +22,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "200",
             "duration": "5",
             "type": "bits",
             "variantID": "blur0"
@@ -74,30 +74,47 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "popup0"
+            "variantID": "popup0",
+            "disabled": false
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Glitch Window1746871626719",
+            "duration": "5"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1746871585047",
+            "duration": "5"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
@@ -123,9 +140,17 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1746871694647",
+            "duration": "5"
+          }
+        ]
       }
     },
     "Input": {
