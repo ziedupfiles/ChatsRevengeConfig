@@ -1136,7 +1136,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_claimCharacter0"
           }
@@ -1202,12 +1202,12 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_sendContract0"
           }
@@ -1245,14 +1245,15 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "500",
             "type": "bits",
-            "variantID": "scheduleI_callCops0"
+            "variantID": "scheduleI_callCops0",
+            "disabled": false
           }
         ]
       },
@@ -1316,14 +1317,15 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "scheduleI_trash0"
+            "variantID": "scheduleI_trash0",
+            "disabled": true
           }
         ]
       },
@@ -1372,14 +1374,15 @@
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
-            "variantID": "scheduleI_reduceWanted0"
+            "variantID": "scheduleI_reduceWanted0",
+            "disabled": false
           }
         ]
       },
@@ -1400,9 +1403,17 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Anti-Gravity1746872261167",
+            "duration": "10"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
@@ -1414,9 +1425,17 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Make Player Disoriented1746872276469",
+            "duration": "10"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
