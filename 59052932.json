@@ -1145,14 +1145,15 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "150",
             "type": "bits",
-            "variantID": "scheduleI_unlockAll0"
+            "variantID": "scheduleI_unlockAll0",
+            "disabled": true
           }
         ]
       },
