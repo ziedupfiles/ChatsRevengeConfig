@@ -1293,7 +1293,7 @@
         "variants": [
           {
             "price": "300",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Suspicous Profiling1746870271449",
             "duration": "1"
