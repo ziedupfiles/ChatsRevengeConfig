@@ -1451,11 +1451,11 @@
         "input": false,
         "variants": [
           {
-            "price": "150",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Random Status Effect1746870248089",
-            "duration": "5"
+            "duration": "10"
           }
         ]
       }
