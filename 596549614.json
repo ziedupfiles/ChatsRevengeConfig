@@ -90,28 +90,41 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1746983030569",
+            "duration": "60",
+            "cooldown": "900"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1746983034032",
+            "duration": "60",
+            "cooldown": "900"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       }
     },
     "Timeout": {
@@ -1325,5 +1338,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "mrs_rootchewbacca"
 }
