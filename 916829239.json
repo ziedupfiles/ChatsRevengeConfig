@@ -903,7 +903,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn A Robe1746923373538",
-            "cooldown": "190"
+            "cooldown": "30"
           }
         ]
       },
