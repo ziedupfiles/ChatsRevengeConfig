@@ -772,7 +772,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Gnome Infestation1746922752392",
-            "cooldown": "60"
+            "cooldown": "10"
           }
         ]
       },
@@ -833,7 +833,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn A Laser Clown1746922831661",
-            "cooldown": "60"
+            "cooldown": "30"
           }
         ]
       },
