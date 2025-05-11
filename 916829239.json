@@ -123,21 +123,39 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1746922130594",
+            "duration": "30",
+            "cooldown": "120"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1746922147854",
+            "duration": "30",
+            "cooldown": "120"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1358,5 +1376,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Diabxli"
 }
