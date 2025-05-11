@@ -981,12 +981,15 @@
       "Spawn An Frog": {
         "id": "REPO_frog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Frog1746923453592",
+            "cooldown": "60"
           }
         ]
       },
@@ -1005,12 +1008,15 @@
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Rugrat1746923470766",
+            "cooldown": "30"
           }
         ]
       }
