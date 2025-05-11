@@ -691,7 +691,7 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "180"
+            "cooldown": "120"
           }
         ]
       },
