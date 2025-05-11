@@ -974,7 +974,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn An Alien1746923421819",
-            "cooldown": "60"
+            "cooldown": "30"
           }
         ]
       },
@@ -989,7 +989,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn An Frog1746923453592",
-            "cooldown": "60"
+            "cooldown": "30"
           }
         ]
       },
