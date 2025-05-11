@@ -624,12 +624,15 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Live Grenade1746923591991",
+            "cooldown": "10"
           }
         ]
       },
