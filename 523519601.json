@@ -8,27 +8,46 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "1000",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1747062352763",
-            "duration": "1"
+            "duration": "120",
+            "cooldown": "800"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1747063405060",
+            "duration": "120",
+            "cooldown": "500"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1747063423341",
+            "duration": "120",
+            "cooldown": "500"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -38,31 +57,34 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100",
+            "cooldown": "500"
           }
         ]
       },
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "500"
           }
         ]
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "500"
           }
         ]
       },
