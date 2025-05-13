@@ -1087,9 +1087,17 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Claim NPC1747166447042",
+            "cooldown": "100"
+          }
+        ]
       },
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
