@@ -116,7 +116,15 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1747153704099",
+            "duration": "1"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
@@ -1365,5 +1373,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Raccoon_Siut"
 }
