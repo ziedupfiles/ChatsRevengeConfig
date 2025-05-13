@@ -726,14 +726,15 @@
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "REPO_heal0"
+            "variantID": "REPO_heal0",
+            "cooldown": "60"
           }
         ]
       },
@@ -745,10 +746,11 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_hurt0",
-            "disabled": false
+            "disabled": false,
+            "cooldown": "60"
           }
         ]
       },
@@ -762,7 +764,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_revive0"
+            "variantID": "REPO_revive0",
+            "cooldown": "30"
           }
         ]
       },
@@ -776,7 +779,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_killememy0"
+            "variantID": "REPO_killememy0",
+            "cooldown": "30"
           }
         ]
       },
@@ -818,14 +822,16 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_destroyClosest0"
+            "variantID": "REPO_destroyClosest0",
+            "cooldown": "60",
+            "disabled": false
           }
         ]
       },
