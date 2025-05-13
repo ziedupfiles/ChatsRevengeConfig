@@ -8,27 +8,46 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "500",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1747152943206",
-            "duration": "1"
+            "duration": "60",
+            "cooldown": "60"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1747153324174",
+            "duration": "60",
+            "cooldown": "60"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1747153344597",
+            "duration": "30",
+            "cooldown": "50"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -119,9 +138,18 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1747153373422",
+            "duration": "20",
+            "cooldown": "60"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
