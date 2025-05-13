@@ -650,28 +650,32 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_teleport0"
+            "variantID": "REPO_teleport0",
+            "cooldown": "40",
+            "disabled": false
           }
         ]
       },
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
-            "variantID": "REPO_lootbox0"
+            "variantID": "REPO_lootbox0",
+            "cooldown": "20",
+            "disabled": false
           }
         ]
       },
@@ -706,14 +710,16 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
-            "variantID": "REPO_weapon0"
+            "variantID": "REPO_weapon0",
+            "cooldown": "30",
+            "disabled": false
           }
         ]
       },
@@ -734,21 +740,22 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_hurt0"
+            "variantID": "REPO_hurt0",
+            "disabled": false
           }
         ]
       },
       "Revive Player": {
         "id": "REPO_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -825,9 +832,18 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flashlight Off1747153068578",
+            "duration": "120",
+            "cooldown": "60"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
@@ -837,135 +853,146 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_gnomeInfestation0"
+            "variantID": "REPO_gnomeInfestation0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_head0"
+            "variantID": "REPO_head0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_eye0"
+            "variantID": "REPO_eye0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_runner0"
+            "variantID": "REPO_runner0",
+            "cooldown": "60",
+            "disabled": false
           }
         ]
       },
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_clown0"
+            "variantID": "REPO_clown0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_hunter0"
+            "variantID": "REPO_hunter0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Thinman": {
         "id": "REPO_thinman",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_thinman0"
+            "variantID": "REPO_thinman0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_duck0"
+            "variantID": "REPO_duck0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_hidden0"
+            "variantID": "REPO_hidden0",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_robe0"
+            "variantID": "REPO_robe0",
+            "cooldown": "60"
           }
         ]
       },
