@@ -1065,12 +1065,13 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20",
+            "cooldown": "60"
           }
         ]
       },
@@ -1089,12 +1090,13 @@
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20",
+            "cooldown": "60"
           }
         ]
       },
@@ -1120,12 +1122,13 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "5",
+            "cooldown": "40"
           }
         ]
       },
@@ -1180,12 +1183,13 @@
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "20",
+            "cooldown": "60"
           }
         ]
       },
@@ -1194,7 +1198,15 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Anti-Gravity1747153829419",
+            "duration": "1"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
@@ -1206,9 +1218,17 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Make Player Disoriented1747153837878",
+            "duration": "40"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
