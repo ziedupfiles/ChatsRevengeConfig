@@ -652,7 +652,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_lootbox0",
             "cooldown": "180"
