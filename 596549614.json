@@ -667,7 +667,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_spawnGrenade0",
             "cooldown": "300"
@@ -682,7 +682,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_spawnMine0",
             "cooldown": "300"
@@ -727,7 +727,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_hurt0",
             "cooldown": "300"
@@ -787,7 +787,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_selfDestruct0",
             "cooldown": "600"
@@ -818,7 +818,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_destroyClosest0",
             "cooldown": "300"
@@ -849,7 +849,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0",
             "cooldown": "540"
@@ -864,7 +864,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_head0",
             "cooldown": "540"
@@ -879,7 +879,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_eye0",
             "cooldown": "540"
@@ -894,7 +894,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_runner0",
             "cooldown": "540"
@@ -909,7 +909,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_clown0",
             "cooldown": "540"
@@ -924,7 +924,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_hunter0",
             "cooldown": "540"
@@ -939,7 +939,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_thinman0",
             "cooldown": "540"
@@ -954,7 +954,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_duck0",
             "cooldown": "540"
@@ -969,7 +969,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_hidden0",
             "cooldown": "540"
@@ -984,7 +984,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "400",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_robe0",
             "cooldown": "540"
@@ -999,7 +999,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_blowtie0",
             "cooldown": "540"
@@ -1014,7 +1014,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_upscream0",
             "cooldown": "540"
@@ -1029,7 +1029,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_mouth0",
             "cooldown": "540"
@@ -1044,7 +1044,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_trudge0",
             "cooldown": "540"
@@ -1059,7 +1059,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_alien0",
             "cooldown": "540"
@@ -1074,7 +1074,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_frog0",
             "cooldown": "540"
@@ -1089,7 +1089,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_animal0",
             "cooldown": "540"
@@ -1104,7 +1104,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "350",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_rugrat0",
             "cooldown": "540"
