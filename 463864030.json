@@ -735,7 +735,8 @@
             "duration": null,
             "price": "10",
             "type": "bits",
-            "variantID": "REPO_hurt0"
+            "variantID": "REPO_hurt0",
+            "cooldown": "5"
           }
         ]
       },
