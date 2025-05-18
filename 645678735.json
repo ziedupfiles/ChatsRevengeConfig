@@ -675,7 +675,7 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -760,7 +760,7 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -816,7 +816,7 @@
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
