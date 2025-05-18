@@ -130,7 +130,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1747006214360",
