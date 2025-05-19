@@ -9,7 +9,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_teleport0"
           }
         ]
       },
@@ -21,7 +23,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnMine0"
           }
         ]
       },
@@ -33,7 +37,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_doubleCredits0"
           }
         ]
       },
@@ -45,7 +51,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_halfCredits0"
           }
         ]
       },
@@ -57,7 +65,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_bugs0"
           }
         ]
       },
@@ -69,7 +79,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_lootbox0"
           }
         ]
       },
@@ -81,7 +93,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_vents0"
           }
         ]
       },
@@ -93,7 +107,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_drunk0"
           }
         ]
       },
@@ -105,7 +121,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_turretSound0"
           }
         ]
       },
@@ -117,7 +135,9 @@
         "variants": [
           {
             "duration": null,
-            "price": 1
+            "price": 1,
+            "type": "bits",
+            "variantID": "lethalcompany_coilheadSound0"
           }
         ]
       },
@@ -129,7 +149,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_jesterSound0"
           }
         ]
       },
@@ -141,7 +163,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_girlSound0"
           }
         ]
       },
@@ -153,7 +177,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_stormy0"
           }
         ]
       },
@@ -165,7 +191,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_foggy0"
           }
         ]
       },
@@ -177,7 +205,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_rainy0"
           }
         ]
       },
@@ -189,7 +219,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_eclipse0"
           }
         ]
       },
@@ -201,7 +233,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_flooded0"
           }
         ]
       },
@@ -213,7 +247,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_clearweather0"
           }
         ]
       },
@@ -225,7 +261,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_fakeAction0"
           }
         ]
       },
@@ -237,7 +275,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_destroyAllItem0"
           }
         ]
       },
@@ -249,7 +289,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_destroyCurrentItem0"
           }
         ]
       },
@@ -261,7 +303,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_immunity0"
           }
         ]
       },
@@ -273,7 +317,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnJester0"
           }
         ]
       },
@@ -285,7 +331,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnCoilhead0"
           }
         ]
       },
@@ -297,7 +345,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnSpider0"
           }
         ]
       },
@@ -309,7 +359,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnBracken0"
           }
         ]
       },
@@ -321,7 +373,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnNutcracker0"
           }
         ]
       },
@@ -333,7 +387,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_killEnemy0"
           }
         ]
       },
@@ -345,7 +401,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_teleportShip0"
           }
         ]
       },
@@ -357,7 +415,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_leaveEarly0"
           }
         ]
       },
@@ -369,7 +429,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_revive0"
           }
         ]
       },
@@ -381,7 +443,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_meetQuota0"
           }
         ]
       },
@@ -393,7 +457,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnDog0"
           }
         ]
       },
@@ -405,7 +471,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnBees0"
           }
         ]
       }
@@ -440,9 +508,81 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "cancel_monitor0"
           }
         ]
+      },
+      "Minimize Window": {
+        "id": "minimize",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300",
+            "type": "bits",
+            "variantID": "minimize0"
+          }
+        ]
+      },
+      "Open a Pop Up": {
+        "id": "popup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300",
+            "type": "bits",
+            "variantID": "popup0"
+          }
+        ]
+      },
+      "Glitch Window": {
+        "id": "glitch",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Pixelate Window": {
+        "id": "pixelate",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Lag Window": {
+        "id": "lag",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Shrink Window": {
+        "id": "ant",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Invert Colors": {
+        "id": "negative",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Mirror Screen": {
+        "id": "mirror",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Input": {
@@ -468,18 +608,11 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "cancel_keyboard0"
           }
         ]
-      }
-    },
-    "Sound": {
-      "Play": {
-        "id": "playsound",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
       }
     },
     "Timeout": {
@@ -498,7 +631,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "untimeout0"
           }
         ]
       }
@@ -512,7 +647,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_teleport0"
           }
         ]
       },
@@ -524,7 +661,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_lootbox0"
           }
         ]
       },
@@ -536,7 +675,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_spawnGrenade0"
           }
         ]
       },
@@ -548,7 +689,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_spawnMine0"
           }
         ]
       },
@@ -560,7 +703,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_weapon0"
           }
         ]
       },
@@ -572,7 +717,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_heal0"
           }
         ]
       },
@@ -584,7 +731,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_hurt0"
           }
         ]
       },
@@ -596,7 +745,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_revive0"
           }
         ]
       },
@@ -608,7 +759,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_killememy0"
           }
         ]
       },
@@ -620,7 +773,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_discount0"
           }
         ]
       },
@@ -632,7 +787,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_selfDestruct0"
           }
         ]
       },
@@ -644,7 +801,9 @@
         "variants": [
           {
             "price": "50",
-            "duration": "10"
+            "duration": "10",
+            "type": "bits",
+            "variantID": "REPO_immunity0"
           }
         ]
       },
@@ -656,7 +815,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_destroyClosest0"
           }
         ]
       },
@@ -668,7 +829,9 @@
         "variants": [
           {
             "price": "50",
-            "duration": "10"
+            "duration": "10",
+            "type": "bits",
+            "variantID": "REPO_lightsOff0"
           }
         ]
       },
@@ -680,7 +843,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_gnomeInfestation0"
           }
         ]
       },
@@ -692,7 +857,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_head0"
           }
         ]
       },
@@ -704,7 +871,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_eye0"
           }
         ]
       },
@@ -716,7 +885,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_runner0"
           }
         ]
       },
@@ -728,7 +899,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_clown0"
           }
         ]
       },
@@ -740,7 +913,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_hunter0"
           }
         ]
       },
@@ -752,7 +927,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_thinman0"
           }
         ]
       },
@@ -764,7 +941,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_duck0"
           }
         ]
       },
@@ -776,7 +955,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_hidden0"
           }
         ]
       },
@@ -788,7 +969,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_robe0"
           }
         ]
       },
@@ -800,7 +983,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_blowtie0"
           }
         ]
       },
@@ -812,7 +997,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_upscream0"
           }
         ]
       },
@@ -824,7 +1011,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_mouth0"
           }
         ]
       },
@@ -836,7 +1025,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_trudge0"
           }
         ]
       },
@@ -848,7 +1039,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_alien0"
           }
         ]
       },
@@ -860,7 +1053,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_frog0"
           }
         ]
       },
@@ -872,7 +1067,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_animal0"
           }
         ]
       },
@@ -884,9 +1081,401 @@
         "variants": [
           {
             "duration": null,
-            "price": "50"
+            "price": "50",
+            "type": "bits",
+            "variantID": "REPO_rugrat0"
           }
         ]
+      }
+    },
+    "Schedule I": {
+      "Claim NPC": {
+        "id": "scheduleI_claimCharacter",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Unlock All NPCs": {
+        "id": "scheduleI_unlockAll",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Double/Half Cash (50%)": {
+        "id": "scheduleI_50double50halfCash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Double Cash": {
+        "id": "scheduleI_doubleCash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Half Cash": {
+        "id": "scheduleI_halfCash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Request To Buy Substance": {
+        "id": "scheduleI_sendContract",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "3 Free Slot Spins": {
+        "id": "scheduleI_freeSlotSpin",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Better Slot Odds": {
+        "id": "scheduleI_betterSlotodds",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Call The Cops": {
+        "id": "scheduleI_callCops",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "NPC attack": {
+        "id": "scheduleI_attack",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Mob of NPCs attack": {
+        "id": "scheduleI_attackGroup",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Suspicous Profiling": {
+        "id": "scheduleI_profiling",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Fake Game Crash": {
+        "id": "scheduleI_fakeCrash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Rain Raining Trash": {
+        "id": "scheduleI_trash",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Destroy a Random Plant": {
+        "id": "scheduleI_destroyRandomPlant",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Heal The Player": {
+        "id": "scheduleI_heal",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Deal 10 Damage": {
+        "id": "scheduleI_damage",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Reduce Wanted Level": {
+        "id": "scheduleI_reduceWanted",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Increase Wanted Level": {
+        "id": "scheduleI_escalateWanted",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": [
+          {
+            "duration": null,
+            "price": "300"
+          }
+        ]
+      },
+      "Anti-Gravity": {
+        "id": "scheduleI_antiGravity",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Seizure Procedure": {
+        "id": "scheduleI_seizure",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Make Player Disoriented": {
+        "id": "scheduleI_disorienting",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Make Player Athletic": {
+        "id": "scheduleI_athletic",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Random Status Effect": {
+        "id": "scheduleI_randomStatusEffect",
+        "unique": false,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      }
+    },
+    "Pokemon FireRed": {
+      "Suggest Wild Encounter": {
+        "id": "firered_wild",
+        "unique": true,
+        "disabled": true,
+        "input": true,
+        "variants": []
+      },
+      "Double Money": {
+        "id": "firered_doubleBank",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Half Money": {
+        "id": "firered_halfBank",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Empty All Money": {
+        "id": "firered_halfBank",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Full Heal": {
+        "id": "firered_heal",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Enemy Full Heal": {
+        "id": "firered_healEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "25% Health Down": {
+        "id": "firered_reduceHP",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "25% PP Down": {
+        "id": "firered_reducePP",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Drop to 1 HP": {
+        "id": "firered_reduceHP",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Poison": {
+        "id": "poison",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Paralyze": {
+        "id": "paralyze",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Sleep": {
+        "id": "sleep",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Burn": {
+        "id": "burn",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Reset Status": {
+        "id": "resetstatus",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Poison To Enemy": {
+        "id": "poisonEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Paralyze To Enemy": {
+        "id": "paralyzeEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Sleep To Enemy": {
+        "id": "sleepEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Burn To Enemy": {
+        "id": "burnEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Reset Enemy Status": {
+        "id": "resetstatusEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     }
   },
