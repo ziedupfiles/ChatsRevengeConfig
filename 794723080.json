@@ -123,11 +123,11 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "40",
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1747475871540",
-            "duration": "30"
+            "duration": "50"
           }
         ]
       },
@@ -138,11 +138,11 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "40",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1747475870916",
-            "duration": "30"
+            "duration": "50"
           }
         ]
       },
