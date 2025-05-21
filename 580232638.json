@@ -605,14 +605,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "cancel_keyboard0"
-          }
-        ]
+        "variants": []
       }
     },
     "Timeout": {
@@ -1097,7 +1090,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_claimCharacter0"
           }
         ]
       },
@@ -1109,7 +1104,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_unlockAll0"
           }
         ]
       },
@@ -1121,7 +1118,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_50double50halfCash0"
           }
         ]
       },
@@ -1133,7 +1132,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_doubleCash0"
           }
         ]
       },
@@ -1145,7 +1146,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_halfCash0"
           }
         ]
       },
@@ -1157,7 +1160,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_sendContract0"
           }
         ]
       },
@@ -1169,7 +1174,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_freeSlotSpin0"
           }
         ]
       },
@@ -1188,7 +1195,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_callCops0"
           }
         ]
       },
@@ -1200,7 +1209,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_attack0"
           }
         ]
       },
@@ -1212,7 +1223,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_attackGroup0"
           }
         ]
       },
@@ -1231,7 +1244,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_fakeCrash0"
           }
         ]
       },
@@ -1243,7 +1258,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_trash0"
           }
         ]
       },
@@ -1255,7 +1272,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_destroyRandomPlant0"
           }
         ]
       },
@@ -1267,7 +1286,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_heal0"
           }
         ]
       },
@@ -1279,7 +1300,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_damage0"
           }
         ]
       },
@@ -1291,7 +1314,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_reduceWanted0"
           }
         ]
       },
@@ -1303,7 +1328,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_escalateWanted0"
           }
         ]
       },
