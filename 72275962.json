@@ -592,7 +592,7 @@
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -630,12 +630,20 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "250",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "10 Damage To Player1747837268712",
+            "cooldown": "500"
           }
         ]
       },
@@ -648,7 +656,15 @@
           {
             "duration": null,
             "price": "800",
-            "cooldown": "300"
+            "cooldown": "300",
+            "disabled": true
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Revive Player1747837297579",
+            "cooldown": "120"
           }
         ]
       },
@@ -686,6 +702,13 @@
             "duration": null,
             "price": "3000",
             "cooldown": "900"
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Initiate Self Destruct1747837227004",
+            "cooldown": "1000"
           }
         ]
       },
@@ -711,9 +734,18 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flashlight Off1747837341313",
+            "duration": "10",
+            "cooldown": "350"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
