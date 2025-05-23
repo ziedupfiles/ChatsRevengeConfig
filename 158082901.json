@@ -25,7 +25,7 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -39,38 +39,44 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Glitch Window1748026064955",
+            "duration": "1"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1748026065836",
+            "duration": "1"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
@@ -89,9 +95,17 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1748026072301",
+            "duration": "3"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
@@ -105,16 +119,34 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1748026027475",
+            "duration": "2",
+            "cooldown": "10"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1748026016063",
+            "duration": "2",
+            "cooldown": "10"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
