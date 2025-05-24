@@ -866,7 +866,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_destroyClosest0"
