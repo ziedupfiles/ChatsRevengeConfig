@@ -141,7 +141,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "20",
+            "disabled": true
           }
         ]
       },
@@ -165,7 +167,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "20",
+            "disabled": true
           }
         ]
       },
@@ -1322,5 +1326,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Vortexpower2940"
 }
