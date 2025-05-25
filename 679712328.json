@@ -1446,6 +1446,141 @@
           }
         ]
       }
+    },
+    "Pokemon FireRed": {
+      "Suggest Wild Encounter": {
+        "id": "firered_wild",
+        "unique": true,
+        "disabled": true,
+        "input": true,
+        "variants": []
+      },
+      "Double Money": {
+        "id": "firered_doubleBank",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Half Money": {
+        "id": "firered_halfBank",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Empty All Money": {
+        "id": "firered_halfBank",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Full Heal": {
+        "id": "firered_heal",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Enemy Full Heal": {
+        "id": "firered_healEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "25% Health Down": {
+        "id": "firered_reduceHP",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "25% PP Down": {
+        "id": "firered_reducePP",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Drop to 1 HP": {
+        "id": "firered_reduceHP",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Poison": {
+        "id": "poison",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Paralyze": {
+        "id": "paralyze",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Sleep": {
+        "id": "sleep",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Burn": {
+        "id": "burn",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Reset Status": {
+        "id": "resetstatus",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Poison To Enemy": {
+        "id": "poisonEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Paralyze To Enemy": {
+        "id": "paralyzeEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Sleep To Enemy": {
+        "id": "sleepEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Apply Burn To Enemy": {
+        "id": "burnEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      },
+      "Reset Enemy Status": {
+        "id": "resetstatusEnemy",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
+      }
     }
   },
   "SoundUrl": null,
