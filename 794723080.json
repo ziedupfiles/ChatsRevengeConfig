@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1747475908075",
@@ -30,7 +30,7 @@
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1747727244842",
@@ -139,7 +139,7 @@
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1747475871540",
@@ -154,7 +154,7 @@
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1747475870916",
@@ -687,7 +687,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_teleport0"
@@ -702,7 +702,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_lootbox0"
@@ -807,7 +807,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_killememy0"
@@ -821,7 +821,7 @@
         "input": false,
         "variants": [
           {
-            "price": "30",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "50% Shop Discount1747475206292"
@@ -850,7 +850,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Give Immunity1747475184940",
@@ -866,7 +866,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_destroyClosest0"
@@ -880,7 +880,7 @@
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1747475620724",
@@ -896,7 +896,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0"
@@ -911,7 +911,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_head0"
@@ -1016,7 +1016,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_hidden0"
