@@ -191,26 +191,46 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1748566459699",
+            "duration": "20",
+            "cooldown": "60"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1748566397911",
+            "duration": "20",
+            "cooldown": "300"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "301",
+            "cooldown": "60",
+            "disabled": false
           }
         ]
       }
@@ -1426,5 +1446,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Daniiii__xo"
 }
