@@ -228,7 +228,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "301",
+            "price": "2500",
             "cooldown": "60",
             "disabled": false
           }
@@ -675,19 +675,35 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Teleport1748566559357",
+            "cooldown": "60"
           }
         ]
       },
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Lootbox1748566589529",
+            "cooldown": "60"
           }
         ]
       },
@@ -699,7 +715,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Live Grenade1748566619349",
+            "cooldown": "60"
           }
         ]
       },
@@ -711,7 +735,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Live Mine1748566636086",
+            "cooldown": "60"
           }
         ]
       },
@@ -723,7 +755,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Random Weapon1748566671739",
+            "cooldown": "60"
           }
         ]
       },
@@ -735,7 +775,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Heal Player1748566686703",
+            "cooldown": "60"
           }
         ]
       },
@@ -747,7 +795,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "10 Damage To Player1748566737320",
+            "cooldown": "60"
           }
         ]
       },
@@ -759,19 +815,36 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true,
+            "cooldown": "60"
+          },
+          {
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Revive Player1748566763594",
+            "cooldown": "60"
           }
         ]
       },
       "Kill A Monster": {
         "id": "REPO_killememy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Kill A Monster1748566796175",
+            "cooldown": "60"
           }
         ]
       },
@@ -783,7 +856,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "250",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "50% Shop Discount1748567080758",
+            "cooldown": "60"
           }
         ]
       },
@@ -795,16 +876,33 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "800",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Initiate Self Destruct1748567118442",
+            "cooldown": "60"
           }
         ]
       },
       "Give Immunity": {
         "id": "REPO_immunity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Immunity1748567140493",
+            "duration": "30",
+            "cooldown": "60"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
@@ -814,74 +912,131 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Destroy Closest Item1748567168073",
+            "cooldown": "60"
           }
         ]
       },
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flashlight Off1748567182127",
+            "duration": "15",
+            "cooldown": "60"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "1000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Gnome Infestation1748567200189",
+            "cooldown": "300"
           }
         ]
       },
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Head1748567228310",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Eye1748567264185",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Runner1748567276290",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Laser Clown1748567287874",
+            "cooldown": "60"
           }
         ]
       },
@@ -893,7 +1048,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "700",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Blind Hunter1748567298224",
+            "cooldown": "60"
           }
         ]
       },
@@ -905,7 +1068,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Thinman1748567310064",
+            "cooldown": "60"
           }
         ]
       },
@@ -917,7 +1088,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Duck1748567319554",
+            "cooldown": "60"
           }
         ]
       },
@@ -929,7 +1108,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Hidden1748567334429",
+            "cooldown": "60"
           }
         ]
       },
@@ -941,7 +1128,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "700",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Robe1748567339738",
+            "cooldown": "60"
           }
         ]
       },
@@ -953,55 +1148,95 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Blowtie1748567349444",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn An Upscream": {
         "id": "REPO_upscream",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Upscream1748567358082",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Mouth1748567363973",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Trudge1748567369614",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn An Alien": {
         "id": "REPO_alien",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Alien1748567410773",
+            "cooldown": "60"
           }
         ]
       },
@@ -1013,31 +1248,55 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Frog1748567423987",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn An Animal": {
         "id": "REPO_animal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Animal1748567438191",
+            "cooldown": "60"
           }
         ]
       },
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "299",
+            "disabled": true
+          },
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Rugrat1748567450805",
+            "cooldown": "60"
           }
         ]
       }
