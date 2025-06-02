@@ -464,7 +464,7 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -472,7 +472,8 @@
             "price": "10",
             "type": "bits",
             "variantID": "lethalcompany_flooded0",
-            "cooldown": "90"
+            "cooldown": "90",
+            "disabled": true
           }
         ]
       },
