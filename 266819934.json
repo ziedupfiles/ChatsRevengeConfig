@@ -89,7 +89,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1748095976419",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       },
@@ -104,7 +105,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1748095970858",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       },
