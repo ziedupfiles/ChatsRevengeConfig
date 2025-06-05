@@ -12,7 +12,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1748096003627",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       },
@@ -27,7 +28,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1748095995514",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       },
@@ -42,7 +44,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1748095989787",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       },
@@ -130,7 +133,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Invert Colors1748095957546",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       },
@@ -145,7 +149,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Mirror Screen1748095941211",
-            "duration": "20"
+            "duration": "20",
+            "cooldown": "120"
           }
         ]
       }
