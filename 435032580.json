@@ -168,13 +168,13 @@
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "800",
-            "disabled": false,
+            "disabled": true,
             "cooldown": "30"
           }
         ]
@@ -580,40 +580,42 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "800",
-            "cooldown": "300"
+            "cooldown": "300",
+            "disabled": true
           }
         ]
       },
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "500",
-            "cooldown": "60"
+            "cooldown": "60",
+            "disabled": true
           }
         ]
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "3000",
             "cooldown": "300",
-            "disabled": false
+            "disabled": true
           }
         ]
       },
@@ -648,12 +650,13 @@
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
           }
         ]
       },
@@ -673,27 +676,27 @@
       "Revive Player": {
         "id": "REPO_revive",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "0",
-            "disabled": false
+            "disabled": true
           }
         ]
       },
       "Kill A Monster": {
         "id": "REPO_killememy",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "3000",
             "cooldown": "300",
-            "disabled": false
+            "disabled": true
           }
         ]
       },
@@ -714,14 +717,14 @@
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "5000",
             "cooldown": "60",
-            "disabled": false
+            "disabled": true
           }
         ]
       },
@@ -735,12 +738,13 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "2000"
+            "price": "2000",
+            "disabled": true
           }
         ]
       },
