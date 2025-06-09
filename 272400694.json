@@ -166,9 +166,17 @@
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1749474251506",
+            "duration": "6"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
