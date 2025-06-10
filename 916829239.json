@@ -39,7 +39,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "cancel_monitor0"
           }
         ]
       },
@@ -51,7 +53,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "minimize0"
           }
         ]
       },
@@ -63,7 +67,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "popup0"
           }
         ]
       },
@@ -160,7 +166,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "cancel_keyboard0"
           }
         ]
       }
@@ -181,7 +189,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "untimeout0"
           }
         ]
       }
@@ -190,132 +200,166 @@
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200",
+            "type": "bits",
+            "variantID": "lethalcompany_teleport0",
+            "disabled": false,
+            "cooldown": "30"
           }
         ]
       },
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100",
+            "type": "bits",
+            "variantID": "lethalcompany_teleportShip0"
           }
         ]
       },
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "type": "bits",
+            "variantID": "lethalcompany_leaveEarly0",
+            "disabled": false,
+            "cooldown": "600"
           }
         ]
       },
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnMine0",
+            "cooldown": "120"
           }
         ]
       },
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_revive0",
+            "disabled": false,
+            "cooldown": "300"
           }
         ]
       },
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_meetQuota0"
           }
         ]
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150",
+            "type": "bits",
+            "variantID": "lethalcompany_doubleCredits0",
+            "cooldown": "300"
           }
         ]
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250",
+            "type": "bits",
+            "variantID": "lethalcompany_halfCredits0",
+            "cooldown": "300"
           }
         ]
       },
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_bugs0",
+            "disabled": false
           }
         ]
       },
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_lootbox0",
+            "disabled": false
           }
         ]
       },
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_vents0",
+            "disabled": false
           }
         ]
       },
@@ -327,127 +371,164 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_drunk0"
           }
         ]
       },
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "type": "bits",
+            "variantID": "lethalcompany_turretSound0",
+            "disabled": false
           }
         ]
       },
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "350",
+            "type": "bits",
+            "variantID": "lethalcompany_coilheadSound0",
+            "disabled": false
           }
         ]
       },
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_jesterSound0",
+            "disabled": false
           }
         ]
       },
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_girlSound0",
+            "disabled": false
           }
         ]
       },
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_stormy0",
+            "disabled": false,
+            "cooldown": "300"
           }
         ]
       },
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_foggy0",
+            "disabled": false,
+            "cooldown": "300"
           }
         ]
       },
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_rainy0",
+            "disabled": false,
+            "cooldown": "300"
           }
         ]
       },
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_eclipse0",
+            "disabled": false,
+            "cooldown": "300"
           }
         ]
       },
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_flooded0",
+            "disabled": false,
+            "cooldown": "300"
           }
         ]
       },
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200",
+            "type": "bits",
+            "variantID": "lethalcompany_clearweather0",
+            "disabled": false
           }
         ]
       },
@@ -459,19 +540,25 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_fakeAction0"
           }
         ]
       },
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600",
+            "type": "bits",
+            "variantID": "lethalcompany_destroyAllItem0",
+            "disabled": false,
+            "cooldown": "120"
           }
         ]
       },
@@ -483,115 +570,146 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_destroyCurrentItem0",
+            "cooldown": "60"
           }
         ]
       },
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "200",
+            "type": "bits",
+            "variantID": "lethalcompany_immunity0",
+            "cooldown": "120"
           }
         ]
       },
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnDog0",
+            "disabled": false
           }
         ]
       },
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnBees0",
+            "disabled": false
           }
         ]
       },
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "700",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnJester0",
+            "disabled": false
           }
         ]
       },
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnCoilhead0",
+            "disabled": false
           }
         ]
       },
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnSpider0",
+            "disabled": false
           }
         ]
       },
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnBracken0",
+            "disabled": false
           }
         ]
       },
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "lethalcompany_spawnNutcracker0",
+            "disabled": false
           }
         ]
       },
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100",
+            "type": "bits",
+            "variantID": "lethalcompany_killEnemy0",
+            "disabled": false,
+            "cooldown": "30"
           }
         ]
       }
@@ -605,7 +723,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "500"
+            "price": "500",
+            "type": "bits",
+            "variantID": "REPO_teleport0"
           }
         ]
       },
@@ -617,7 +737,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_lootbox0"
           }
         ]
       },
@@ -644,7 +766,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_spawnMine0"
           }
         ]
       },
@@ -656,7 +780,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_weapon0"
           }
         ]
       },
@@ -669,7 +795,9 @@
           {
             "duration": null,
             "price": "100",
-            "cooldown": "100"
+            "cooldown": "100",
+            "type": "bits",
+            "variantID": "REPO_heal0"
           }
         ]
       },
@@ -681,7 +809,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_hurt0"
           }
         ]
       },
@@ -694,7 +824,9 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "120"
+            "cooldown": "120",
+            "type": "bits",
+            "variantID": "REPO_revive0"
           }
         ]
       },
@@ -707,7 +839,9 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "60"
+            "cooldown": "60",
+            "type": "bits",
+            "variantID": "REPO_killememy0"
           }
         ]
       },
@@ -719,7 +853,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_discount0"
           }
         ]
       },
@@ -732,7 +868,9 @@
           {
             "duration": null,
             "price": "1000",
-            "cooldown": "240"
+            "cooldown": "240",
+            "type": "bits",
+            "variantID": "REPO_selfDestruct0"
           }
         ]
       },
@@ -787,7 +925,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_head0"
           }
         ]
       },
@@ -815,7 +955,9 @@
           {
             "duration": null,
             "price": "300",
-            "disabled": true
+            "disabled": true,
+            "type": "bits",
+            "variantID": "REPO_runner0"
           },
           {
             "price": "300",
@@ -879,7 +1021,9 @@
           {
             "duration": null,
             "price": "350",
-            "cooldown": "10"
+            "cooldown": "10",
+            "type": "bits",
+            "variantID": "REPO_duck0"
           }
         ]
       },
@@ -891,7 +1035,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_hidden0"
           }
         ]
       },
@@ -918,7 +1064,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_blowtie0"
           }
         ]
       },
@@ -930,7 +1078,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_upscream0"
           }
         ]
       },
@@ -943,7 +1093,9 @@
           {
             "duration": null,
             "price": "300",
-            "disabled": true
+            "disabled": true,
+            "type": "bits",
+            "variantID": "REPO_mouth0"
           },
           {
             "price": "350",
@@ -962,7 +1114,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_trudge0"
           }
         ]
       },
@@ -1004,7 +1158,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "REPO_animal0"
           }
         ]
       },
@@ -1033,7 +1189,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_claimCharacter0"
           }
         ]
       },
@@ -1045,7 +1203,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_unlockAll0"
           }
         ]
       },
@@ -1057,7 +1217,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_50double50halfCash0"
           }
         ]
       },
@@ -1069,7 +1231,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_doubleCash0"
           }
         ]
       },
@@ -1081,7 +1245,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_halfCash0"
           }
         ]
       },
@@ -1093,7 +1259,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_sendContract0"
           }
         ]
       },
@@ -1105,7 +1273,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_freeSlotSpin0"
           }
         ]
       },
@@ -1124,7 +1294,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_callCops0"
           }
         ]
       },
@@ -1136,7 +1308,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_attack0"
           }
         ]
       },
@@ -1148,7 +1322,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_attackGroup0"
           }
         ]
       },
@@ -1167,7 +1343,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_fakeCrash0"
           }
         ]
       },
@@ -1179,7 +1357,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_trash0"
           }
         ]
       },
@@ -1191,7 +1371,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_destroyRandomPlant0"
           }
         ]
       },
@@ -1203,7 +1385,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_heal0"
           }
         ]
       },
@@ -1215,7 +1399,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_damage0"
           }
         ]
       },
@@ -1227,7 +1413,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_reduceWanted0"
           }
         ]
       },
@@ -1239,7 +1427,9 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "type": "bits",
+            "variantID": "scheduleI_escalateWanted0"
           }
         ]
       },
