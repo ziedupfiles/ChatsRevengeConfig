@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "400",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1750033254168",
@@ -40,7 +40,7 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1750033271719",
@@ -57,7 +57,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "cancel_monitor0",
@@ -73,7 +73,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "600",
+            "price": "500",
             "disabled": false,
             "type": "bits",
             "variantID": "minimize0",
@@ -89,7 +89,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "popup0",
@@ -104,7 +104,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1750033370783",
@@ -136,7 +136,7 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "400",
             "disabled": false,
             "type": "bits",
             "variantID": "Lag Window1750033385054",
@@ -152,7 +152,7 @@
         "input": false,
         "variants": [
           {
-            "price": "200",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1750033393617",
@@ -168,7 +168,7 @@
         "input": false,
         "variants": [
           {
-            "price": "250",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Invert Colors1750033399977",
@@ -184,7 +184,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "150",
             "disabled": false,
             "type": "bits",
             "variantID": "Mirror Screen1750033405697",
