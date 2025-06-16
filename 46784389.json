@@ -927,11 +927,12 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1750033673512",
-            "duration": "1"
+            "duration": "2",
+            "cooldown": "3"
           }
         ]
       },
