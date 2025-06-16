@@ -753,7 +753,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "300",
             "type": "bits",
             "variantID": "REPO_teleport0"
           }
@@ -767,7 +767,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250",
+            "price": "150",
             "type": "bits",
             "variantID": "REPO_lootbox0"
           }
@@ -781,7 +781,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_spawnGrenade0"
@@ -796,7 +796,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_spawnMine0"
@@ -811,7 +811,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
             "variantID": "REPO_weapon0"
           }
@@ -825,7 +825,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_heal0"
           }
@@ -839,7 +839,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_hurt0"
           }
@@ -880,7 +880,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "50% Shop Discount1750033626118"
@@ -933,7 +933,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1750033673512",
-            "duration": "2",
+            "duration": "10",
             "cooldown": "3"
           }
         ]
@@ -945,7 +945,7 @@
         "input": false,
         "variants": [
           {
-            "price": "400",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Gnome Infestation1750033690195"
@@ -959,7 +959,7 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn A Head1750033719081"
@@ -1137,7 +1137,7 @@
       "Spawn An Alien": {
         "id": "REPO_alien",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1165,12 +1165,12 @@
       "Spawn An Animal": {
         "id": "REPO_animal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_animal0"
           }
