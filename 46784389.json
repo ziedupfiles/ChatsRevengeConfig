@@ -40,7 +40,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "250",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1750033271719",
@@ -73,7 +73,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "400",
             "disabled": false,
             "type": "bits",
             "variantID": "minimize0",
