@@ -202,11 +202,11 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1750033419430",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -217,11 +217,11 @@
         "input": false,
         "variants": [
           {
-            "price": "600",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1750033428341",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -233,7 +233,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "40",
             "disabled": false,
             "type": "bits",
             "variantID": "cancel_keyboard0"
