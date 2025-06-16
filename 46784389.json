@@ -779,7 +779,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "2000",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_spawnGrenade0"
@@ -794,7 +794,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "800",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_spawnMine0"
