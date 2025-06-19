@@ -27,9 +27,18 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1750342064816",
+            "duration": "10",
+            "cooldown": "180"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -1349,5 +1358,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "RetroDudette"
 }
