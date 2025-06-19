@@ -11,9 +11,17 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1750355354244",
+            "duration": "10"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -39,7 +47,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
