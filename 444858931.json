@@ -97,9 +97,18 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1750342159986",
+            "duration": "10",
+            "cooldown": "180"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
