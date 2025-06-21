@@ -833,7 +833,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1747534047560",
-            "duration": "10"
+            "duration": "50"
           }
         ]
       },
