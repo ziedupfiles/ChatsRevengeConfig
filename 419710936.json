@@ -745,36 +745,42 @@
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Head1750637825226"
           }
         ]
       },
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Eye1750637830161"
           }
         ]
       },
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Runner1750637838203"
           }
         ]
       },
@@ -1351,5 +1357,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "MadJediNinja"
 }
