@@ -817,12 +817,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Spawn A Duck": {
         "id": "REPO_duck",
@@ -832,31 +827,35 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "4000"
           }
         ]
       },
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Hidden1750637881147"
           }
         ]
       },
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "900",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Robe1750637888095"
           }
         ]
       },
