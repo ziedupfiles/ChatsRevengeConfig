@@ -787,24 +787,28 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Laser Clown1750637853359"
           }
         ]
       },
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Blind Hunter1750637862275"
           }
         ]
       },
