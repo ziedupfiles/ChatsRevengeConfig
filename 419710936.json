@@ -822,12 +822,13 @@
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "4000"
+            "price": "4000",
+            "disabled": false
           }
         ]
       },
@@ -864,24 +865,14 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Spawn An Upscream": {
         "id": "REPO_upscream",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
@@ -898,12 +889,14 @@
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "2000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Trudge1750637910489"
           }
         ]
       },
