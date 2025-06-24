@@ -668,7 +668,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_spawnGrenade0"
           }
