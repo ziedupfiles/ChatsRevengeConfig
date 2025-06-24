@@ -642,16 +642,9 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "50",
-            "type": "bits",
-            "variantID": "REPO_teleport0"
-          }
-        ]
+        "variants": []
       },
       "Lootbox": {
         "id": "REPO_lootbox",
