@@ -20,9 +20,18 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1750779999988",
+            "duration": "5",
+            "cooldown": "5"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -1349,5 +1358,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "missteerious"
 }
