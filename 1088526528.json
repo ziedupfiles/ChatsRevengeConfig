@@ -36,9 +36,18 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1750950269090",
+            "duration": "20",
+            "cooldown": "600"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
