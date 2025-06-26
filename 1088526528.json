@@ -71,7 +71,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "1500",
+            "price": "100",
             "disabled": false,
             "cooldown": "800",
             "type": "bits",
@@ -86,7 +86,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1750949994846",
