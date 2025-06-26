@@ -650,7 +650,7 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -658,7 +658,7 @@
             "price": "10",
             "type": "bits",
             "variantID": "REPO_teleport0",
-            "disabled": false
+            "disabled": true
           }
         ]
       },
