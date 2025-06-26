@@ -86,7 +86,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1750949994846",
