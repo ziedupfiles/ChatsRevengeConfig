@@ -22,7 +22,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1750969808504",
