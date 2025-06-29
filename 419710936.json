@@ -782,12 +782,12 @@
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "500",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Initiate Self Destruct1750637790913"
           }
@@ -803,12 +803,12 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "100",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Destroy Closest Item1750637800537"
           }
@@ -824,12 +824,12 @@
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "1000",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Gnome Infestation1750637810549",
             "cooldown": "600"
@@ -839,12 +839,12 @@
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "100",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn A Head1750637825226"
           }
@@ -853,12 +853,12 @@
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "50",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn An Eye1750637830161"
           }
@@ -867,12 +867,12 @@
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "50",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn A Runner1750637838203"
           }
@@ -895,12 +895,12 @@
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "400",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn A Blind Hunter1750637862275"
           }
@@ -916,13 +916,13 @@
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "4000",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "REPO_duck0"
           }
@@ -931,12 +931,12 @@
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "350",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn A Hidden1750637881147"
           }
@@ -945,12 +945,12 @@
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "900",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn A Robe1750637888095"
           }
@@ -987,12 +987,12 @@
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "2000",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Spawn A Trudge1750637910489"
           }
