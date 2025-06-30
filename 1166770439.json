@@ -791,14 +791,16 @@
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_gnomeInfestation0"
+            "variantID": "REPO_gnomeInfestation0",
+            "cooldown": "100",
+            "disabled": false
           }
         ]
       },
