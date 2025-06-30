@@ -277,14 +277,16 @@
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2500",
             "type": "bits",
-            "variantID": "lethalcompany_halfCredits0"
+            "variantID": "lethalcompany_halfCredits0",
+            "cooldown": "1800",
+            "disabled": false
           }
         ]
       },
