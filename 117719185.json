@@ -519,14 +519,16 @@
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "7500",
             "type": "bits",
-            "variantID": "lethalcompany_destroyAllItem0"
+            "variantID": "lethalcompany_destroyAllItem0",
+            "cooldown": "1800",
+            "disabled": false
           }
         ]
       },
