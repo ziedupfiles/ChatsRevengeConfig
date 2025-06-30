@@ -374,9 +374,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "500",
             "type": "bits",
-            "variantID": "lethalcompany_coilheadSound0"
+            "variantID": "lethalcompany_coilheadSound0",
+            "cooldown": "5"
           }
         ]
       },
