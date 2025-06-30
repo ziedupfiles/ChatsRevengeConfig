@@ -142,14 +142,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "cancel_keyboard0"
-          }
-        ]
+        "variants": []
       }
     },
     "Timeout": {
@@ -823,7 +816,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0",
             "cooldown": "100",
@@ -839,7 +832,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_head0",
             "disabled": false,
