@@ -651,9 +651,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "3500",
             "type": "bits",
-            "variantID": "lethalcompany_spawnBracken0"
+            "variantID": "lethalcompany_spawnBracken0",
+            "cooldown": "900"
           }
         ]
       },
