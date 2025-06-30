@@ -635,9 +635,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2500",
             "type": "bits",
-            "variantID": "lethalcompany_spawnSpider0"
+            "variantID": "lethalcompany_spawnSpider0",
+            "cooldown": "600"
           }
         ]
       },
