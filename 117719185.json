@@ -230,14 +230,16 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "2000",
             "type": "bits",
-            "variantID": "lethalcompany_revive0"
+            "variantID": "lethalcompany_revive0",
+            "disabled": false,
+            "cooldown": "120"
           }
         ]
       },
