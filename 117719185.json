@@ -369,7 +369,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -377,21 +377,24 @@
             "price": "500",
             "type": "bits",
             "variantID": "lethalcompany_coilheadSound0",
-            "cooldown": "5"
+            "cooldown": "5",
+            "disabled": false
           }
         ]
       },
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "500",
             "type": "bits",
-            "variantID": "lethalcompany_jesterSound0"
+            "variantID": "lethalcompany_jesterSound0",
+            "cooldown": "30",
+            "disabled": false
           }
         ]
       },
