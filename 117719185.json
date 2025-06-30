@@ -567,14 +567,16 @@
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2500",
             "type": "bits",
-            "variantID": "lethalcompany_spawnDog0"
+            "variantID": "lethalcompany_spawnDog0",
+            "cooldown": "300",
+            "disabled": false
           }
         ]
       },
