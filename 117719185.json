@@ -464,9 +464,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "6000",
             "type": "bits",
-            "variantID": "lethalcompany_eclipse0"
+            "variantID": "lethalcompany_eclipse0",
+            "cooldown": "1800"
           }
         ]
       },
