@@ -353,14 +353,16 @@
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "500",
             "type": "bits",
-            "variantID": "lethalcompany_turretSound0"
+            "variantID": "lethalcompany_turretSound0",
+            "cooldown": "5",
+            "disabled": false
           }
         ]
       },
