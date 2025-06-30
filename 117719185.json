@@ -459,7 +459,7 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -467,7 +467,8 @@
             "price": "6000",
             "type": "bits",
             "variantID": "lethalcompany_eclipse0",
-            "cooldown": "1800"
+            "cooldown": "1800",
+            "disabled": false
           }
         ]
       },
@@ -488,14 +489,16 @@
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2500",
             "type": "bits",
-            "variantID": "lethalcompany_clearweather0"
+            "variantID": "lethalcompany_clearweather0",
+            "cooldown": "300",
+            "disabled": false
           }
         ]
       },
