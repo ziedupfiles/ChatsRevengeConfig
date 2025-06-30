@@ -401,14 +401,16 @@
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "700",
             "type": "bits",
-            "variantID": "lethalcompany_girlSound0"
+            "variantID": "lethalcompany_girlSound0",
+            "cooldown": "15",
+            "disabled": false
           }
         ]
       },
