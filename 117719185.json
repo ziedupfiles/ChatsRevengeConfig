@@ -343,7 +343,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "500",
             "type": "bits",
             "variantID": "lethalcompany_drunk0",
             "cooldown": "15"
