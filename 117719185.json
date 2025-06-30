@@ -261,14 +261,16 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "4000",
             "type": "bits",
-            "variantID": "lethalcompany_doubleCredits0"
+            "variantID": "lethalcompany_doubleCredits0",
+            "cooldown": "1800",
+            "disabled": false
           }
         ]
       },
