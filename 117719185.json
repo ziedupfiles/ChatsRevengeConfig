@@ -666,9 +666,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "3500",
             "type": "bits",
-            "variantID": "lethalcompany_spawnNutcracker0"
+            "variantID": "lethalcompany_spawnNutcracker0",
+            "cooldown": "900"
           }
         ]
       },
