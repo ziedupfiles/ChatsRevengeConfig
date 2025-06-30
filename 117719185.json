@@ -588,9 +588,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2000",
             "type": "bits",
-            "variantID": "lethalcompany_spawnBees0"
+            "variantID": "lethalcompany_spawnBees0",
+            "cooldown": "300"
           }
         ]
       },
