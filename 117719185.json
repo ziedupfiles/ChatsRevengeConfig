@@ -328,9 +328,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "5000",
             "type": "bits",
-            "variantID": "lethalcompany_vents0"
+            "variantID": "lethalcompany_vents0",
+            "cooldown": "1800"
           }
         ]
       },
