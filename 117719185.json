@@ -551,14 +551,16 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "3000",
             "type": "bits",
-            "variantID": "lethalcompany_immunity0"
+            "variantID": "lethalcompany_immunity0",
+            "cooldown": "1200",
+            "disabled": false
           }
         ]
       },
