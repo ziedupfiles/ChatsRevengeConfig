@@ -421,43 +421,47 @@
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "1000",
+            "price": "1500",
             "type": "bits",
             "variantID": "lethalcompany_stormy0",
-            "cooldown": "1200"
+            "cooldown": "1200",
+            "disabled": false
           }
         ]
       },
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "1500",
             "type": "bits",
-            "variantID": "lethalcompany_foggy0"
+            "variantID": "lethalcompany_foggy0",
+            "disabled": false,
+            "cooldown": "1200"
           }
         ]
       },
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "1500",
             "type": "bits",
-            "variantID": "lethalcompany_rainy0"
+            "variantID": "lethalcompany_rainy0",
+            "cooldown": "1200"
           }
         ]
       },
@@ -480,14 +484,16 @@
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2000",
             "type": "bits",
-            "variantID": "lethalcompany_flooded0"
+            "variantID": "lethalcompany_flooded0",
+            "disabled": false,
+            "cooldown": "1200"
           }
         ]
       },
@@ -499,7 +505,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "2500",
+            "price": "1000",
             "type": "bits",
             "variantID": "lethalcompany_clearweather0",
             "cooldown": "300",
@@ -515,9 +521,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "500",
             "type": "bits",
-            "variantID": "lethalcompany_fakeAction0"
+            "variantID": "lethalcompany_fakeAction0",
+            "cooldown": "15"
           }
         ]
       },
