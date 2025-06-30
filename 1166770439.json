@@ -662,7 +662,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_lootbox0",
             "disabled": false,
@@ -678,7 +678,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_spawnGrenade0",
             "disabled": false,
@@ -694,7 +694,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_spawnMine0",
             "disabled": false,
@@ -710,7 +710,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_weapon0",
             "disabled": false,
@@ -726,7 +726,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_heal0",
             "cooldown": "200",
@@ -749,7 +749,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_revive0",
             "cooldown": "200",
@@ -816,7 +816,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0",
             "cooldown": "100",
@@ -848,7 +848,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_eye0",
             "disabled": false,
@@ -864,7 +864,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_runner0",
             "disabled": false,
@@ -880,7 +880,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_clown0",
             "cooldown": "10",
@@ -896,7 +896,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_hunter0",
             "cooldown": "10",
@@ -912,7 +912,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_thinman0",
             "disabled": false
@@ -927,7 +927,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_duck0",
             "disabled": false
@@ -942,7 +942,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_hidden0",
             "disabled": false
@@ -957,7 +957,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_robe0",
             "disabled": false
@@ -972,7 +972,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_blowtie0",
             "disabled": false
@@ -987,7 +987,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_upscream0",
             "disabled": false
@@ -1002,7 +1002,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_mouth0",
             "disabled": false
@@ -1017,7 +1017,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_trudge0",
             "disabled": false
@@ -1032,7 +1032,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_alien0",
             "disabled": false
@@ -1047,7 +1047,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_frog0",
             "disabled": false
@@ -1062,7 +1062,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_animal0",
             "disabled": false
@@ -1077,7 +1077,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_rugrat0",
             "disabled": false
