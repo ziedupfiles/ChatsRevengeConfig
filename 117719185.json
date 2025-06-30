@@ -516,7 +516,7 @@
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -524,7 +524,8 @@
             "price": "500",
             "type": "bits",
             "variantID": "lethalcompany_fakeAction0",
-            "cooldown": "15"
+            "cooldown": "15",
+            "disabled": false
           }
         ]
       },
