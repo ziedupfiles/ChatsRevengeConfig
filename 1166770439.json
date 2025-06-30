@@ -55,9 +55,18 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Glitch Window1751299574542",
+            "duration": "20",
+            "cooldown": "200"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
