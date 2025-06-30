@@ -630,7 +630,7 @@
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -638,7 +638,8 @@
             "price": "2500",
             "type": "bits",
             "variantID": "lethalcompany_spawnSpider0",
-            "cooldown": "600"
+            "cooldown": "600",
+            "disabled": false
           }
         ]
       },
