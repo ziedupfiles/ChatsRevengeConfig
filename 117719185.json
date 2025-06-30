@@ -612,7 +612,7 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -620,7 +620,8 @@
             "price": "3000",
             "type": "bits",
             "variantID": "lethalcompany_spawnJester0",
-            "cooldown": "600"
+            "cooldown": "600",
+            "disabled": false
           }
         ]
       },
