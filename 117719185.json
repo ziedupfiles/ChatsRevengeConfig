@@ -678,14 +678,16 @@
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "1000",
             "type": "bits",
-            "variantID": "lethalcompany_killEnemy0"
+            "variantID": "lethalcompany_killEnemy0",
+            "disabled": false,
+            "cooldown": "60"
           }
         ]
       }
