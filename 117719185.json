@@ -646,7 +646,7 @@
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -654,14 +654,15 @@
             "price": "3500",
             "type": "bits",
             "variantID": "lethalcompany_spawnBracken0",
-            "cooldown": "900"
+            "cooldown": "900",
+            "disabled": false
           }
         ]
       },
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -669,7 +670,8 @@
             "price": "3500",
             "type": "bits",
             "variantID": "lethalcompany_spawnNutcracker0",
-            "cooldown": "900"
+            "cooldown": "900",
+            "disabled": false
           }
         ]
       },
