@@ -182,7 +182,7 @@
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -190,35 +190,40 @@
             "price": "700",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0",
-            "cooldown": "60"
+            "cooldown": "60",
+            "disabled": false
           }
         ]
       },
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "5000",
             "type": "bits",
-            "variantID": "lethalcompany_leaveEarly0"
+            "variantID": "lethalcompany_leaveEarly0",
+            "cooldown": "1500",
+            "disabled": false
           }
         ]
       },
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "5000",
             "type": "bits",
-            "variantID": "lethalcompany_spawnMine0"
+            "variantID": "lethalcompany_spawnMine0",
+            "cooldown": "1800",
+            "disabled": false
           }
         ]
       },
@@ -230,7 +235,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2000",
             "type": "bits",
             "variantID": "lethalcompany_revive0"
           }
