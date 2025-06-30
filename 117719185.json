@@ -313,9 +313,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "1500",
             "type": "bits",
-            "variantID": "lethalcompany_lootbox0"
+            "variantID": "lethalcompany_lootbox0",
+            "cooldown": "300"
           }
         ]
       },
