@@ -63,7 +63,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "minimize0"
+            "variantID": "minimize0",
+            "disabled": true
           }
         ]
       },
