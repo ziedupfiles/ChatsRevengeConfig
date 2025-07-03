@@ -49,9 +49,17 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Minimize Window1751576270039",
+            "cooldown": ""
+          }
+        ]
       },
       "Open a Pop Up": {
         "id": "popup",
@@ -131,7 +139,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1751575409478",
-            "duration": "10"
+            "duration": "10",
+            "cooldown": "1"
           }
         ]
       },
