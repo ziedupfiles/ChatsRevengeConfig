@@ -15,7 +15,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1751490512556",
@@ -31,7 +31,7 @@
         "input": false,
         "variants": [
           {
-            "price": "30",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1751490751078",
@@ -42,16 +42,9 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Remove monitor effect1751575630094"
-          }
-        ]
+        "variants": []
       },
       "Minimize Window": {
         "id": "minimize",
@@ -70,9 +63,17 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Glitch Window1751575778644",
+            "duration": "5"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
@@ -81,7 +82,7 @@
         "input": false,
         "variants": [
           {
-            "price": "200",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1751490722784",
