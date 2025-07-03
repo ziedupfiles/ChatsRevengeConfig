@@ -19,7 +19,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1751490512556",
-            "duration": "10"
+            "duration": "5",
+            "cooldown": ""
           }
         ]
       },
