@@ -35,16 +35,23 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1751490751078",
-            "duration": "10"
+            "duration": "5"
           }
         ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Remove monitor effect1751575630094"
+          }
+        ]
       },
       "Minimize Window": {
         "id": "minimize",
