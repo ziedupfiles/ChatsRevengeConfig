@@ -57,7 +57,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Minimize Window1751576270039",
-            "cooldown": ""
+            "cooldown": "3"
           }
         ]
       },
