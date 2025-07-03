@@ -15,7 +15,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1751490512556",
@@ -31,7 +31,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1751490751078",
@@ -78,7 +78,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1751490722784",
-            "duration": "10"
+            "duration": "5"
           }
         ]
       },
@@ -123,9 +123,17 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1751575409478",
+            "duration": "10"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
@@ -139,14 +147,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "cancel_keyboard0"
-          }
-        ]
+        "variants": []
       }
     },
     "Timeout": {
