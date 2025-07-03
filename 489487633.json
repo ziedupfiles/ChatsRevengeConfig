@@ -93,17 +93,9 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Lag Window1751490700423",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
