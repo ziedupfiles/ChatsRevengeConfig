@@ -4,17 +4,9 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Turn off1751490992971",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
