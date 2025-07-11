@@ -4,23 +4,50 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1752205597796",
+            "duration": "90",
+            "cooldown": "30"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1752205606860",
+            "duration": "60",
+            "cooldown": "30"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1752205638914",
+            "duration": "120",
+            "cooldown": "30"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -29,82 +56,137 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "1000"
-          },
-          {
-            "price": "300",
+            "price": "500",
             "disabled": false,
             "type": "bits",
-            "variantID": "Remove monitor effect1752205211510"
+            "variantID": "Remove monitor effect1752205582877",
+            "cooldown": "30"
           }
         ]
       },
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500",
+            "cooldown": "30"
           }
         ]
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Open a Pop Up1752205317828",
+            "cooldown": "60"
           }
         ]
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Glitch Window1752205329146",
+            "duration": "60",
+            "cooldown": "30"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1752205332493",
+            "duration": "60",
+            "cooldown": "30"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Lag Window1752205351124",
+            "duration": "60",
+            "cooldown": "30"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Shrink Window1752205466587",
+            "duration": "60",
+            "cooldown": "30"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1752205478194",
+            "duration": "60",
+            "cooldown": "20"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1752205489947",
+            "duration": "120",
+            "cooldown": "20"
+          }
+        ]
       }
     },
     "Input": {
@@ -1346,5 +1428,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "s00jazzy593"
 }
