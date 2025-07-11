@@ -84,7 +84,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Open a Pop Up1752205317828",
