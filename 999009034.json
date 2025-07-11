@@ -95,9 +95,18 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1752247553300",
+            "duration": "30",
+            "cooldown": "180"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
@@ -116,9 +125,18 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1752247569426",
+            "duration": "30",
+            "cooldown": "180"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
