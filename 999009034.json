@@ -73,14 +73,15 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "1000",
             "type": "bits",
-            "variantID": "popup0"
+            "variantID": "popup0",
+            "cooldown": "15"
           }
         ]
       },
