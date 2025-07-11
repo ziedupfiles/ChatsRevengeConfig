@@ -88,7 +88,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Open a Pop Up1752205317828",
-            "cooldown": "60"
+            "cooldown": "30"
           }
         ]
       },
