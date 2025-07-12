@@ -15,7 +15,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1751490512556",
@@ -75,7 +75,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1751575778644",
