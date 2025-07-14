@@ -223,9 +223,17 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Create timeout1752513750336",
+            "duration": "1"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -235,7 +243,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10"
           }
         ]
       }
@@ -1430,5 +1438,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "nightmare7896767"
 }
