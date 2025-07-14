@@ -53,7 +53,7 @@
         "input": false,
         "variants": [
           {
-            "price": "20",
+            "price": "40",
             "disabled": false,
             "type": "bits",
             "variantID": "Minimize Window1751576270039",
@@ -90,7 +90,7 @@
         "input": false,
         "variants": [
           {
-            "price": "20",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1751490722784",
@@ -101,9 +101,17 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Lag Window1752526087782",
+            "duration": "5"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
@@ -115,16 +123,32 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1752526003207",
+            "duration": "4"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1752526025184",
+            "duration": "4"
+          }
+        ]
       }
     },
     "Input": {
