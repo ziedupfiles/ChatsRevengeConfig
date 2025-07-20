@@ -183,7 +183,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0"
           }
@@ -234,56 +234,60 @@
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "20",
             "type": "bits",
-            "variantID": "lethalcompany_meetQuota0"
+            "variantID": "lethalcompany_meetQuota0",
+            "disabled": false
           }
         ]
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "30",
             "type": "bits",
-            "variantID": "lethalcompany_doubleCredits0"
+            "variantID": "lethalcompany_doubleCredits0",
+            "disabled": false
           }
         ]
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "40",
             "type": "bits",
-            "variantID": "lethalcompany_halfCredits0"
+            "variantID": "lethalcompany_halfCredits0",
+            "disabled": false
           }
         ]
       },
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "lethalcompany_bugs0"
+            "variantID": "lethalcompany_bugs0",
+            "disabled": false
           }
         ]
       },
@@ -304,14 +308,15 @@
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
-            "variantID": "lethalcompany_vents0"
+            "variantID": "lethalcompany_vents0",
+            "disabled": false
           }
         ]
       },
@@ -430,7 +435,7 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -458,12 +463,12 @@
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
             "variantID": "lethalcompany_clearweather0"
           }
@@ -472,28 +477,30 @@
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "lethalcompany_fakeAction0"
+            "variantID": "lethalcompany_fakeAction0",
+            "disabled": false
           }
         ]
       },
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "500",
             "type": "bits",
-            "variantID": "lethalcompany_destroyAllItem0"
+            "variantID": "lethalcompany_destroyAllItem0",
+            "disabled": false
           }
         ]
       },
@@ -625,7 +632,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "disabled": false,
             "cooldown": "10",
             "type": "bits",
