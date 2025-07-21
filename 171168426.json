@@ -4,50 +4,30 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "200",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "250",
-            "duration": "10"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "500",
-            "duration": "20"
-          }
-        ]
+        "variants": []
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       }
     },
     "Input": {
@@ -70,12 +50,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       }
     },
     "Sound": {
