@@ -209,7 +209,7 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "1"
+            "cooldown": "0"
           }
         ]
       }
