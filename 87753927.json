@@ -58,7 +58,7 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "30"
+            "cooldown": "520"
           }
         ]
       },
@@ -71,7 +71,7 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "30"
+            "cooldown": "520"
           }
         ]
       },
@@ -1379,5 +1379,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Mommy8Leggs"
 }
