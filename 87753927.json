@@ -1263,7 +1263,15 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mob of NPCs attack1753195596775",
+            "cooldown": "90"
           }
         ]
       },
