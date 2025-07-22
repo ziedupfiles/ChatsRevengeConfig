@@ -171,9 +171,18 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1753194997978",
+            "duration": "10",
+            "cooldown": "90"
+          }
+        ]
       }
     },
     "Input": {
