@@ -1418,9 +1418,18 @@
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Make Player Disoriented1753195715707",
+            "duration": "10",
+            "cooldown": "90"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
