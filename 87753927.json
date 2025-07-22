@@ -1434,16 +1434,34 @@
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Make Player Athletic1753195725395",
+            "duration": "30",
+            "cooldown": "30"
+          }
+        ]
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Random Status Effect1753195752040",
+            "duration": "30",
+            "cooldown": "30"
+          }
+        ]
       }
     },
     "Pokemon FireRed": {
