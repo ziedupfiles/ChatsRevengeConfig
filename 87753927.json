@@ -1395,9 +1395,18 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Anti-Gravity1753195699377",
+            "duration": "10",
+            "cooldown": "30"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
