@@ -131,23 +131,42 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Lag Window1753194958860",
-            "duration": "1"
+            "duration": "1",
+            "cooldown": "30"
           }
         ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Shrink Window1753194973701",
+            "duration": "10",
+            "cooldown": "30"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1753194985439",
+            "duration": "15",
+            "cooldown": "30"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
