@@ -1093,12 +1093,19 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Claim NPC1753195509227"
           }
         ]
       },
@@ -1110,7 +1117,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Unlock All NPCs1753195514598"
           }
         ]
       },
@@ -1123,31 +1137,42 @@
           {
             "duration": null,
             "price": "300",
-            "cooldown": "90"
+            "cooldown": "90",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double/Half Cash (50%)1753195521156"
           }
         ]
       },
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "520",
+            "disabled": false
           }
         ]
       },
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "520",
+            "disabled": false
           }
         ]
       },
@@ -1171,16 +1196,32 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "3 Free Slot Spins1753195557194"
           }
         ]
       },
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Better Slot Odds1753195566270",
+            "duration": "15",
+            "cooldown": "45"
+          }
+        ]
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
