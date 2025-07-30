@@ -658,7 +658,7 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -672,7 +672,7 @@
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -686,7 +686,7 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
