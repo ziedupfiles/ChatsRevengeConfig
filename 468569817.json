@@ -4,33 +4,61 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "1000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1753957430895",
+            "duration": "5",
+            "cooldown": "30"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "700",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1753957451180",
+            "duration": "7",
+            "cooldown": "30"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1753957478198",
+            "duration": "15",
+            "cooldown": "30"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": false
           }
         ]
       },
@@ -89,9 +117,18 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1753957533210",
+            "duration": "15",
+            "cooldown": "30"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
@@ -1363,5 +1400,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "CryptidOphelia"
 }
