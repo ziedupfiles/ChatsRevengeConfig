@@ -26,7 +26,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1754178224023",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -1343,5 +1343,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "MissScaryK"
 }
