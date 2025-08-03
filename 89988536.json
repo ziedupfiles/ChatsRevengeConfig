@@ -72,12 +72,14 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "800",
+            "cooldown": "15",
+            "disabled": false
           }
         ]
       },
@@ -1399,5 +1401,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Superlee13"
 }
