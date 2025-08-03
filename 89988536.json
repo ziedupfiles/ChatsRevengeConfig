@@ -911,84 +911,140 @@
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "1500",
+            "cooldown": "150"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Head1754247393137",
+            "cooldown": "150"
           }
         ]
       },
       "Spawn An Eye": {
         "id": "REPO_eye",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "150",
+            "cooldown": "240"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Eye1754247409938",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "120"
+          },
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Runner1754247424197",
+            "cooldown": "120"
           }
         ]
       },
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "600",
+            "cooldown": "600",
+            "disabled": false
+          },
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Laser Clown1754247439566",
+            "cooldown": "600"
           }
         ]
       },
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "120"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Blind Hunter1754247455829",
+            "cooldown": "120"
           }
         ]
       },
       "Spawn A Thinman": {
         "id": "REPO_thinman",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": false,
+            "cooldown": "120"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Thinman1754247499033",
+            "cooldown": "120"
           }
         ]
       },
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Duck1754247510381"
           }
         ]
       },
