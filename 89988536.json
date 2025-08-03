@@ -779,64 +779,114 @@
       "Kill A Monster": {
         "id": "REPO_killememy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100",
+            "cooldown": "60"
+          },
+          {
+            "price": "20",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Kill A Monster1754247069914",
+            "cooldown": "60"
           }
         ]
       },
       "50% Shop Discount": {
         "id": "REPO_discount",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "100",
+            "cooldown": "600"
+          },
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "50% Shop Discount1754247098555",
+            "cooldown": "600"
           }
         ]
       },
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "10000",
+            "cooldown": "600"
+          },
+          {
+            "price": "2000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Initiate Self Destruct1754247106327",
+            "cooldown": "600"
           }
         ]
       },
       "Give Immunity": {
         "id": "REPO_immunity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "40",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Immunity1754247174278",
+            "duration": "20",
+            "cooldown": "120"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "cooldown": "120"
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Destroy Closest Item1754247221631",
+            "cooldown": "120"
           }
         ]
       },
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "20",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flashlight Off1754247263177",
+            "duration": "15",
+            "cooldown": "120"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
