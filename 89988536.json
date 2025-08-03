@@ -1038,133 +1038,215 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "240"
           },
           {
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Duck1754247510381"
+            "variantID": "Spawn A Duck1754247510381",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "cooldown": "240"
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Hidden1754247737499",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "150"
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Robe1754247756933",
+            "cooldown": "150"
           }
         ]
       },
       "Spawn A Blowtie": {
         "id": "REPO_blowtie",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "cooldown": "240"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Blowtie1754247768657",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn An Upscream": {
         "id": "REPO_upscream",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "cooldown": "240"
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Upscream1754247780039",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250",
+            "cooldown": "240"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Mouth1754247795558",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "250",
+            "cooldown": "240"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Trudge1754247830643",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn An Alien": {
         "id": "REPO_alien",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "400",
+            "cooldown": "600"
+          },
+          {
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Alien1754247855441",
+            "cooldown": "600"
           }
         ]
       },
       "Spawn An Frog": {
         "id": "REPO_frog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "cooldown": "600"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Frog1754247879972",
+            "cooldown": "600"
           }
         ]
       },
       "Spawn An Animal": {
         "id": "REPO_animal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "240"
+          },
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn An Animal1754247889019",
+            "cooldown": "240"
           }
         ]
       },
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "240"
+          },
+          {
+            "price": "250",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn A Rugrat1754247896958",
+            "cooldown": "240"
           }
         ]
       }
