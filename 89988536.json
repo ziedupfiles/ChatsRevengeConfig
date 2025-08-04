@@ -751,17 +751,9 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "750",
-            "cooldown": "60",
-            "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
@@ -902,12 +894,12 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "200",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Destroy Closest Item1754247221631",
             "cooldown": "120"
