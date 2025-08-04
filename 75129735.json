@@ -32,7 +32,7 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
