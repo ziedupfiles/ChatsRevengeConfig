@@ -1039,7 +1039,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn A Duck1754247510381",
-            "cooldown": "240"
+            "cooldown": "30"
           }
         ]
       },
