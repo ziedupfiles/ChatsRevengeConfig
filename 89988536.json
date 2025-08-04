@@ -797,7 +797,7 @@
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -805,7 +805,8 @@
             "price": "100",
             "cooldown": "30",
             "type": "bits",
-            "variantID": "REPO_heal0"
+            "variantID": "REPO_heal0",
+            "disabled": true
           }
         ]
       },
