@@ -751,9 +751,17 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "duration": null,
+            "price": "750",
+            "cooldown": "60",
+            "type": "bits",
+            "variantID": "REPO_spawnGrenade0"
+          }
+        ]
       },
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
@@ -894,12 +902,12 @@
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "200",
-            "disabled": true,
+            "disabled": false,
             "type": "bits",
             "variantID": "Destroy Closest Item1754247221631",
             "cooldown": "120"
@@ -1039,7 +1047,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Spawn A Duck1754247510381",
-            "cooldown": "30"
+            "cooldown": "240"
           }
         ]
       },
