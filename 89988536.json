@@ -781,7 +781,7 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -789,7 +789,8 @@
             "price": "100",
             "cooldown": "30",
             "type": "bits",
-            "variantID": "REPO_weapon0"
+            "variantID": "REPO_weapon0",
+            "disabled": true
           }
         ]
       },
@@ -811,7 +812,7 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -819,14 +820,15 @@
             "price": "1000",
             "cooldown": "60",
             "type": "bits",
-            "variantID": "REPO_hurt0"
+            "variantID": "REPO_hurt0",
+            "disabled": true
           }
         ]
       },
       "Revive Player": {
         "id": "REPO_revive",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -834,7 +836,8 @@
             "price": "100",
             "cooldown": "30",
             "type": "bits",
-            "variantID": "REPO_revive0"
+            "variantID": "REPO_revive0",
+            "disabled": true
           }
         ]
       },
