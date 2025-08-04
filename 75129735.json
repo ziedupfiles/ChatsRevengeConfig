@@ -8,8 +8,8 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
-            "duration": "2",
+            "price": "50",
+            "duration": "3",
             "type": "bits",
             "variantID": "monitor0"
           }
