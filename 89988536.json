@@ -721,7 +721,7 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -729,14 +729,15 @@
             "price": "750",
             "cooldown": "60",
             "type": "bits",
-            "variantID": "REPO_teleport0"
+            "variantID": "REPO_teleport0",
+            "disabled": true
           }
         ]
       },
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -744,14 +745,15 @@
             "price": "300",
             "cooldown": "60",
             "type": "bits",
-            "variantID": "REPO_lootbox0"
+            "variantID": "REPO_lootbox0",
+            "disabled": true
           }
         ]
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -759,14 +761,15 @@
             "price": "750",
             "cooldown": "60",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "disabled": true
           }
         ]
       },
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -774,7 +777,8 @@
             "price": "750",
             "cooldown": "60",
             "type": "bits",
-            "variantID": "REPO_spawnMine0"
+            "variantID": "REPO_spawnMine0",
+            "disabled": true
           }
         ]
       },
