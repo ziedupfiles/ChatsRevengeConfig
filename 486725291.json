@@ -49,14 +49,15 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "cancel_monitor0"
+            "variantID": "cancel_monitor0",
+            "disabled": false
           }
         ]
       },
@@ -178,9 +179,17 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1754598994251",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Input": {
