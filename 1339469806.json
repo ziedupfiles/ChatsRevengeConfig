@@ -12,7 +12,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1754790065598",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -27,7 +28,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1754778245452",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -42,7 +44,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1754778270734",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -51,42 +54,21 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "cancel_monitor0"
-          }
-        ]
+        "variants": []
       },
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "minimize0"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "popup0"
-          }
-        ]
+        "variants": []
       },
       "Glitch Window": {
         "id": "glitch",
@@ -99,7 +81,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1754778325703",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -114,7 +97,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1754778329378",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -129,7 +113,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Lag Window1754778334112",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -159,7 +144,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Invert Colors1754778342171",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       },
@@ -174,7 +160,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Mirror Screen1754778346146",
-            "duration": "15"
+            "duration": "15",
+            "cooldown": "360"
           }
         ]
       }
