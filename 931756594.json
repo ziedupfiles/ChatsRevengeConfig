@@ -238,7 +238,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "20",
             "type": "bits",
             "variantID": "lethalcompany_revive0",
             "disabled": false
