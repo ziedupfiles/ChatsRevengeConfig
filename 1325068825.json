@@ -8,14 +8,14 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "500",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1754162670176",
             "duration": "60"
           },
           {
-            "price": "300",
+            "price": "500",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1754162672725",
@@ -30,7 +30,7 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1754162331697",
@@ -45,7 +45,7 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "150",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1754162675065",
@@ -61,7 +61,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "cancel_monitor0"
           }
@@ -75,7 +75,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
             "variantID": "minimize0"
           }
@@ -89,7 +89,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
             "variantID": "popup0"
           }
