@@ -45,7 +45,7 @@
         "input": false,
         "variants": [
           {
-            "price": "150",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1754162675065",
@@ -63,7 +63,8 @@
             "duration": null,
             "price": "100",
             "type": "bits",
-            "variantID": "cancel_monitor0"
+            "variantID": "cancel_monitor0",
+            "cooldown": "60"
           }
         ]
       },
@@ -77,7 +78,8 @@
             "duration": null,
             "price": "200",
             "type": "bits",
-            "variantID": "minimize0"
+            "variantID": "minimize0",
+            "cooldown": "60"
           }
         ]
       },
@@ -91,7 +93,8 @@
             "duration": null,
             "price": "200",
             "type": "bits",
-            "variantID": "popup0"
+            "variantID": "popup0",
+            "cooldown": "60"
           }
         ]
       },
@@ -126,16 +129,32 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1755360987902",
+            "duration": "60"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1755361013277",
+            "duration": "60"
+          }
+        ]
       }
     },
     "Input": {
