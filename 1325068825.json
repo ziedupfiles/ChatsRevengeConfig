@@ -184,7 +184,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1755360929773",
-            "duration": "1"
+            "duration": "60"
           }
         ]
       },
@@ -198,7 +198,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "cancel_keyboard0"
+            "variantID": "cancel_keyboard0",
+            "cooldown": "60"
           }
         ]
       }
