@@ -615,7 +615,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1755565572210",
-            "duration": "1"
+            "duration": "50"
           }
         ]
       },
@@ -630,7 +630,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1755565577076",
-            "duration": "1"
+            "duration": "50"
           }
         ]
       },
