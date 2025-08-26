@@ -833,7 +833,7 @@
             "price": "10",
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0",
-            "cooldown": "540"
+            "cooldown": "0"
           }
         ]
       },
