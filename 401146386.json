@@ -208,14 +208,15 @@
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_leaveEarly0"
+            "variantID": "lethalcompany_leaveEarly0",
+            "disabled": false
           }
         ]
       },
@@ -310,7 +311,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -339,7 +340,7 @@
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -537,7 +538,7 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
