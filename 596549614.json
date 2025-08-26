@@ -633,11 +633,10 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "10",
+            "price": "300",
+            "disabled": false,
             "type": "bits",
-            "variantID": "REPO_lootbox0",
-            "cooldown": "180"
+            "variantID": "Lootbox1756233266040"
           }
         ]
       },
