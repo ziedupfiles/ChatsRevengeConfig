@@ -28,6 +28,14 @@
             "variantID": "Rotate1756321246509",
             "duration": "5",
             "cooldown": "60"
+          },
+          {
+            "price": "1000",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1756321265908",
+            "duration": "10",
+            "cooldown": "120"
           }
         ]
       },
