@@ -132,7 +132,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1756321139565",
-            "duration": "5",
+            "duration": "10",
             "cooldown": "60"
           }
         ]
@@ -148,7 +148,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1756321140508",
-            "duration": "5",
+            "duration": "10",
             "cooldown": "60"
           }
         ]
