@@ -71,7 +71,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1756321068716",
-            "duration": "5",
+            "duration": "10",
             "cooldown": "60"
           },
           {
@@ -79,7 +79,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1756321282678",
-            "duration": "15",
+            "duration": "20",
             "cooldown": "120"
           }
         ]
