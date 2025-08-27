@@ -26,7 +26,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1756321246509",
-            "duration": "5",
+            "duration": "10",
             "cooldown": "60"
           },
           {
@@ -34,7 +34,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1756321265908",
-            "duration": "10",
+            "duration": "20",
             "cooldown": "120"
           }
         ]
