@@ -11,9 +11,18 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1756432777872",
+            "duration": "60",
+            "cooldown": "20"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -1340,5 +1349,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "sstrawberrrysunrrise"
 }
