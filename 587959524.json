@@ -119,7 +119,7 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1340,5 +1340,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "calypsofukuro"
 }
