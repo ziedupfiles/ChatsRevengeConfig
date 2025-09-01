@@ -126,14 +126,16 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "cancel_keyboard0"
+            "variantID": "cancel_keyboard0",
+            "cooldown": "10",
+            "disabled": false
           }
         ]
       }
