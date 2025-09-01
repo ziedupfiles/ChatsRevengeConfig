@@ -1233,9 +1233,17 @@
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "40",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Suspicous Profiling1756758355129",
+            "duration": "1"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
