@@ -642,12 +642,12 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "10",
-            "disabled": true,
+            "disabled": false,
             "type": "bits",
             "variantID": "Teleport1757088116516"
           }
