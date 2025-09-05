@@ -25,7 +25,7 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1033,36 +1033,21 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
@@ -1100,60 +1085,35 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
@@ -1340,5 +1300,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "OGxDarkk"
 }
