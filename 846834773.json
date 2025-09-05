@@ -646,12 +646,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_teleport0"
-          },
-          {
             "price": "10",
             "disabled": false,
             "type": "bits",
@@ -665,12 +659,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_lootbox0"
-          },
           {
             "price": "10",
             "disabled": false,
@@ -686,12 +674,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
-          },
-          {
             "price": "10",
             "disabled": false,
             "type": "bits",
@@ -705,12 +687,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_spawnMine0"
-          },
           {
             "price": "10",
             "disabled": false,
@@ -726,12 +702,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_weapon0"
-          },
-          {
             "price": "10",
             "disabled": false,
             "type": "bits",
@@ -745,12 +715,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_heal0"
-          },
           {
             "price": "10",
             "disabled": false,
@@ -766,12 +730,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_hurt0"
-          },
-          {
             "price": "10",
             "disabled": false,
             "type": "bits",
@@ -785,12 +743,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_revive0"
-          },
           {
             "price": "10",
             "disabled": false,
@@ -806,12 +758,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_killememy0"
-          },
-          {
             "price": "10",
             "disabled": false,
             "type": "bits",
@@ -826,12 +772,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "100",
-            "type": "bits",
-            "variantID": "REPO_discount0"
-          },
-          {
             "price": "10",
             "disabled": false,
             "type": "bits",
@@ -845,12 +785,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "1000",
-            "type": "bits",
-            "variantID": "REPO_selfDestruct0"
-          },
           {
             "price": "200",
             "disabled": false,
@@ -881,12 +815,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_destroyClosest0"
-          },
-          {
             "price": "200",
             "disabled": false,
             "type": "bits",
@@ -916,12 +844,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_gnomeInfestation0"
-          },
-          {
             "price": "30",
             "disabled": false,
             "type": "bits",
@@ -935,12 +857,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_head0"
-          },
           {
             "price": "100",
             "disabled": false,
@@ -956,12 +872,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_eye0"
-          },
-          {
             "price": "50",
             "disabled": false,
             "type": "bits",
@@ -975,12 +885,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_runner0"
-          },
           {
             "price": "100",
             "disabled": false,
@@ -996,12 +900,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_clown0"
-          },
-          {
             "price": "100",
             "disabled": false,
             "type": "bits",
@@ -1015,12 +913,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_hunter0"
-          },
           {
             "price": "100",
             "disabled": false,
@@ -1036,12 +928,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_thinman0"
-          },
-          {
             "price": "30",
             "disabled": false,
             "type": "bits",
@@ -1055,12 +941,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_duck0"
-          },
           {
             "price": "20",
             "disabled": false,
@@ -1076,12 +956,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "REPO_hidden0"
-          },
-          {
             "price": "30",
             "disabled": false,
             "type": "bits",
@@ -1095,12 +969,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_robe0"
-          },
           {
             "price": "100",
             "disabled": false,
@@ -1116,12 +984,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_blowtie0"
-          },
-          {
             "price": "100",
             "disabled": false,
             "type": "bits",
@@ -1135,12 +997,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_upscream0"
-          },
           {
             "price": "30",
             "disabled": false,
@@ -1156,12 +1012,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_mouth0"
-          },
-          {
             "price": "30",
             "disabled": false,
             "type": "bits",
@@ -1175,12 +1025,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_trudge0"
-          },
           {
             "price": "100",
             "disabled": false,
@@ -1196,12 +1040,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_alien0"
-          },
-          {
             "price": "100",
             "disabled": false,
             "type": "bits",
@@ -1215,12 +1053,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "500",
-            "type": "bits",
-            "variantID": "REPO_frog0"
-          },
           {
             "price": "100",
             "disabled": false,
@@ -1236,12 +1068,6 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_animal0"
-          },
-          {
             "price": "30",
             "disabled": false,
             "type": "bits",
@@ -1255,12 +1081,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "REPO_rugrat0"
-          },
           {
             "price": "30",
             "disabled": false,
