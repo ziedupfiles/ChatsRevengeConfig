@@ -653,7 +653,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "Lootbox1757284786044"
