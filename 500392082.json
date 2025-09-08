@@ -225,21 +225,31 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "200",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Create timeout1757370433133",
+            "duration": "300",
+            "cooldown": "900"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "untimeout0"
+            "variantID": "untimeout0",
+            "disabled": false
           }
         ]
       }
