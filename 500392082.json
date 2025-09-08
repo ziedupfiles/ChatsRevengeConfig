@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1757369929987",
-            "duration": "10",
+            "duration": "30",
             "cooldown": "100"
           }
         ]
@@ -36,9 +36,18 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1757370020402",
+            "duration": "30",
+            "cooldown": "100"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
