@@ -13,7 +13,7 @@
             "type": "bits",
             "variantID": "Turn off1757369929987",
             "duration": "30",
-            "cooldown": "100"
+            "cooldown": "300"
           }
         ]
       },
@@ -29,7 +29,7 @@
             "type": "bits",
             "variantID": "Blur1757369984381",
             "duration": "30",
-            "cooldown": "100"
+            "cooldown": "300"
           }
         ]
       },
@@ -45,7 +45,7 @@
             "type": "bits",
             "variantID": "Rotate1757370020402",
             "duration": "30",
-            "cooldown": "100"
+            "cooldown": "300"
           }
         ]
       },
@@ -57,7 +57,8 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "1000",
+            "cooldown": "300"
           }
         ]
       },
@@ -69,7 +70,8 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "1000",
+            "cooldown": "300"
           }
         ]
       },
@@ -81,7 +83,8 @@
         "variants": [
           {
             "duration": null,
-            "price": "1000"
+            "price": "1000",
+            "cooldown": "300"
           }
         ]
       },
@@ -96,7 +99,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1757370157026",
-            "duration": "30"
+            "duration": "30",
+            "cooldown": "300"
           }
         ]
       },
@@ -111,7 +115,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1757370170761",
-            "duration": "30"
+            "duration": "30",
+            "cooldown": "300"
           }
         ]
       },
@@ -133,7 +138,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1757370215071",
-            "duration": "30"
+            "duration": "30",
+            "cooldown": "300"
           }
         ]
       },
@@ -155,7 +161,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Mirror Screen1757370199253",
-            "duration": "25"
+            "duration": "25",
+            "cooldown": "300"
           }
         ]
       }
