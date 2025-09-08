@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "30",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1757369929987",
@@ -20,9 +20,18 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1757369984381",
+            "duration": "30",
+            "cooldown": "100"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -1350,5 +1359,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "PandorasPixel"
 }
