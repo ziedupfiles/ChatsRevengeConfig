@@ -95,9 +95,18 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1757640511016",
+            "duration": "20",
+            "cooldown": "240"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
@@ -109,23 +118,49 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Shrink Window1757640530236",
+            "duration": "20",
+            "cooldown": "240"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1757640546604",
+            "duration": "20",
+            "cooldown": "240"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1757640562331",
+            "duration": "1"
+          }
+        ]
       }
     },
     "Input": {
@@ -1367,5 +1402,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "leogirl08"
 }
