@@ -134,9 +134,18 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1757744992198",
+            "duration": "7",
+            "cooldown": "10"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
