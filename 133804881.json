@@ -175,9 +175,18 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1758152553540",
+            "duration": "15",
+            "cooldown": "60"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
@@ -1410,5 +1419,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Amuyashi"
 }
