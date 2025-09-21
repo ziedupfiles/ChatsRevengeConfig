@@ -11,17 +11,9 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Blur1758258627119",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
@@ -33,48 +25,23 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "cooldown": "120",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "cancel_monitor0"
-          }
-        ]
+        "variants": []
       },
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "cooldown": "120",
-            "type": "bits",
-            "variantID": "minimize0"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "10",
-            "type": "bits",
-            "variantID": "popup0",
-            "cooldown": "120"
-          }
-        ]
+        "variants": []
       },
       "Glitch Window": {
         "id": "glitch",
