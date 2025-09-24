@@ -114,30 +114,30 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "500",
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1758744520273",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "500",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1758744522018",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -153,9 +153,17 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Create timeout1758744690336",
+            "duration": "10"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
@@ -1355,5 +1363,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Its_Serana"
 }
