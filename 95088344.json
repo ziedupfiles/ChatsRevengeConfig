@@ -664,7 +664,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_lootbox0",
             "disabled": false
@@ -674,56 +674,61 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "300",
+            "disabled": false
           }
         ]
       },
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "REPO_spawnMine0"
+            "variantID": "REPO_spawnMine0",
+            "cooldown": "300"
           }
         ]
       },
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
-            "variantID": "REPO_weapon0"
+            "variantID": "REPO_weapon0",
+            "cooldown": "600"
           }
         ]
       },
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "20",
             "type": "bits",
-            "variantID": "REPO_heal0"
+            "variantID": "REPO_heal0",
+            "disabled": false
           }
         ]
       },
