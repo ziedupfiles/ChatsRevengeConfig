@@ -18,9 +18,18 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1758837514424",
+            "duration": "20",
+            "cooldown": "600"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
@@ -103,9 +112,18 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1758837567972",
+            "duration": "20",
+            "cooldown": "450"
+          }
+        ]
       }
     },
     "Input": {
