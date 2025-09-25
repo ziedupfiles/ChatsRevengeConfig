@@ -163,9 +163,9 @@
             "price": "300",
             "disabled": false,
             "type": "bits",
-            "variantID": "Block mouse1758809899089",
+            "variantID": "Block mouse1758810288095",
             "duration": "7",
-            "cooldown": "60"
+            "cooldown": "180"
           }
         ]
       },
