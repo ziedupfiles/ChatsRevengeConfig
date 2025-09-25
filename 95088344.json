@@ -25,13 +25,13 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
-            "disabled": false
+            "disabled": true
           }
         ]
       },
@@ -1341,5 +1341,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "Brud3rtak"
 }
