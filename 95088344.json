@@ -651,7 +651,7 @@
             "price": "50",
             "type": "bits",
             "variantID": "REPO_teleport0",
-            "cooldown": "300",
+            "cooldown": "600",
             "disabled": false
           }
         ]
@@ -682,7 +682,7 @@
             "price": "50",
             "type": "bits",
             "variantID": "REPO_spawnGrenade0",
-            "cooldown": "300",
+            "cooldown": "120",
             "disabled": false
           }
         ]
@@ -698,7 +698,7 @@
             "price": "50",
             "type": "bits",
             "variantID": "REPO_spawnMine0",
-            "cooldown": "300"
+            "cooldown": "120"
           }
         ]
       },
@@ -735,12 +735,12 @@
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_hurt0"
           }
