@@ -651,21 +651,23 @@
             "price": "300",
             "type": "bits",
             "variantID": "REPO_teleport0",
-            "disabled": false
+            "disabled": false,
+            "cooldown": "0"
           }
         ]
       },
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_lootbox0"
+            "variantID": "REPO_lootbox0",
+            "disabled": false
           }
         ]
       },
