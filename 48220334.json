@@ -181,7 +181,7 @@
             "type": "bits",
             "variantID": "block keyboard1758809902530",
             "duration": "7",
-            "cooldown": "60"
+            "cooldown": "180"
           }
         ]
       },
