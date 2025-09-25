@@ -151,14 +151,7 @@
         "unique": true,
         "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "untimeout0"
-          }
-        ]
+        "variants": []
       }
     },
     "Lethal Company": {
