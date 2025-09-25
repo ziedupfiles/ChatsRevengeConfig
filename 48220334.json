@@ -116,9 +116,18 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1758810030966",
+            "duration": "7",
+            "cooldown": "60"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
@@ -1383,5 +1392,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "ShariOhime"
 }
