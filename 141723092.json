@@ -214,7 +214,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1759245163236",
-            "duration": "1"
+            "duration": "1",
+            "cooldown": ""
           }
         ]
       },
