@@ -206,6 +206,13 @@
             "type": "bits",
             "variantID": "Block mouse1759245157828",
             "duration": "15"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1759245348825",
+            "duration": "15"
           }
         ]
       },
