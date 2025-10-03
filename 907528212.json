@@ -1649,79 +1649,168 @@
       "Empty All Money": {
         "id": "firered_halfBank",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Empty All Money1759488446309"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Empty All Money1759488450360"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Empty All Money1759488451226"
+          }
+        ]
       },
       "Full Heal": {
         "id": "firered_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Full Heal1759488445378"
+          }
+        ]
       },
       "Enemy Full Heal": {
         "id": "firered_healEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Enemy Full Heal1759488443922"
+          }
+        ]
       },
       "25% Health Down": {
         "id": "firered_reduceHP",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "25% Health Down1759488442518"
+          }
+        ]
       },
       "25% PP Down": {
         "id": "firered_reducePP",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "25% PP Down1759488441157"
+          }
+        ]
       },
       "Drop to 1 HP": {
         "id": "firered_reduceHP",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Drop to 1 HP1759488440286"
+          }
+        ]
       },
       "Apply Poison": {
         "id": "poison",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Poison1759488438753"
+          }
+        ]
       },
       "Apply Paralyze": {
         "id": "paralyze",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Paralyze1759488436828"
+          }
+        ]
       },
       "Apply Sleep": {
         "id": "sleep",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Sleep1759488435364"
+          }
+        ]
       },
       "Apply Burn": {
         "id": "burn",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Burn1759488433894"
+          }
+        ]
       },
       "Reset Status": {
         "id": "resetstatus",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Reset Status1759488423152"
+          }
+        ]
       },
       "Apply Poison To Enemy": {
         "id": "poisonEnemy",
@@ -1733,30 +1822,58 @@
       "Apply Paralyze To Enemy": {
         "id": "paralyzeEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Paralyze To Enemy1759488420116"
+          }
+        ]
       },
       "Apply Sleep To Enemy": {
         "id": "sleepEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Sleep To Enemy1759488414865"
+          }
+        ]
       },
       "Apply Burn To Enemy": {
         "id": "burnEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Apply Burn To Enemy1759488413465"
+          }
+        ]
       },
       "Reset Enemy Status": {
         "id": "resetstatusEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Reset Enemy Status1759488412058"
+          }
+        ]
       }
     }
   },
