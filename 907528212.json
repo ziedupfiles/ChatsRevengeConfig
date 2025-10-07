@@ -14,6 +14,13 @@
             "variantID": "Turn off1759488099217",
             "duration": "1",
             "cooldown": "5"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1759859247845",
+            "duration": "1"
           }
         ]
       },
