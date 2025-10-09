@@ -132,7 +132,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "cancel_keyboard0"
+            "variantID": "cancel_keyboard0",
+            "cooldown": "60"
           }
         ]
       }
