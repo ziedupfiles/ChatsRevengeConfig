@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1760209802902",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -27,7 +27,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1760209796550",
-            "duration": "5"
+            "duration": "10"
           }
         ]
       },
@@ -42,7 +42,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1760209811272",
-            "duration": "5"
+            "duration": "10"
           }
         ]
       },
@@ -53,7 +53,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "20",
             "disabled": false,
             "type": "bits",
             "variantID": "Remove monitor effect1760209880214"
@@ -198,36 +198,21 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       },
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
