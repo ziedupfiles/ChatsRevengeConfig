@@ -711,7 +711,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_lootbox0"
@@ -726,7 +726,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_spawnGrenade0"
@@ -741,7 +741,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_spawnMine0"
@@ -756,7 +756,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_weapon0"
@@ -771,7 +771,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_heal0"
@@ -784,13 +784,6 @@
         "disabled": false,
         "input": false,
         "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "disabled": true,
-            "type": "bits",
-            "variantID": "REPO_hurt0"
-          },
           {
             "price": "50",
             "disabled": false,
@@ -822,7 +815,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_killememy0"
@@ -852,16 +845,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "250",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_selfDestruct0"
-          },
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Initiate Self Destruct1760465481379"
           }
         ]
       },
@@ -880,7 +867,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
             "variantID": "REPO_destroyClosest0"
           }
@@ -901,7 +888,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0"
@@ -976,7 +963,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_hunter0"
