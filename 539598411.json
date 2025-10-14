@@ -8,11 +8,18 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1760465401228",
             "duration": "1"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1760466644836",
+            "duration": "5"
           }
         ]
       },
@@ -23,11 +30,18 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1760465394146",
             "duration": "1"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1760466655975",
+            "duration": "2"
           }
         ]
       },
