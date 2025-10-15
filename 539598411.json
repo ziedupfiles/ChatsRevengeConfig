@@ -814,7 +814,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_revive0"
