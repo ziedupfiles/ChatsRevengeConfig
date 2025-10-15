@@ -859,7 +859,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "250",
+            "price": "900",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_selfDestruct0"
