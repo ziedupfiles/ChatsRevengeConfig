@@ -799,7 +799,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "10 Damage To Player1760465495828"
