@@ -30,7 +30,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1760465394146",
@@ -96,7 +96,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "20",
             "type": "bits",
             "variantID": "popup0"
           }
