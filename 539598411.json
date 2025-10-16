@@ -709,7 +709,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "disabled": false,
             "cooldown": "10",
             "type": "bits",
