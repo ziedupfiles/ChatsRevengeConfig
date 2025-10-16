@@ -869,14 +869,22 @@
       "Give Immunity": {
         "id": "REPO_immunity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Immunity1760625223779",
+            "duration": "1"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1007,7 +1015,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_duck0"
@@ -1157,7 +1165,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "400",
             "disabled": true,
             "type": "bits",
             "variantID": "REPO_rugrat0"
