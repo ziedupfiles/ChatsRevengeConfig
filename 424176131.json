@@ -125,7 +125,7 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -164,7 +164,7 @@
       "Teleport": {
         "id": "lethalcompany_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -178,7 +178,7 @@
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -192,7 +192,7 @@
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -206,7 +206,7 @@
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -220,7 +220,7 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -234,7 +234,7 @@
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -248,7 +248,7 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -262,7 +262,7 @@
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -276,7 +276,7 @@
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -290,7 +290,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -304,7 +304,7 @@
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -318,7 +318,7 @@
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -332,7 +332,7 @@
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -346,7 +346,7 @@
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -360,7 +360,7 @@
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -374,7 +374,7 @@
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -388,7 +388,7 @@
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -402,7 +402,7 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -647,9 +647,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
-            "variantID": "REPO_teleport0"
+            "variantID": "REPO_teleport0",
+            "cooldown": "3"
           }
         ]
       },
@@ -661,9 +662,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
-            "variantID": "REPO_lootbox0"
+            "variantID": "REPO_lootbox0",
+            "cooldown": "3"
           }
         ]
       },
@@ -675,9 +677,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "3"
           }
         ]
       },
@@ -689,9 +692,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_spawnMine0"
+            "variantID": "REPO_spawnMine0",
+            "cooldown": "3"
           }
         ]
       },
@@ -703,9 +707,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
-            "variantID": "REPO_weapon0"
+            "variantID": "REPO_weapon0",
+            "cooldown": "3"
           }
         ]
       },
@@ -717,9 +722,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_heal0"
+            "variantID": "REPO_heal0",
+            "cooldown": "3"
           }
         ]
       },
@@ -731,9 +737,10 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
-            "variantID": "REPO_hurt0"
+            "variantID": "REPO_hurt0",
+            "cooldown": "3"
           }
         ]
       },
@@ -747,7 +754,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_revive0"
+            "variantID": "REPO_revive0",
+            "cooldown": "3"
           }
         ]
       },
@@ -761,7 +769,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_killememy0"
+            "variantID": "REPO_killememy0",
+            "cooldown": "3"
           }
         ]
       },
@@ -775,7 +784,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_discount0"
+            "variantID": "REPO_discount0",
+            "cooldown": "3"
           }
         ]
       },
@@ -789,16 +799,25 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_selfDestruct0"
+            "variantID": "REPO_selfDestruct0",
+            "cooldown": "3"
           }
         ]
       },
       "Give Immunity": {
         "id": "REPO_immunity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Immunity1760627534334",
+            "duration": "1"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
@@ -808,18 +827,27 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "1200",
             "type": "bits",
-            "variantID": "REPO_destroyClosest0"
+            "variantID": "REPO_destroyClosest0",
+            "cooldown": "3"
           }
         ]
       },
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flashlight Off1760627548033",
+            "duration": "3"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
