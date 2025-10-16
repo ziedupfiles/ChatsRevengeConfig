@@ -785,7 +785,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_heal0"
