@@ -711,7 +711,7 @@
             "duration": null,
             "price": "150",
             "disabled": false,
-            "cooldown": "10",
+            "cooldown": "5",
             "type": "bits",
             "variantID": "REPO_teleport0"
           }
