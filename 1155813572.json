@@ -1029,72 +1029,99 @@
       "Claim NPC": {
         "id": "scheduleI_claimCharacter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "50",
+            "cooldown": "5"
           }
         ]
       },
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "20"
           }
         ]
       },
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double/Half Cash (50%)1761054971342",
+            "cooldown": "10"
           }
         ]
       },
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double Cash1761055373871",
+            "cooldown": "10"
           }
         ]
       },
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "cooldown": "10"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Half Cash1761055377541",
+            "cooldown": "10"
           }
         ]
       },
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
           }
         ]
       },
@@ -1106,69 +1133,100 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
           }
         ]
       },
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "400",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Better Slot Odds1761055339328",
+            "duration": "10",
+            "cooldown": "10"
+          }
+        ]
       },
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "250",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Call The Cops1761055048494",
+            "cooldown": "10"
           }
         ]
       },
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "NPC attack1761055076713",
+            "cooldown": "10"
           }
         ]
       },
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "700",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mob of NPCs attack1761055067728",
+            "cooldown": "10"
           }
         ]
       },
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Suspicous Profiling1761055036602",
+            "duration": "10",
+            "cooldown": "10"
+          }
+        ]
       },
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Fake Game Crash1761055092766",
+            "cooldown": "10"
           }
         ]
       },
@@ -1180,104 +1238,157 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
           }
         ]
       },
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "350",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Destroy a Random Plant1761055140781",
+            "cooldown": "10"
           }
         ]
       },
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
           }
         ]
       },
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "500",
+            "cooldown": "10"
           }
         ]
       },
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
           }
         ]
       },
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "cooldown": "10"
           }
         ]
       },
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Anti-Gravity1761055204652",
+            "duration": "10",
+            "cooldown": "10"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Seizure Procedure1761055212405",
+            "duration": "10",
+            "cooldown": "10"
+          }
+        ]
       },
       "Make Player Disoriented": {
         "id": "scheduleI_disorienting",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Make Player Disoriented1761055216124",
+            "duration": "10",
+            "cooldown": "10"
+          }
+        ]
       },
       "Make Player Athletic": {
         "id": "scheduleI_athletic",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Make Player Athletic1761055220196",
+            "duration": "10",
+            "cooldown": "10"
+          }
+        ]
       },
       "Random Status Effect": {
         "id": "scheduleI_randomStatusEffect",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "600",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Random Status Effect1761055224774",
+            "duration": "20",
+            "cooldown": "10"
+          }
+        ]
       }
     },
     "Pokemon FireRed": {
