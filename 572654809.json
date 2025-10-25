@@ -6,14 +6,30 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1761434722608",
+            "duration": "1"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1761434735203",
+            "duration": "1"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
