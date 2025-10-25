@@ -858,7 +858,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Give Immunity1760627534334",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
