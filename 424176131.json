@@ -840,7 +840,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "2000",
             "type": "bits",
             "variantID": "REPO_selfDestruct0",
             "cooldown": "3"
