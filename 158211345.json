@@ -1125,7 +1125,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_doubleCash0"
           }
@@ -1139,7 +1139,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_halfCash0"
           }
@@ -1153,7 +1153,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
             "variantID": "scheduleI_sendContract0"
           }
@@ -1188,7 +1188,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_callCops0"
           }
@@ -1202,7 +1202,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
             "variantID": "scheduleI_attack0"
           }
@@ -1216,7 +1216,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_attackGroup0"
           }
@@ -1237,7 +1237,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
             "variantID": "scheduleI_fakeCrash0"
           }
@@ -1251,7 +1251,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_trash0"
           }
@@ -1279,7 +1279,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "20",
             "type": "bits",
             "variantID": "scheduleI_heal0"
           }
@@ -1293,7 +1293,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "20",
             "type": "bits",
             "variantID": "scheduleI_damage0"
           }
@@ -1321,7 +1321,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_escalateWanted0"
           }
