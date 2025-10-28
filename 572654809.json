@@ -26,12 +26,12 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "price": "300",
-            "disabled": true,
+            "price": "100",
+            "disabled": false,
             "type": "bits",
             "variantID": "Rotate1761438575517",
             "duration": "10"
