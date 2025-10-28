@@ -4,12 +4,12 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "300",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Turn off1761437927021",
             "duration": "10",
@@ -20,12 +20,12 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "300",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Blur1761686945065",
             "duration": "10",
@@ -36,12 +36,12 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "300",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Rotate1761438575517",
             "duration": "10",
