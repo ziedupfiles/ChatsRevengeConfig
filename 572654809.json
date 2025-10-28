@@ -4,12 +4,12 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "price": "300",
-            "disabled": true,
+            "disabled": false,
             "type": "bits",
             "variantID": "Turn off1761437927021",
             "duration": "10",
@@ -122,12 +122,12 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "100",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Invert Colors1761685931862",
             "duration": "10",
