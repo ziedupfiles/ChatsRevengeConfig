@@ -110,16 +110,7 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "disabled": true,
-            "type": "bits",
-            "variantID": "Invert Colors1761685931862",
-            "duration": "10",
-            "cooldown": "30"
-          }
-        ]
+        "variants": []
       },
       "Mirror Screen": {
         "id": "mirror",
