@@ -107,30 +107,41 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "block keyboard": {
-        "id": "block_keyboard",
-        "unique": false,
-        "disabled": true,
-        "input": false,
-        "variants": []
-      },
-      "Remove keyboard effect": {
-        "id": "cancel_keyboard",
-        "unique": true,
         "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
             "price": "500",
-            "cooldown": "300",
-            "disabled": false
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1762019956973",
+            "duration": "30",
+            "cooldown": "300"
           }
         ]
+      },
+      "block keyboard": {
+        "id": "block_keyboard",
+        "unique": false,
+        "disabled": false,
+        "input": false,
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1762019930776",
+            "duration": "30",
+            "cooldown": "300"
+          }
+        ]
+      },
+      "Remove keyboard effect": {
+        "id": "cancel_keyboard",
+        "unique": true,
+        "disabled": true,
+        "input": false,
+        "variants": []
       }
     },
     "Timeout": {
