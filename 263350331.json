@@ -612,12 +612,18 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300"
+          },
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Random Weapon1762010660971"
           }
         ]
       },
@@ -1350,5 +1356,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "OpalineCasque"
 }
