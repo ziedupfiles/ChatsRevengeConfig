@@ -138,476 +138,238 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_teleport0"
-          }
-        ]
+        "variants": []
       },
       "Teleport to Ship": {
         "id": "lethalcompany_teleportShip",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_teleportShip0"
-          }
-        ]
+        "variants": []
       },
       "Leave Early": {
         "id": "lethalcompany_leaveEarly",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_leaveEarly0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnMine0"
-          }
-        ]
+        "variants": []
       },
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_revive0"
-          }
-        ]
+        "variants": []
       },
       "Meet Quota": {
         "id": "lethalcompany_meetQuota",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_meetQuota0"
-          }
-        ]
+        "variants": []
       },
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_doubleCredits0"
-          }
-        ]
+        "variants": []
       },
       "Half Credits": {
         "id": "lethalcompany_halfCredits",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_halfCredits0"
-          }
-        ]
+        "variants": []
       },
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_bugs0"
-          }
-        ]
+        "variants": []
       },
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_lootbox0"
-          }
-        ]
+        "variants": []
       },
       "Open all vents": {
         "id": "lethalcompany_vents",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_vents0"
-          }
-        ]
+        "variants": []
       },
       "Drunk filter": {
         "id": "lethalcompany_drunk",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_drunk0"
-          }
-        ]
+        "variants": []
       },
       "Fake turret sound": {
         "id": "lethalcompany_turretSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_turretSound0"
-          }
-        ]
+        "variants": []
       },
       "Coilhead Sound": {
         "id": "lethalcompany_coilheadSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_coilheadSound0"
-          }
-        ]
+        "variants": []
       },
       "Jester Sound": {
         "id": "lethalcompany_jesterSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_jesterSound0"
-          }
-        ]
+        "variants": []
       },
       "Ghost Girl Sound": {
         "id": "lethalcompany_girlSound",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_girlSound0"
-          }
-        ]
+        "variants": []
       },
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_stormy0"
-          }
-        ]
+        "variants": []
       },
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_foggy0"
-          }
-        ]
+        "variants": []
       },
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_rainy0"
-          }
-        ]
+        "variants": []
       },
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_eclipse0"
-          }
-        ]
+        "variants": []
       },
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_flooded0"
-          }
-        ]
+        "variants": []
       },
       "Clear Weather": {
         "id": "lethalcompany_clearweather",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_clearweather0"
-          }
-        ]
+        "variants": []
       },
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_fakeAction0"
-          }
-        ]
+        "variants": []
       },
       "Destroy All Held Items": {
         "id": "lethalcompany_destroyAllItem",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_destroyAllItem0"
-          }
-        ]
+        "variants": []
       },
       "Destroy Current Item": {
         "id": "lethalcompany_destroyCurrentItem",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_destroyCurrentItem0"
-          }
-        ]
+        "variants": []
       },
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_immunity0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnDog0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnBees0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnJester0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnCoilhead0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnSpider0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnBracken0"
-          }
-        ]
+        "variants": []
       },
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_spawnNutcracker0"
-          }
-        ]
+        "variants": []
       },
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "lethalcompany_killEnemy0"
-          }
-        ]
+        "variants": []
       }
     },
     "R.E.P.O.": {
@@ -1100,98 +862,49 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_claimCharacter0"
-          }
-        ]
+        "variants": []
       },
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_unlockAll0"
-          }
-        ]
+        "variants": []
       },
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_50double50halfCash0"
-          }
-        ]
+        "variants": []
       },
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_doubleCash0"
-          }
-        ]
+        "variants": []
       },
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_halfCash0"
-          }
-        ]
+        "variants": []
       },
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_sendContract0"
-          }
-        ]
+        "variants": []
       },
       "3 Free Slot Spins": {
         "id": "scheduleI_freeSlotSpin",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_freeSlotSpin0"
-          }
-        ]
+        "variants": []
       },
       "Better Slot Odds": {
         "id": "scheduleI_betterSlotodds",
@@ -1205,42 +918,21 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_callCops0"
-          }
-        ]
+        "variants": []
       },
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_attack0"
-          }
-        ]
+        "variants": []
       },
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_attackGroup0"
-          }
-        ]
+        "variants": []
       },
       "Suspicous Profiling": {
         "id": "scheduleI_profiling",
@@ -1254,98 +946,49 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_fakeCrash0"
-          }
-        ]
+        "variants": []
       },
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_trash0"
-          }
-        ]
+        "variants": []
       },
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_destroyRandomPlant0"
-          }
-        ]
+        "variants": []
       },
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_heal0"
-          }
-        ]
+        "variants": []
       },
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_damage0"
-          }
-        ]
+        "variants": []
       },
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_reduceWanted0"
-          }
-        ]
+        "variants": []
       },
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "scheduleI_escalateWanted0"
-          }
-        ]
+        "variants": []
       },
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
