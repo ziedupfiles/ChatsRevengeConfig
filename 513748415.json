@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1762837277242",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -27,7 +27,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1762837280436",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
@@ -42,7 +42,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1762837282490",
-            "duration": "1"
+            "duration": "10"
           }
         ]
       },
