@@ -174,7 +174,7 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
