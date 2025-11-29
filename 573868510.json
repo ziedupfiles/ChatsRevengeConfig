@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1764384215562",
-            "duration": "1"
+            "duration": "2"
           }
         ]
       },
@@ -27,7 +27,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1764384197003",
-            "duration": "10",
+            "duration": "5",
             "cooldown": "10"
           }
         ]
@@ -119,9 +119,17 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Mirror Screen1764389382220",
+            "duration": "5"
+          }
+        ]
       }
     },
     "Input": {
