@@ -189,7 +189,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "untimeout0"
+            "variantID": "untimeout0",
+            "disabled": true
           }
         ]
       }
