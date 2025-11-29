@@ -4,9 +4,17 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1764384215562",
+            "duration": "1"
+          }
+        ]
       },
       "Blur": {
         "id": "blur",
@@ -21,6 +29,13 @@
             "variantID": "Blur1764384197003",
             "duration": "1",
             "cooldown": "10"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1764384213887",
+            "duration": "1"
           }
         ]
       },
@@ -1349,5 +1364,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "KumaTheHuman"
 }
