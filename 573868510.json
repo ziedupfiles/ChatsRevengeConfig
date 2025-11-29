@@ -13,6 +13,13 @@
             "type": "bits",
             "variantID": "Turn off1764384215562",
             "duration": "1"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Turn off1764384220500",
+            "duration": "1"
           }
         ]
       },
@@ -27,7 +34,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1764384197003",
-            "duration": "1",
+            "duration": "10",
             "cooldown": "10"
           },
           {
