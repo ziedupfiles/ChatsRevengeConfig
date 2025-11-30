@@ -141,19 +141,34 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Create timeout1764541795019",
+            "duration": "100",
+            "cooldown": "500"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
             "duration": null,
             "price": "300"
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Remove timeout1764541831545"
           }
         ]
       }
@@ -1348,5 +1363,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "buttahmochi_808"
 }
