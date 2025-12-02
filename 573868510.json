@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "150",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1764384215562",
@@ -44,42 +44,21 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "cancel_monitor0"
-          }
-        ]
+        "variants": []
       },
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "minimize0"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "popup0"
-          }
-        ]
+        "variants": []
       },
       "Glitch Window": {
         "id": "glitch",
@@ -91,9 +70,17 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Pixelate Window1764642338737",
+            "duration": "10"
+          }
+        ]
       },
       "Lag Window": {
         "id": "lag",
