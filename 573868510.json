@@ -169,7 +169,7 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
@@ -177,7 +177,7 @@
             "price": "300",
             "type": "bits",
             "variantID": "untimeout0",
-            "disabled": true
+            "disabled": false
           }
         ]
       }
