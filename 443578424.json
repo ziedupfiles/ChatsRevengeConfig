@@ -131,9 +131,18 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1765016141457",
+            "duration": "10",
+            "cooldown": "300"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
@@ -1366,5 +1375,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "pittigaming84"
 }
