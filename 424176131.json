@@ -702,16 +702,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "100",
-            "type": "bits",
-            "variantID": "REPO_lootbox0",
-            "cooldown": "3",
-            "disabled": true
-          }
-        ]
+        "variants": []
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
