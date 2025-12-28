@@ -40,7 +40,8 @@
             "duration": null,
             "price": 1,
             "type": "bits",
-            "variantID": "lethalcompany_leaveEarly0"
+            "variantID": "lethalcompany_leaveEarly0",
+            "cooldown": "1"
           }
         ]
       },
@@ -54,7 +55,8 @@
             "duration": null,
             "price": 1,
             "type": "bits",
-            "variantID": "lethalcompany_spawnMine0"
+            "variantID": "lethalcompany_spawnMine0",
+            "cooldown": "1"
           }
         ]
       },
@@ -68,7 +70,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_revive0"
+            "variantID": "lethalcompany_revive0",
+            "cooldown": "1"
           }
         ]
       },
@@ -82,7 +85,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_meetQuota0"
+            "variantID": "lethalcompany_meetQuota0",
+            "cooldown": "1"
           }
         ]
       },
@@ -96,7 +100,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_doubleCredits0"
+            "variantID": "lethalcompany_doubleCredits0",
+            "cooldown": "1"
           }
         ]
       },
@@ -110,7 +115,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_halfCredits0"
+            "variantID": "lethalcompany_halfCredits0",
+            "cooldown": "1"
           }
         ]
       },
@@ -124,7 +130,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_bugs0"
+            "variantID": "lethalcompany_bugs0",
+            "cooldown": "1"
           }
         ]
       },
@@ -138,7 +145,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_lootbox0"
+            "variantID": "lethalcompany_lootbox0",
+            "cooldown": "1"
           }
         ]
       },
@@ -152,7 +160,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_vents0"
+            "variantID": "lethalcompany_vents0",
+            "cooldown": "1"
           }
         ]
       },
@@ -166,7 +175,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_drunk0"
+            "variantID": "lethalcompany_drunk0",
+            "cooldown": "1"
           }
         ]
       },
@@ -180,7 +190,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_turretSound0"
+            "variantID": "lethalcompany_turretSound0",
+            "cooldown": "1"
           }
         ]
       },
@@ -194,7 +205,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_coilheadSound0"
+            "variantID": "lethalcompany_coilheadSound0",
+            "cooldown": "1"
           }
         ]
       },
@@ -208,7 +220,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_jesterSound0"
+            "variantID": "lethalcompany_jesterSound0",
+            "cooldown": "1"
           }
         ]
       },
@@ -222,7 +235,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_girlSound0"
+            "variantID": "lethalcompany_girlSound0",
+            "cooldown": "1"
           }
         ]
       },
@@ -236,7 +250,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_stormy0"
+            "variantID": "lethalcompany_stormy0",
+            "cooldown": "1"
           }
         ]
       },
@@ -250,7 +265,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_foggy0"
+            "variantID": "lethalcompany_foggy0",
+            "cooldown": "1"
           }
         ]
       },
@@ -264,7 +280,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_rainy0"
+            "variantID": "lethalcompany_rainy0",
+            "cooldown": "1"
           }
         ]
       },
@@ -278,7 +295,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_eclipse0"
+            "variantID": "lethalcompany_eclipse0",
+            "cooldown": "1"
           }
         ]
       },
@@ -292,7 +310,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_flooded0"
+            "variantID": "lethalcompany_flooded0",
+            "cooldown": "1"
           }
         ]
       },
@@ -306,7 +325,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_clearweather0"
+            "variantID": "lethalcompany_clearweather0",
+            "cooldown": "1"
           }
         ]
       },
@@ -320,7 +340,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_fakeAction0"
+            "variantID": "lethalcompany_fakeAction0",
+            "cooldown": "1"
           }
         ]
       },
@@ -334,7 +355,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_destroyAllItem0"
+            "variantID": "lethalcompany_destroyAllItem0",
+            "cooldown": "1"
           }
         ]
       },
@@ -348,7 +370,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_destroyCurrentItem0"
+            "variantID": "lethalcompany_destroyCurrentItem0",
+            "cooldown": "1"
           }
         ]
       },
@@ -362,7 +385,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_immunity0"
+            "variantID": "lethalcompany_immunity0",
+            "cooldown": "1"
           }
         ]
       },
@@ -376,7 +400,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_spawnDog0"
+            "variantID": "lethalcompany_spawnDog0",
+            "cooldown": "1"
           }
         ]
       },
@@ -390,7 +415,8 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "lethalcompany_spawnBees0"
+            "variantID": "lethalcompany_spawnBees0",
+            "cooldown": "1"
           }
         ]
       },
@@ -404,7 +430,8 @@
             "duration": null,
             "price": "150",
             "type": "bits",
-            "variantID": "lethalcompany_spawnJester0"
+            "variantID": "lethalcompany_spawnJester0",
+            "cooldown": "1"
           }
         ]
       },
@@ -418,7 +445,8 @@
             "duration": null,
             "price": "150",
             "type": "bits",
-            "variantID": "lethalcompany_spawnCoilhead0"
+            "variantID": "lethalcompany_spawnCoilhead0",
+            "cooldown": "1"
           }
         ]
       },
@@ -432,7 +460,8 @@
             "duration": null,
             "price": "200",
             "type": "bits",
-            "variantID": "lethalcompany_spawnSpider0"
+            "variantID": "lethalcompany_spawnSpider0",
+            "cooldown": "1"
           }
         ]
       },
@@ -446,7 +475,8 @@
             "duration": null,
             "price": "50",
             "type": "bits",
-            "variantID": "lethalcompany_spawnBracken0"
+            "variantID": "lethalcompany_spawnBracken0",
+            "cooldown": "1"
           }
         ]
       },
@@ -460,7 +490,8 @@
             "duration": null,
             "price": "100",
             "type": "bits",
-            "variantID": "lethalcompany_spawnNutcracker0"
+            "variantID": "lethalcompany_spawnNutcracker0",
+            "cooldown": "1"
           }
         ]
       },
@@ -474,7 +505,8 @@
             "duration": null,
             "price": "100",
             "type": "bits",
-            "variantID": "lethalcompany_killEnemy0"
+            "variantID": "lethalcompany_killEnemy0",
+            "cooldown": "1"
           }
         ]
       }
