@@ -492,6 +492,12 @@
             "type": "bits",
             "variantID": "lethalcompany_spawnNutcracker0",
             "cooldown": "1"
+          },
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Nutcracker1766922102232"
           }
         ]
       },
