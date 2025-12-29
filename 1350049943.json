@@ -159,16 +159,32 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1766976973049",
+            "duration": "1"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "block keyboard1766976974231",
+            "duration": "1"
+          }
+        ]
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
@@ -1138,7 +1154,7 @@
       "Unlock All NPCs": {
         "id": "scheduleI_unlockAll",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1153,7 +1169,7 @@
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1168,7 +1184,7 @@
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1183,7 +1199,7 @@
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1198,7 +1214,7 @@
       "Request To Buy Substance": {
         "id": "scheduleI_sendContract",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1234,7 +1250,7 @@
       "Call The Cops": {
         "id": "scheduleI_callCops",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1249,7 +1265,7 @@
       "NPC attack": {
         "id": "scheduleI_attack",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1264,7 +1280,7 @@
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1286,7 +1302,7 @@
       "Fake Game Crash": {
         "id": "scheduleI_fakeCrash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1301,7 +1317,7 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1331,7 +1347,7 @@
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1346,7 +1362,7 @@
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1360,7 +1376,7 @@
       "Reduce Wanted Level": {
         "id": "scheduleI_reduceWanted",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1374,7 +1390,7 @@
       "Increase Wanted Level": {
         "id": "scheduleI_escalateWanted",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
