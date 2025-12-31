@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1767191651243",
-            "duration": "1"
+            "duration": "5"
           }
         ]
       },
@@ -34,7 +34,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1767191624688",
-            "duration": "1",
+            "duration": "5",
             "cooldown": "60"
           }
         ]
@@ -108,9 +108,17 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1767191835829",
+            "duration": "5"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
