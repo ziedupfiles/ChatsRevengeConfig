@@ -702,7 +702,14 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": true,
+            "type": "bits",
+            "variantID": "Lootbox1767987413733"
+          }
+        ]
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
