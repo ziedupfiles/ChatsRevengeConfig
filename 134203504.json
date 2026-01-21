@@ -789,7 +789,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "1000",
             "type": "bits",
             "variantID": "REPO_selfDestruct0"
           }
