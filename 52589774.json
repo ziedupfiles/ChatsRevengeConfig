@@ -50,17 +50,9 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "100",
-            "cooldown": "3",
-            "type": "bits",
-            "variantID": "cancel_monitor0"
-          }
-        ]
+        "variants": []
       },
       "Minimize Window": {
         "id": "minimize",
