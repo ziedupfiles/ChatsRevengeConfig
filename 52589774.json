@@ -59,16 +59,9 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Minimize Window1769066853195"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
@@ -191,32 +184,16 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "price": "100",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Create timeout1769066975167",
-            "duration": "10",
-            "cooldown": "300"
-          }
-        ]
+        "variants": []
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
         "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "untimeout0"
-          }
-        ]
+        "variants": []
       }
     },
     "Lethal Company": {
