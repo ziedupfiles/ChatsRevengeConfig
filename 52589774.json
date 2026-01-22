@@ -12,8 +12,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1769065232822",
-            "duration": "10",
-            "cooldown": "60"
+            "duration": "9",
+            "cooldown": "90"
           }
         ]
       },
@@ -81,9 +81,18 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Glitch Window1769075093866",
+            "duration": "5",
+            "cooldown": "60"
+          }
+        ]
       },
       "Pixelate Window": {
         "id": "pixelate",
@@ -143,34 +152,16 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Block mouse1769065311851",
-            "duration": "3",
-            "cooldown": "15"
-          }
-        ]
+        "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "block keyboard1769065333550",
-            "duration": "3",
-            "cooldown": "15"
-          }
-        ]
+        "variants": []
       },
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
