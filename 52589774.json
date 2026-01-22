@@ -13,7 +13,7 @@
             "type": "bits",
             "variantID": "Turn off1769065232822",
             "duration": "9",
-            "cooldown": "90"
+            "cooldown": "120"
           }
         ]
       },
@@ -85,7 +85,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1769075093866",
@@ -120,9 +120,17 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Shrink Window1769075289850",
+            "duration": "1"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
@@ -131,7 +139,7 @@
         "input": false,
         "variants": [
           {
-            "price": "100",
+            "price": "50",
             "disabled": false,
             "type": "bits",
             "variantID": "Invert Colors1769065417857",
@@ -154,7 +162,16 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Block mouse1769075214442",
+            "duration": "3",
+            "cooldown": "60"
+          }
+        ]
       },
       "block keyboard": {
         "id": "block_keyboard",
