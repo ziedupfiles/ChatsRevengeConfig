@@ -180,16 +180,7 @@
         "unique": false,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "30",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Block mouse1769075214442",
-            "duration": "3",
-            "cooldown": "60"
-          }
-        ]
+        "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
