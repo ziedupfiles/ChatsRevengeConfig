@@ -137,7 +137,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1769075289850",
-            "duration": "1"
+            "duration": "10",
+            "cooldown": "60"
           }
         ]
       },
