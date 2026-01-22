@@ -113,9 +113,18 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Lag Window1769075494211",
+            "duration": "10",
+            "cooldown": "100"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
@@ -201,16 +210,33 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Create timeout1769075567625",
+            "duration": "60",
+            "cooldown": "60"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Remove timeout1769075607522",
+            "cooldown": "333"
+          }
+        ]
       }
     },
     "Lethal Company": {
