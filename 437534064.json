@@ -1129,30 +1129,16 @@
       "Double/Half Cash (50%)": {
         "id": "scheduleI_50double50halfCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "100",
-            "type": "bits",
-            "variantID": "scheduleI_50double50halfCash0"
-          }
-        ]
+        "variants": []
       },
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "200",
-            "type": "bits",
-            "variantID": "scheduleI_doubleCash0"
-          }
-        ]
+        "variants": []
       },
       "Half Cash": {
         "id": "scheduleI_halfCash",
@@ -1211,7 +1197,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "50",
             "type": "bits",
             "variantID": "scheduleI_callCops0"
           }
@@ -1225,7 +1211,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "30",
             "type": "bits",
             "variantID": "scheduleI_attack0"
           }
@@ -1239,7 +1225,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "150",
+            "price": "50",
             "type": "bits",
             "variantID": "scheduleI_attackGroup0"
           }
