@@ -1120,7 +1120,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "500",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_unlockAll0"
           }
