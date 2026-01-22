@@ -136,7 +136,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1769065311851",
@@ -152,7 +152,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1769065333550",
@@ -164,16 +164,9 @@
       "Remove keyboard effect": {
         "id": "cancel_keyboard",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "100",
-            "type": "bits",
-            "variantID": "cancel_keyboard0"
-          }
-        ]
+        "variants": []
       }
     },
     "Timeout": {
