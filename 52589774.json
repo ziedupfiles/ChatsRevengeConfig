@@ -67,14 +67,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "minimize0"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
@@ -121,9 +114,18 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1769065417857",
+            "duration": "15",
+            "cooldown": "60"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
