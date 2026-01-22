@@ -191,9 +191,18 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": true,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Create timeout1769066975167",
+            "duration": "10",
+            "cooldown": "300"
+          }
+        ]
       },
       "Remove timeout": {
         "id": "untimeout",
