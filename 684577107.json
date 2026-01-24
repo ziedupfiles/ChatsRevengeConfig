@@ -1218,14 +1218,15 @@
       "Mob of NPCs attack": {
         "id": "scheduleI_attackGroup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "scheduleI_attackGroup0"
+            "variantID": "scheduleI_attackGroup0",
+            "disabled": false
           }
         ]
       },
@@ -1253,56 +1254,62 @@
       "Rain Raining Trash": {
         "id": "scheduleI_trash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
-            "variantID": "scheduleI_trash0"
+            "variantID": "scheduleI_trash0",
+            "disabled": false
           }
         ]
       },
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
-            "variantID": "scheduleI_destroyRandomPlant0"
+            "variantID": "scheduleI_destroyRandomPlant0",
+            "disabled": false
           }
         ]
       },
       "Heal The Player": {
         "id": "scheduleI_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "40",
             "type": "bits",
-            "variantID": "scheduleI_heal0"
+            "variantID": "scheduleI_heal0",
+            "disabled": false,
+            "cooldown": "600"
           }
         ]
       },
       "Deal 10 Damage": {
         "id": "scheduleI_damage",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "scheduleI_damage0"
+            "variantID": "scheduleI_damage0",
+            "disabled": false,
+            "cooldown": "420"
           }
         ]
       },
