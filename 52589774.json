@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1769065232822",
-            "duration": "9",
+            "duration": "10",
             "cooldown": "120"
           }
         ]
@@ -44,7 +44,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1769065104969",
-            "duration": "9",
+            "duration": "6",
             "cooldown": "100"
           }
         ]
@@ -85,7 +85,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1769075093866",
@@ -101,7 +101,7 @@
         "input": false,
         "variants": [
           {
-            "price": "50",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1769066900606",
@@ -113,18 +113,9 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Lag Window1769075494211",
-            "duration": "10",
-            "cooldown": "100"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
@@ -137,7 +128,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1769075289850",
-            "duration": "10",
+            "duration": "9",
             "cooldown": "60"
           }
         ]
