@@ -32,7 +32,7 @@
             "duration": null,
             "price": "300",
             "cooldown": "5",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "cancel_monitor0"
           }
