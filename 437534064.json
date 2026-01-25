@@ -15,11 +15,11 @@
         "input": false,
         "variants": [
           {
-            "price": "500",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1768765121400",
-            "duration": "15"
+            "duration": "60"
           }
         ]
       },
@@ -38,7 +38,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "30",
             "type": "bits",
             "variantID": "cancel_monitor0"
           }
