@@ -845,7 +845,7 @@
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -860,7 +860,7 @@
       "Spawn A Head": {
         "id": "REPO_head",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -902,7 +902,7 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -930,7 +930,7 @@
       "Spawn A Thinman": {
         "id": "REPO_thinman",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -944,7 +944,7 @@
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -958,7 +958,7 @@
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -972,7 +972,7 @@
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -986,7 +986,7 @@
       "Spawn A Blowtie": {
         "id": "REPO_blowtie",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1000,7 +1000,7 @@
       "Spawn An Upscream": {
         "id": "REPO_upscream",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
