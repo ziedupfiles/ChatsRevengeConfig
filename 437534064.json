@@ -33,12 +33,12 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "30",
+            "price": "10",
             "type": "bits",
             "variantID": "cancel_monitor0"
           }
