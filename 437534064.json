@@ -694,14 +694,15 @@
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "30",
             "type": "bits",
-            "variantID": "REPO_spawnMine0"
+            "variantID": "REPO_spawnMine0",
+            "cooldown": "120"
           }
         ]
       },
