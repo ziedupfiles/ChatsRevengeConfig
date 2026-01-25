@@ -685,7 +685,8 @@
             "duration": null,
             "price": "30",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "120"
           }
         ]
       },
