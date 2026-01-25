@@ -850,7 +850,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "REPO_gnomeInfestation0",
             "disabled": false
