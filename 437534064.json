@@ -801,7 +801,7 @@
             "price": "50",
             "type": "bits",
             "variantID": "REPO_selfDestruct0",
-            "cooldown": "1000000",
+            "cooldown": "600",
             "disabled": false
           }
         ]
