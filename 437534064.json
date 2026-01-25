@@ -655,7 +655,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "20",
             "type": "bits",
             "variantID": "REPO_teleport0"
           }
@@ -669,7 +669,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "10",
             "type": "bits",
             "variantID": "REPO_lootbox0"
           }
