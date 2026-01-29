@@ -4,12 +4,12 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "50",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Turn off1769065232822",
             "duration": "10",
@@ -20,12 +20,12 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "20",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Blur1769065213290",
             "duration": "9",
@@ -36,12 +36,12 @@
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "30",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Rotate1769065104969",
             "duration": "6",
@@ -81,12 +81,12 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "30",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Glitch Window1769075093866",
             "duration": "5",
@@ -97,12 +97,12 @@
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "30",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Pixelate Window1769066900606",
             "duration": "10",
@@ -120,12 +120,12 @@
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "50",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Shrink Window1769075289850",
             "duration": "9",
@@ -136,12 +136,12 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "50",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Invert Colors1769065417857",
             "duration": "15",
@@ -152,12 +152,12 @@
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "30",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Mirror Screen1769075439354",
             "duration": "9",
@@ -193,7 +193,7 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
@@ -209,7 +209,7 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
