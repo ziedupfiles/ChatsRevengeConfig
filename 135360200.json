@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1769411500045",
-            "duration": "1",
+            "duration": "100",
             "cooldown": "500"
           }
         ]
@@ -28,7 +28,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1769411505845",
-            "duration": "1",
+            "duration": "100",
             "cooldown": "500"
           }
         ]
@@ -44,7 +44,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1769411515549",
-            "duration": "1"
+            "duration": "100"
           }
         ]
       },
@@ -73,7 +73,7 @@
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -96,7 +96,7 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
