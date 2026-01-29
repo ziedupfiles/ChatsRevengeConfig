@@ -1497,7 +1497,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Make Player Disoriented1769411876740",
-            "duration": "1"
+            "duration": "100"
           }
         ]
       },
@@ -1512,7 +1512,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Make Player Athletic1769411877708",
-            "duration": "1"
+            "duration": "120"
           }
         ]
       },
