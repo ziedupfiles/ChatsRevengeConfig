@@ -1197,11 +1197,10 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
             "price": "300",
             "disabled": false,
             "type": "bits",
-            "variantID": "scheduleI_claimCharacter0"
+            "variantID": "Claim NPC1769680825706"
           }
         ]
       },
