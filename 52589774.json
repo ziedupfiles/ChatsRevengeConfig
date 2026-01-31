@@ -73,7 +73,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Open a Pop Up1769664711882"
+            "variantID": "Open a Pop Up1769664711882",
+            "cooldown": "3"
           }
         ]
       },
