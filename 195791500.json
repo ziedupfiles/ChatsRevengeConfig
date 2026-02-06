@@ -25,13 +25,14 @@
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "100",
-            "cooldown": "20"
+            "cooldown": "20",
+            "disabled": false
           }
         ]
       },
@@ -1341,5 +1342,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": ""
 }
