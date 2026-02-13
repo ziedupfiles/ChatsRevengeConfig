@@ -704,14 +704,15 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
-            "variantID": "REPO_teleport0"
+            "variantID": "REPO_teleport0",
+            "disabled": false
           }
         ]
       },
@@ -732,14 +733,15 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "300"
           }
         ]
       },
@@ -760,12 +762,12 @@
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_weapon0"
           }
