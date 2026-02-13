@@ -832,16 +832,14 @@
       "50% Shop Discount": {
         "id": "REPO_discount",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "50",
             "type": "bits",
-            "variantID": "REPO_discount0",
-            "disabled": false,
-            "cooldown": "300"
+            "variantID": "REPO_discount0"
           }
         ]
       },
