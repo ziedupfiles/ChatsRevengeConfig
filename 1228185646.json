@@ -131,7 +131,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "100",
             "type": "bits",
             "variantID": "cancel_keyboard0",
             "disabled": false
