@@ -188,7 +188,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "Block mouse1772754435192",
@@ -203,7 +203,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "block keyboard1772754436763",
