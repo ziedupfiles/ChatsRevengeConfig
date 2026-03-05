@@ -8,7 +8,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1772754426721",
@@ -23,7 +23,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1772754425281",
@@ -38,7 +38,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1772754424481",
@@ -54,7 +54,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
             "variantID": "cancel_monitor0",
             "disabled": false
@@ -69,7 +69,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
             "variantID": "minimize0"
           }
@@ -83,7 +83,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "10",
             "type": "bits",
             "variantID": "popup0"
           }
@@ -96,7 +96,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1772754422391",
@@ -111,7 +111,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1772754422028",
@@ -126,7 +126,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Lag Window1772754420531",
@@ -141,7 +141,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1772754420061",
@@ -156,7 +156,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Invert Colors1772754419540",
@@ -171,7 +171,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "10",
             "disabled": false,
             "type": "bits",
             "variantID": "Mirror Screen1772754418454",
