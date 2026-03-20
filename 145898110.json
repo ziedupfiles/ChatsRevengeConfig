@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1774019204901",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -27,7 +27,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1774019207700",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -42,7 +42,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1774019208362",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -99,7 +99,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1774019230480",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -114,7 +114,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Pixelate Window1774019231114",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -129,7 +129,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Lag Window1774019237051",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -144,7 +144,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1774019238028",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -159,7 +159,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Invert Colors1774019238614",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       },
@@ -174,7 +174,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Mirror Screen1774019248998",
-            "duration": "1"
+            "duration": "20"
           }
         ]
       }
