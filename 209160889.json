@@ -9,7 +9,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "10",
             "type": "bits",
             "variantID": "lethalcompany_teleport0"
           }
@@ -52,7 +52,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "30",
             "type": "bits",
             "variantID": "lethalcompany_spawnMine0",
             "cooldown": "60"
@@ -81,7 +81,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "20",
             "type": "bits",
             "variantID": "lethalcompany_meetQuota0"
           }
@@ -95,7 +95,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "20",
             "type": "bits",
             "variantID": "lethalcompany_doubleCredits0"
           }
@@ -109,9 +109,10 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "10",
             "type": "bits",
-            "variantID": "lethalcompany_halfCredits0"
+            "variantID": "lethalcompany_halfCredits0",
+            "cooldown": "60"
           }
         ]
       },
@@ -123,7 +124,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "10",
             "type": "bits",
             "variantID": "lethalcompany_bugs0",
             "cooldown": "60"
