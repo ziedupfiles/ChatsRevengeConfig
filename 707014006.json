@@ -103,9 +103,17 @@
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1775325933450",
+            "duration": "30"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
