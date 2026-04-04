@@ -11,9 +11,17 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1775325589047",
+            "duration": "30"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
