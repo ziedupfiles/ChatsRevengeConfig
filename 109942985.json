@@ -12,33 +12,54 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1775623161269",
-            "duration": "10"
+            "duration": "10",
+            "cooldown": "30"
           }
         ]
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1775623205349",
+            "duration": "10",
+            "cooldown": "30"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Rotate1775623262895",
+            "duration": "10",
+            "cooldown": "30"
+          }
+        ]
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300",
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Remove monitor effect1775623290325",
             "cooldown": "30"
           }
         ]
@@ -1349,5 +1370,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": ""
 }
