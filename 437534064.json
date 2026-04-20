@@ -1139,14 +1139,21 @@
       "Double Cash": {
         "id": "scheduleI_doubleCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "500",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double Cash1776691579023"
+          }
+        ]
       },
       "Half Cash": {
         "id": "scheduleI_halfCash",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -1165,7 +1172,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "20",
+            "price": "10",
             "type": "bits",
             "variantID": "scheduleI_sendContract0"
           }
@@ -1174,7 +1181,7 @@
       "3 Free Slot Spins": {
         "id": "scheduleI_freeSlotSpin",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
@@ -1214,7 +1221,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "30",
+            "price": "20",
             "type": "bits",
             "variantID": "scheduleI_attack0"
           }
@@ -1228,7 +1235,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "30",
             "type": "bits",
             "variantID": "scheduleI_attackGroup0"
           }
@@ -1272,12 +1279,12 @@
       "Destroy a Random Plant": {
         "id": "scheduleI_destroyRandomPlant",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "200",
+            "price": "100",
             "type": "bits",
             "variantID": "scheduleI_destroyRandomPlant0"
           }
@@ -1291,7 +1298,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "50",
+            "price": "30",
             "type": "bits",
             "variantID": "scheduleI_heal0"
           }
@@ -1342,9 +1349,17 @@
       "Anti-Gravity": {
         "id": "scheduleI_antiGravity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "30",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Anti-Gravity1776691649164",
+            "duration": "45"
+          }
+        ]
       },
       "Seizure Procedure": {
         "id": "scheduleI_seizure",
