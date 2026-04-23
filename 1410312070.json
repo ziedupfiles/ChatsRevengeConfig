@@ -684,11 +684,10 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "999",
+            "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "Spawn Live Grenade1776986596614"
           }
         ]
       },
@@ -699,11 +698,10 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "REPO_spawnMine0"
+            "variantID": "Spawn Live Mine1776986609870"
           }
         ]
       },
