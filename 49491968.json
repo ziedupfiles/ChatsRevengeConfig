@@ -212,12 +212,12 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
             "price": "300",
-            "disabled": true,
+            "disabled": false,
             "type": "bits",
             "variantID": "Remove timeout1777124717053"
           }
