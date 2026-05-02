@@ -670,7 +670,7 @@
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -684,7 +684,7 @@
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
