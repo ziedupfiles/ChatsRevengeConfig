@@ -188,13 +188,14 @@
       "Remove timeout": {
         "id": "untimeout",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": true,
         "variants": [
           {
             "duration": null,
             "price": "300",
-            "cooldown": "300"
+            "cooldown": "300",
+            "disabled": false
           }
         ]
       }
