@@ -659,28 +659,31 @@
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "350",
+            "price": "500",
             "type": "bits",
-            "variantID": "REPO_lootbox0"
+            "variantID": "REPO_lootbox0",
+            "cooldown": "300"
           }
         ]
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "600",
+            "price": "1000",
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "REPO_spawnGrenade0",
+            "cooldown": "300",
+            "disabled": false
           }
         ]
       },
