@@ -645,14 +645,15 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "250",
+            "price": "500",
             "type": "bits",
-            "variantID": "REPO_teleport0"
+            "variantID": "REPO_teleport0",
+            "cooldown": "300"
           }
         ]
       },
