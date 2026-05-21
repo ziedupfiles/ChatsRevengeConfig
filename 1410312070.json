@@ -712,7 +712,7 @@
         "input": false,
         "variants": [
           {
-            "price": "40",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "Give Random Weapon1776985980597"
@@ -757,7 +757,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "6999",
+            "price": "100",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_revive0"
