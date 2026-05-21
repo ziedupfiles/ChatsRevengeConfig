@@ -691,7 +691,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn Live Mine1779377525792"
+            "variantID": "Spawn Live Mine1779377525792",
+            "cooldown": "0"
           }
         ]
       },
