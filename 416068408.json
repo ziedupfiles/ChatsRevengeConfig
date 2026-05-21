@@ -663,7 +663,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Lootbox1779377505938"
+            "variantID": "Lootbox1779377505938",
+            "cooldown": "0"
           }
         ]
       },
