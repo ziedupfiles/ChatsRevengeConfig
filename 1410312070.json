@@ -885,7 +885,8 @@
             "price": "2999",
             "disabled": false,
             "type": "bits",
-            "variantID": "REPO_eye0"
+            "variantID": "REPO_eye0",
+            "cooldown": "0"
           }
         ]
       },
