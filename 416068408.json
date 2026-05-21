@@ -705,7 +705,8 @@
             "price": "300",
             "disabled": false,
             "type": "bits",
-            "variantID": "Give Random Weapon1779377530651"
+            "variantID": "Give Random Weapon1779377530651",
+            "cooldown": "0"
           }
         ]
       },
