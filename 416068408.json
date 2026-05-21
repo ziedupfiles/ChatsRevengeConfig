@@ -719,7 +719,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Heal Player1779377541460"
+            "variantID": "Heal Player1779377541460",
+            "cooldown": "0"
           }
         ]
       },
