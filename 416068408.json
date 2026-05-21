@@ -649,7 +649,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Teleport1779377487364"
+            "variantID": "Teleport1779377487364",
+            "cooldown": "0"
           }
         ]
       },
