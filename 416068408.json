@@ -677,7 +677,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn Live Grenade1779377512094"
+            "variantID": "Spawn Live Grenade1779377512094",
+            "cooldown": "0"
           }
         ]
       },
