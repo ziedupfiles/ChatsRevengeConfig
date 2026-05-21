@@ -734,7 +734,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "10 Damage To Player1779377546535"
+            "variantID": "10 Damage To Player1779377546535",
+            "cooldown": "0"
           }
         ]
       },
@@ -748,7 +749,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Revive Player1779377556002"
+            "variantID": "Revive Player1779377556002",
+            "cooldown": "0"
           }
         ]
       },
@@ -762,7 +764,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Kill A Monster1779377561469"
+            "variantID": "Kill A Monster1779377561469",
+            "cooldown": "0"
           }
         ]
       },
@@ -776,7 +779,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "50% Shop Discount1779377582742"
+            "variantID": "50% Shop Discount1779377582742",
+            "cooldown": "0"
           }
         ]
       },
@@ -790,7 +794,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Initiate Self Destruct1779377570402"
+            "variantID": "Initiate Self Destruct1779377570402",
+            "cooldown": "0"
           }
         ]
       },
@@ -805,7 +810,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Give Immunity1779377587596",
-            "duration": "1"
+            "duration": "1",
+            "cooldown": "0"
           }
         ]
       },
@@ -819,7 +825,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Destroy Closest Item1779377592282"
+            "variantID": "Destroy Closest Item1779377592282",
+            "cooldown": "0"
           }
         ]
       },
@@ -834,7 +841,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1779377597736",
-            "duration": "1"
+            "duration": "1",
+            "cooldown": "0"
           }
         ]
       },
@@ -848,7 +856,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Gnome Infestation1779377602703"
+            "variantID": "Gnome Infestation1779377602703",
+            "cooldown": "0"
           }
         ]
       },
@@ -862,7 +871,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Head1779377615059"
+            "variantID": "Spawn A Head1779377615059",
+            "cooldown": "0"
           }
         ]
       },
@@ -876,7 +886,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn An Eye1779377620665"
+            "variantID": "Spawn An Eye1779377620665",
+            "cooldown": "0"
           }
         ]
       },
@@ -890,7 +901,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Runner1779377625658"
+            "variantID": "Spawn A Runner1779377625658",
+            "cooldown": "0"
           }
         ]
       },
@@ -904,7 +916,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Laser Clown1779377632216"
+            "variantID": "Spawn A Laser Clown1779377632216",
+            "cooldown": "0"
           }
         ]
       },
@@ -918,7 +931,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Blind Hunter1779377637272"
+            "variantID": "Spawn A Blind Hunter1779377637272",
+            "cooldown": "0"
           }
         ]
       },
@@ -932,7 +946,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Thinman1779377640898"
+            "variantID": "Spawn A Thinman1779377640898",
+            "cooldown": "0"
           }
         ]
       },
@@ -946,7 +961,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Duck1779377646084"
+            "variantID": "Spawn A Duck1779377646084",
+            "cooldown": "0"
           }
         ]
       },
@@ -960,7 +976,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Hidden1779377651433"
+            "variantID": "Spawn A Hidden1779377651433",
+            "cooldown": "0"
           }
         ]
       },
@@ -974,7 +991,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Robe1779377655930"
+            "variantID": "Spawn A Robe1779377655930",
+            "cooldown": "0"
           }
         ]
       },
@@ -988,7 +1006,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Blowtie1779377660686"
+            "variantID": "Spawn A Blowtie1779377660686",
+            "cooldown": "0"
           }
         ]
       },
@@ -1002,7 +1021,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn An Upscream1779377665821"
+            "variantID": "Spawn An Upscream1779377665821",
+            "cooldown": "0"
           }
         ]
       },
@@ -1016,7 +1036,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Mouth1779377670777"
+            "variantID": "Spawn A Mouth1779377670777",
+            "cooldown": "0"
           }
         ]
       },
@@ -1030,7 +1051,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Trudge1779377676695"
+            "variantID": "Spawn A Trudge1779377676695",
+            "cooldown": "0"
           }
         ]
       },
@@ -1044,7 +1066,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn An Alien1779377683316"
+            "variantID": "Spawn An Alien1779377683316",
+            "cooldown": "0"
           }
         ]
       },
@@ -1058,7 +1081,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn An Frog1779377690148"
+            "variantID": "Spawn An Frog1779377690148",
+            "cooldown": "0"
           }
         ]
       },
@@ -1072,7 +1096,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn An Animal1779377694847"
+            "variantID": "Spawn An Animal1779377694847",
+            "cooldown": "0"
           }
         ]
       },
@@ -1086,7 +1111,8 @@
             "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "Spawn A Rugrat1779377699004"
+            "variantID": "Spawn A Rugrat1779377699004",
+            "cooldown": "0"
           }
         ]
       }
