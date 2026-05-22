@@ -758,7 +758,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "100",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_revive0"
@@ -787,7 +787,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_discount0"
@@ -801,7 +801,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "Initiate Self Destruct1776902730501"
@@ -823,7 +823,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "10",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "REPO_destroyClosest0"
@@ -837,7 +837,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1776902755118",
