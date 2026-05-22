@@ -751,7 +751,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "200",
             "disabled": false,
             "type": "bits",
             "variantID": "Revive Player1779377556002",
