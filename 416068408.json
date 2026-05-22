@@ -827,7 +827,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "Destroy Closest Item1779377592282",
