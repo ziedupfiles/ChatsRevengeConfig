@@ -842,7 +842,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "30",
             "disabled": false,
             "type": "bits",
             "variantID": "Flashlight Off1779377597736",
