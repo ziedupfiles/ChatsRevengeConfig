@@ -676,11 +676,10 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "5",
+            "price": "10",
             "disabled": false,
             "type": "bits",
-            "variantID": "REPO_spawnGrenade0"
+            "variantID": "Spawn Live Grenade1779465417133"
           }
         ]
       },
