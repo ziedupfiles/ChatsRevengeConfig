@@ -796,7 +796,7 @@
         "input": false,
         "variants": [
           {
-            "price": "10",
+            "price": "300",
             "disabled": false,
             "type": "bits",
             "variantID": "Initiate Self Destruct1779377570402",
