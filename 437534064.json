@@ -724,7 +724,7 @@
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -732,7 +732,7 @@
             "price": "10",
             "type": "bits",
             "variantID": "REPO_heal0",
-            "disabled": true
+            "disabled": false
           }
         ]
       },
@@ -741,15 +741,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "20",
-            "type": "bits",
-            "variantID": "REPO_hurt0",
-            "disabled": true
-          }
-        ]
+        "variants": []
       },
       "Revive Player": {
         "id": "REPO_revive",
