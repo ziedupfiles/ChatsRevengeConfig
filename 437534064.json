@@ -694,7 +694,7 @@
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -724,28 +724,30 @@
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "10",
             "type": "bits",
-            "variantID": "REPO_heal0"
+            "variantID": "REPO_heal0",
+            "disabled": true
           }
         ]
       },
       "10 Damage To Player": {
         "id": "REPO_hurt",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "20",
             "type": "bits",
-            "variantID": "REPO_hurt0"
+            "variantID": "REPO_hurt0",
+            "disabled": true
           }
         ]
       },
