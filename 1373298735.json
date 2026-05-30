@@ -607,44 +607,88 @@
       "Teleport": {
         "id": "REPO_teleport",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Teleport1780166105331",
+            "cooldown": "360"
+          }
+        ]
       },
       "Lootbox": {
         "id": "REPO_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Lootbox1780166117689"
+          }
+        ]
       },
       "Spawn Live Grenade": {
         "id": "REPO_spawnGrenade",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Live Grenade1780166124725"
+          }
+        ]
       },
       "Spawn Live Mine": {
         "id": "REPO_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Live Mine1780166129508",
+            "cooldown": "10"
+          }
+        ]
       },
       "Give Random Weapon": {
         "id": "REPO_weapon",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Random Weapon1780166135937"
+          }
+        ]
       },
       "Heal Player": {
         "id": "REPO_heal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Heal Player1780166140916"
+          }
+        ]
       },
       "10 Damage To Player": {
         "id": "REPO_hurt",
@@ -656,9 +700,16 @@
       "Revive Player": {
         "id": "REPO_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Revive Player1780166198065"
+          }
+        ]
       },
       "Kill A Monster": {
         "id": "REPO_killememy",
@@ -670,9 +721,16 @@
       "50% Shop Discount": {
         "id": "REPO_discount",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "50% Shop Discount1780166214524"
+          }
+        ]
       },
       "Initiate Self Destruct": {
         "id": "REPO_selfDestruct",
@@ -684,9 +742,18 @@
       "Give Immunity": {
         "id": "REPO_immunity",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Give Immunity1780166225666",
+            "duration": "5",
+            "cooldown": "120"
+          }
+        ]
       },
       "Destroy Closest Item": {
         "id": "REPO_destroyClosest",
@@ -698,9 +765,17 @@
       "Flashlight Off": {
         "id": "REPO_lightsOff",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "10",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flashlight Off1780166247560",
+            "duration": "1"
+          }
+        ]
       },
       "Gnome Infestation": {
         "id": "REPO_gnomeInfestation",
