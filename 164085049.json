@@ -12,7 +12,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Turn off1781248743389",
-            "duration": "15"
+            "duration": "10"
           }
         ]
       },
@@ -42,7 +42,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1781248803215",
-            "duration": "9"
+            "duration": "11"
           }
         ]
       },
@@ -138,7 +138,7 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Shrink Window1781248850521",
-            "duration": "9"
+            "duration": "11"
           }
         ]
       },
@@ -1412,5 +1412,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": ""
 }
