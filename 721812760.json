@@ -4,179 +4,86 @@
       "Turn off": {
         "id": "monitor",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Turn off1782281655695",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "200",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Blur1782281661823",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Rotate": {
         "id": "rotate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "350",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Rotate1782281667165",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Remove monitor effect": {
         "id": "cancel_monitor",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1000",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Remove monitor effect1782281671860"
-          }
-        ]
+        "variants": []
       },
       "Minimize Window": {
         "id": "minimize",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "1000",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Minimize Window1782281676990"
-          }
-        ]
+        "variants": []
       },
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "50",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Open a Pop Up1782281684573"
-          }
-        ]
+        "variants": []
       },
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "100",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Glitch Window1782281693480",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Pixelate Window": {
         "id": "pixelate",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "200",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Pixelate Window1782281699427",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "900",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Lag Window1782281703593",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "350",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Shrink Window1782281707314",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "200",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Invert Colors1782281711686",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       },
       "Mirror Screen": {
         "id": "mirror",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "900",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Mirror Screen1782281715367",
-            "duration": "1"
-          }
-        ]
+        "variants": []
       }
     },
     "Input": {
@@ -970,7 +877,7 @@
       "Spawn A Runner": {
         "id": "REPO_runner",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -984,7 +891,7 @@
       "Spawn A Laser Clown": {
         "id": "REPO_clown",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -998,182 +905,195 @@
       "Spawn A Blind Hunter": {
         "id": "REPO_hunter",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_hunter0"
+            "variantID": "REPO_hunter0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Thinman": {
         "id": "REPO_thinman",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_thinman0"
+            "variantID": "REPO_thinman0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Duck": {
         "id": "REPO_duck",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_duck0"
+            "variantID": "REPO_duck0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Hidden": {
         "id": "REPO_hidden",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_hidden0"
+            "variantID": "REPO_hidden0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Robe": {
         "id": "REPO_robe",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_robe0"
+            "variantID": "REPO_robe0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Blowtie": {
         "id": "REPO_blowtie",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_blowtie0"
+            "variantID": "REPO_blowtie0",
+            "disabled": false
           }
         ]
       },
       "Spawn An Upscream": {
         "id": "REPO_upscream",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_upscream0"
+            "variantID": "REPO_upscream0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Mouth": {
         "id": "REPO_mouth",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_mouth0"
+            "variantID": "REPO_mouth0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Trudge": {
         "id": "REPO_trudge",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_trudge0"
+            "variantID": "REPO_trudge0",
+            "disabled": false
           }
         ]
       },
       "Spawn An Alien": {
         "id": "REPO_alien",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_alien0"
+            "variantID": "REPO_alien0",
+            "disabled": false
           }
         ]
       },
       "Spawn An Frog": {
         "id": "REPO_frog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_frog0"
+            "variantID": "REPO_frog0",
+            "disabled": false
           }
         ]
       },
       "Spawn An Animal": {
         "id": "REPO_animal",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_animal0"
+            "variantID": "REPO_animal0",
+            "disabled": false
           }
         ]
       },
       "Spawn A Rugrat": {
         "id": "REPO_rugrat",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "REPO_rugrat0"
+            "variantID": "REPO_rugrat0",
+            "disabled": false
           }
         ]
       }
