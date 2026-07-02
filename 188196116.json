@@ -350,8 +350,10 @@
         "input": false,
         "variants": [
           {
-            "duration": null,
-            "price": "300"
+            "price": "40",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Stormy1783012268645"
           }
         ]
       },
@@ -382,24 +384,38 @@
       "Eclipse": {
         "id": "lethalcompany_eclipse",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "40",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Eclipse1783012280654"
           }
         ]
       },
       "Flooded": {
         "id": "lethalcompany_flooded",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "40",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Flooded1783012303623"
           }
         ]
       },
@@ -435,7 +451,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "50",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Destroy All Held Items1783012308500"
           }
         ]
       },
@@ -447,7 +470,14 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Destroy Current Item1783012338301"
           }
         ]
       },
@@ -466,12 +496,19 @@
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "20",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Dog1783012349874"
           }
         ]
       },
@@ -490,12 +527,19 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "300",
+            "disabled": true
+          },
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Spawn Jester1783012364145"
           }
         ]
       },
@@ -1340,5 +1384,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": ""
 }
