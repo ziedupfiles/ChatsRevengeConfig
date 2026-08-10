@@ -19,9 +19,17 @@
       "Blur": {
         "id": "blur",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1786365882653",
+            "duration": "20"
+          }
+        ]
       },
       "Rotate": {
         "id": "rotate",
@@ -167,7 +175,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "0"
           }
         ]
       },
@@ -577,7 +585,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "0"
           }
         ]
       },
@@ -1348,5 +1356,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "noescapelive0"
 }
