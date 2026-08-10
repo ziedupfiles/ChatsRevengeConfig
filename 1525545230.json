@@ -1218,9 +1218,16 @@
       "Double Money": {
         "id": "firered_doubleBank",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "300",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Double Money1786365964799"
+          }
+        ]
       },
       "Half Money": {
         "id": "firered_halfBank",
