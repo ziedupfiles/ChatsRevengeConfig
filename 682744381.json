@@ -177,12 +177,12 @@
       "Create timeout": {
         "id": "timeout",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": true,
         "variants": [
           {
             "price": "500",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Create timeout1787389001896",
             "duration": "10",
