@@ -24,7 +24,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "250",
             "disabled": false,
             "type": "bits",
             "variantID": "Blur1787388877084",
@@ -40,7 +40,7 @@
         "input": false,
         "variants": [
           {
-            "price": "300",
+            "price": "150",
             "disabled": false,
             "type": "bits",
             "variantID": "Rotate1787388890859",
