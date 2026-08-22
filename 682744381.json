@@ -94,12 +94,12 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "price": "300",
-            "disabled": false,
+            "disabled": true,
             "type": "bits",
             "variantID": "Glitch Window1787388913771",
             "duration": "3",
