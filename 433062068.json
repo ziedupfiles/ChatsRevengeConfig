@@ -100,7 +100,8 @@
             "disabled": false,
             "type": "bits",
             "variantID": "Glitch Window1788454661546",
-            "duration": "30"
+            "duration": "30",
+            "cooldown": "60"
           }
         ]
       },
@@ -1443,5 +1444,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "deadmanphantasy"
 }
