@@ -49,14 +49,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300",
-            "type": "bits",
-            "variantID": "popup0"
-          }
-        ]
+        "variants": []
       },
       "Glitch Window": {
         "id": "glitch",
@@ -707,7 +700,7 @@
             "price": "10",
             "type": "bits",
             "variantID": "REPO_discount0",
-            "cooldown": "2000",
+            "cooldown": "1200",
             "disabled": false
           }
         ]
