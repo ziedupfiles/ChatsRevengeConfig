@@ -23,7 +23,7 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "20",
             "type": "bits",
             "variantID": "lethalcompany_teleportShip0",
             "cooldown": "1"
@@ -38,10 +38,10 @@
         "variants": [
           {
             "duration": null,
-            "price": 1,
+            "price": "30",
             "type": "bits",
             "variantID": "lethalcompany_leaveEarly0",
-            "cooldown": "1"
+            "cooldown": "15"
           }
         ]
       },
