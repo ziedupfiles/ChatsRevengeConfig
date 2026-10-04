@@ -106,12 +106,7 @@
         "unique": true,
         "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       }
     },
     "Timeout": {
@@ -127,12 +122,7 @@
         "unique": true,
         "disabled": true,
         "input": true,
-        "variants": [
-          {
-            "duration": null,
-            "price": "300"
-          }
-        ]
+        "variants": []
       }
     },
     "Lethal Company": {
