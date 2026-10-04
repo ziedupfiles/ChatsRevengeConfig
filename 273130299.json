@@ -57,7 +57,7 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -69,7 +69,7 @@
       "Glitch Window": {
         "id": "glitch",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
