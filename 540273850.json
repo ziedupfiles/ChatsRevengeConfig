@@ -188,7 +188,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300"
+            "price": "5"
           }
         ]
       }
@@ -1404,5 +1404,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "youreomi"
 }
