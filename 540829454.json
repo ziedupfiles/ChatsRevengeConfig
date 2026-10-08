@@ -757,7 +757,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
             "variantID": "REPO_revive0"
           }
@@ -771,7 +771,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "150",
             "type": "bits",
             "variantID": "REPO_killememy0"
           }
@@ -944,7 +944,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "50",
             "type": "bits",
             "variantID": "REPO_duck0"
           }
@@ -958,7 +958,7 @@
         "variants": [
           {
             "duration": null,
-            "price": "300",
+            "price": "200",
             "type": "bits",
             "variantID": "REPO_hidden0"
           }
@@ -1533,5 +1533,6 @@
     "Delete": false,
     "Control": false,
     "BackSpace": false
-  }
+  },
+  "username": "LordOfMars1"
 }
