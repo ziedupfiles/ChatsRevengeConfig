@@ -80,13 +80,12 @@
       "Open a Pop Up": {
         "id": "popup",
         "unique": true,
-        "disabled": false,
+        "disabled": true,
         "input": false,
         "variants": [
           {
             "duration": null,
             "price": "300",
-            "cooldown": "120",
             "type": "bits",
             "variantID": "popup0"
           }
@@ -184,18 +183,9 @@
       "Block mouse": {
         "id": "block_mouse",
         "unique": false,
-        "disabled": false,
+        "disabled": true,
         "input": false,
-        "variants": [
-          {
-            "price": "300",
-            "disabled": false,
-            "type": "bits",
-            "variantID": "Block mouse1792534912278",
-            "duration": "120",
-            "cooldown": "300"
-          }
-        ]
+        "variants": []
       },
       "block keyboard": {
         "id": "block_keyboard",
@@ -214,8 +204,7 @@
             "duration": null,
             "price": "300",
             "type": "bits",
-            "variantID": "cancel_keyboard0",
-            "cooldown": "320"
+            "variantID": "cancel_keyboard0"
           }
         ]
       }
