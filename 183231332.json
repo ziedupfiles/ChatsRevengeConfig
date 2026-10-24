@@ -190,7 +190,7 @@
       "Spawn Mine": {
         "id": "lethalcompany_spawnMine",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -202,7 +202,7 @@
       "Revive All Players": {
         "id": "lethalcompany_revive",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -226,7 +226,7 @@
       "Double Credits": {
         "id": "lethalcompany_doubleCredits",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -250,7 +250,7 @@
       "Bug Infestation": {
         "id": "lethalcompany_bugs",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -262,7 +262,7 @@
       "Lootbox": {
         "id": "lethalcompany_lootbox",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -346,7 +346,7 @@
       "Stormy": {
         "id": "lethalcompany_stormy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -358,7 +358,7 @@
       "Foggy": {
         "id": "lethalcompany_foggy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -370,7 +370,7 @@
       "Rainy": {
         "id": "lethalcompany_rainy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -418,7 +418,7 @@
       "Fake Random Action": {
         "id": "lethalcompany_fakeAction",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -454,7 +454,7 @@
       "Immunity": {
         "id": "lethalcompany_immunity",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -466,7 +466,7 @@
       "Spawn Dog": {
         "id": "lethalcompany_spawnDog",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -478,7 +478,7 @@
       "Spawn Bee Hive": {
         "id": "lethalcompany_spawnBees",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -490,7 +490,7 @@
       "Spawn Jester": {
         "id": "lethalcompany_spawnJester",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -502,7 +502,7 @@
       "Spawn Coilhead": {
         "id": "lethalcompany_spawnCoilhead",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -514,7 +514,7 @@
       "Spawn Spider": {
         "id": "lethalcompany_spawnSpider",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -526,7 +526,7 @@
       "Spawn Bracken": {
         "id": "lethalcompany_spawnBracken",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -538,7 +538,7 @@
       "Spawn Nutcracker": {
         "id": "lethalcompany_spawnNutcracker",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
@@ -550,7 +550,7 @@
       "Kill Enemy": {
         "id": "lethalcompany_killEnemy",
         "unique": true,
-        "disabled": true,
+        "disabled": false,
         "input": false,
         "variants": [
           {
