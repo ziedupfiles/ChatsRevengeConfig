@@ -21,6 +21,14 @@
             "variantID": "Blur1794881624627",
             "duration": "30",
             "cooldown": "300"
+          },
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Blur1794881801019",
+            "duration": "80",
+            "cooldown": "500"
           }
         ]
       },
