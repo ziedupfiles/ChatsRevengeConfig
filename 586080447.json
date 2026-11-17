@@ -137,23 +137,50 @@
       "Lag Window": {
         "id": "lag",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Lag Window1794882046803",
+            "duration": "15",
+            "cooldown": "200"
+          }
+        ]
       },
       "Shrink Window": {
         "id": "ant",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "100",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Shrink Window1794882109443",
+            "duration": "30",
+            "cooldown": "300"
+          }
+        ]
       },
       "Invert Colors": {
         "id": "negative",
         "unique": false,
-        "disabled": true,
+        "disabled": false,
         "input": false,
-        "variants": []
+        "variants": [
+          {
+            "price": "150",
+            "disabled": false,
+            "type": "bits",
+            "variantID": "Invert Colors1794882125539",
+            "duration": "60",
+            "cooldown": "400"
+          }
+        ]
       },
       "Mirror Screen": {
         "id": "mirror",
